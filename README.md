@@ -32,3 +32,4 @@ Join us for the first exclusive event that brings together discussions on docker
 ## Mini-Hacks  
 
 TBA: List of potential ideas with [links to code](https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/)
+Clone, commit and push please.  
