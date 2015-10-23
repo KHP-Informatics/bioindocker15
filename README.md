@@ -5,7 +5,6 @@
 Eventbrite: http://www.eventbrite.co.uk/e/bio-in-docker-symposium-2015-tickets-16296680811
 Twitter: [@bioindocker15](https://twitter.com/bioindocker15)
 
-
 Docker is now establishing itself as the de facto solution for containerization across a wide range of domains. The advantages are attractive, from reproducible research to simplifying deployment of complex code.
 This event will bring together some notable cases to discuss how advantage of this new technology can best be achieved within the Bioinformatics space.  
 
@@ -27,3 +26,7 @@ Join us for the first exclusive event that brings together discussions on docker
 **Getting There:**http://wellcomecollection.org/visit-us/getting-here
 
 **Latest Conference Agenda:**https://goo.gl/LpH07s
+
+****
+
+## Mini-Hacks
