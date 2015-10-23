@@ -3,7 +3,7 @@
 ...work in progress..
 
 Eventbrite: http://www.eventbrite.co.uk/e/bio-in-docker-symposium-2015-tickets-16296680811
-Twitter: []@bioindocker15](https://twitter.com/bioindocker15)
+Twitter: [@bioindocker15](https://twitter.com/bioindocker15)
 
 
 Docker is now establishing itself as the de facto solution for containerization across a wide range of domains. The advantages are attractive, from reproducible research to simplifying deployment of complex code.
