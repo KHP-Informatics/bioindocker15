@@ -29,4 +29,6 @@ Join us for the first exclusive event that brings together discussions on docker
 
 ****
 
-## Mini-Hacks
+## Mini-Hacks  
+
+TBA: List of potential ideas with links to code
