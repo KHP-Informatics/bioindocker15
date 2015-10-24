@@ -29,13 +29,15 @@ Join us for the first exclusive event that brings together discussions on docker
 
 ****
 
-## Aims
+## Aims (what we wan to get out of the meeting)
 Placeholder of my (SJN) current thoughts. Please contribute.  
 
 - Index of Docker/VM Bioinformatics projetcs  
 - F1000 Channel  
 - API  
 - Adapt/Adopt/Customise CWL for multi component Docker pipelines  
+- RFC  
+
 
 ## Mini-Hacks  
 
