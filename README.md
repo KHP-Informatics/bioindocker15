@@ -33,10 +33,11 @@ Join us for the first exclusive event that brings together discussions on docker
 Placeholder of my (snewhouse) current thoughts. Please contribute.  
 
 - Index of Docker/VM Bioinformatics projetcs  
-- F1000 Channel  
+- F1000 Channel, Editorial and Slide Share    
 - API  
-- Adapt/Adopt/Customise CWL for multi component Docker pipelines  
+- Adapt/Adopt [CWL](https://github.com/common-workflow-language/common-workflow-language) for multi component Docker pipelines  
 - RFC  
+
 
 
 ## Mini-Hacks  
