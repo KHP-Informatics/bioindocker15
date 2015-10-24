@@ -29,8 +29,8 @@ Join us for the first exclusive event that brings together discussions on docker
 
 ****
 
-## Aims (what we wan to get out of the meeting)
-Placeholder of my (SJN) current thoughts. Please contribute.  
+## Aims (what we want to get out of the meeting)
+Placeholder of my (snewhouse) current thoughts. Please contribute.  
 
 - Index of Docker/VM Bioinformatics projetcs  
 - F1000 Channel  
@@ -42,4 +42,10 @@ Placeholder of my (SJN) current thoughts. Please contribute.
 ## Mini-Hacks  
 
 TBA: List of potential ideas with [links to code](https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/)
-Clone, commit and push please.  
+Clone, commit and push please.
+
+- http://www.nextflow.io/  
+- http://kubernetes.io/    
+- Jetbrains MPS, nextflow, docker integration demo and tutorial    
+- Flocker by https://clusterhq.com/  
+- ...
