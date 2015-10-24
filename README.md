@@ -29,6 +29,14 @@ Join us for the first exclusive event that brings together discussions on docker
 
 ****
 
+## Aims
+Placeholder of my (SJN) current thoughts. Please contribute.  
+
+- Index of Docker/VM Bioinformatics projetcs  
+- F1000 Channel  
+- API  
+- Adapt/Adopt/Customise CWL for multi component Docker pipelines  
+
 ## Mini-Hacks  
 
 TBA: List of potential ideas with [links to code](https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/)
