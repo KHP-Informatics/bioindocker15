@@ -39,6 +39,7 @@ Placeholder of my (snewhouse) current thoughts. Please contribute.
 - API  
 - Adapt/Adopt [CWL](https://github.com/common-workflow-language/common-workflow-language) for multi component Docker pipelines  
 - RFC  
+- ...
 
 ## Mini-Hacks, Demos and Tutorials
 I have made a start. Please contribute.
