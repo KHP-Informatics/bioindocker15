@@ -69,6 +69,7 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [Jess Frazelle (jfrazelle) - Dockerfiles ](https://github.com/jfrazelle/dockerfiles)  
 - [Mac OS X Dev Setup](https://github.com/jfrazelle/mac-dev-setup)  
 - [Too Much Fun With Docker](http://www.carlboettiger.info/2014/08/07/too-much-fun-with-docker.html)  
+- [Autocode  - open source code generator for every language and framework.](http://crystal.sh/#intro)  
 - ...
 
 ## Participating Organizations
