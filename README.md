@@ -64,6 +64,7 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [Björn Grüning - Dockerfiles for Bio- & Cheminformatics & Galaxy ](https://github.com/bgruening)  
 - [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)  
 - [CloudBioLinux: configure virtual (or real) machines with tools for biological analyses](https://github.com/chapmanb/cloudbiolinux)  
+- [bcbio-nextgen - community developed variant calling and RNA-seq analysis](https://github.com/chapmanb/bcbio-nextgen)  
 - ...
 
 ## Docker Related stuff and Other Geeky-type Fun
