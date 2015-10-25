@@ -54,7 +54,7 @@ Clone, commit and push please.
 - Flocker by https://clusterhq.com/  
 - ...
 
-## Index of Docker & Related Projects for Informatics  
+## Index of Dockered & Related Projects for Informatics  
 I have made a start. Please contribute your own repositories and knowledge.  
 
 - [BioDocker - BioDocker.github.io](https://github.com/BioDocker/BioDocker.github.io)  
@@ -63,9 +63,10 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [Campagne Laboratory](https://github.com/CampagneLaboratory)  
 - [Björn Grüning - Dockerfiles for Bio- & Cheminformatics & Galaxy ](https://github.com/bgruening)  
 - [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)  
+- [CloudBioLinux: configure virtual (or real) machines with tools for biological analyses](https://github.com/chapmanb/cloudbiolinux)  
 - ...
 
-## Docker Related and Other Geeky-type Fun
+## Docker Related stuff and Other Geeky-type Fun
 - [Jess Frazelle (jfrazelle) - Dockerfiles ](https://github.com/jfrazelle/dockerfiles)  
 - [Mac OS X Dev Setup (jfrazelle)](https://github.com/jfrazelle/mac-dev-setup)  
 - [Too Much Fun With Docker](http://www.carlboettiger.info/2014/08/07/too-much-fun-with-docker.html)  
