@@ -65,7 +65,7 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)  
 - ...
 
-## Docker realted and Other Geeky-type Fun
+## Docker Related and Other Geeky-type Fun
 - [Jess Frazelle (jfrazelle) - Dockerfiles ](https://github.com/jfrazelle/dockerfiles)  
 - [Mac OS X Dev Setup](https://github.com/jfrazelle/mac-dev-setup)  
 - [Too Much Fun With Docker](http://www.carlboettiger.info/2014/08/07/too-much-fun-with-docker.html)  
