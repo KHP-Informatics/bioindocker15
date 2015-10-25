@@ -41,6 +41,7 @@ Placeholder of my (snewhouse) current thoughts. Please contribute.
 - RFC  
 
 ## Mini-Hacks, Demos and Tutorials
+I have made a start. Please contribute.
 
 TBA: List of potential ideas with [links to code](https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/)
 Clone, commit and push please.
@@ -53,6 +54,17 @@ Clone, commit and push please.
 - Jetbrains MPS, nextflow, docker integration demo and tutorial ([Fabien Campagne](http://campagnelab.org/pi-contact/))      
 - Flocker by https://clusterhq.com/  
 - ...
+
+## The problem with Informatic pipelines  
+I have made a start. Please contribute.
+- Reproducible ?
+- Mutli-component  
+- Each component written in a different Language  (python, java etc etc)
+- Each component requires multiple inputs
+- Each component produces multiple outputs   
+- Disk I/O (pipes)  
+- Large files eg. for NGS  10's-100's GB per input/output  
+- Pipeline components often require access to large shared data and databases (eg NGS Reference Genomes and annotation files)
 
 ## Index of Dockered & Related Projects for Informatics  
 I have made a start. Please contribute your own repositories and knowledge.  
