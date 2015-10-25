@@ -1,5 +1,7 @@
 # [Bio in Docker] Symposium 2015
 
+[![Join the chat at https://gitter.im/KHP-Informatics/bioindocker15](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/KHP-Informatics/bioindocker15?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ...work in progress..
 
 Eventbrite: http://www.eventbrite.co.uk/e/bio-in-docker-symposium-2015-tickets-16296680811
@@ -38,8 +40,6 @@ Placeholder of my (snewhouse) current thoughts. Please contribute.
 - Adapt/Adopt [CWL](https://github.com/common-workflow-language/common-workflow-language) for multi component Docker pipelines  
 - RFC  
 
-
-
 ## Mini-Hacks  
 
 TBA: List of potential ideas with [links to code](https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/)
@@ -50,3 +50,8 @@ Clone, commit and push please.
 - Jetbrains MPS, nextflow, docker integration demo and tutorial    
 - Flocker by https://clusterhq.com/  
 - ...
+
+
+## Participating Organizations
+
+## Individual Contributors
