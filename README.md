@@ -47,12 +47,12 @@ Clone, commit and push please.
 
 - [A hands-on introduction to Docker](https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst)  
 - [Training in Docker from Docker](https://training.docker.com/self-paced-training)  
+- [rocker-org - "rocker": R in Docker](https://github.com/rocker-org)  
 - http://www.nextflow.io/  
 - http://kubernetes.io/    
 - Jetbrains MPS, nextflow, docker integration demo and tutorial ([Fabien Campagne](http://campagnelab.org/pi-contact/))      
 - Flocker by https://clusterhq.com/  
 - ...
-
 
 ## Participating Organizations
 I have made a start. Please contribute  
@@ -64,7 +64,7 @@ I have made a start. Please contribute
 - Stephen J Newhouse <stephen.j.newhouse@gmail.com>  
 - ...
 
-## Index of Docker & Related Projects
+## Index of Docker & Related Projects for Informatics  
 I have made a start. Please contribute your own repositories and knowledge.  
 
 - [BioDocker - BioDocker.github.io](https://github.com/BioDocker/BioDocker.github.io)  
@@ -72,7 +72,11 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [bioboxes](https://github.com/bioboxes)  
 - [Campagne Laboratory](https://github.com/CampagneLaboratory)  
 - [Björn Grüning - Dockerfiles for Bio- & Cheminformatics & Galaxy ](https://github.com/bgruening)  
+- [rocker-org - "rocker": R in Docker](https://github.com/rocker-org)  
 - ...
 
-## Docker Fun
+## Docker realted and Other Geeky-type Fun
 - [Jess Frazelle (jfrazelle) - Dockerfiles ](https://github.com/jfrazelle/dockerfiles)  
+- [Mac OS X Dev Setup](https://github.com/jfrazelle/mac-dev-setup)  
+- [Too Much Fun With Docker](http://www.carlboettiger.info/2014/08/07/too-much-fun-with-docker.html)  
+- ...
