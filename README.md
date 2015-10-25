@@ -53,8 +53,14 @@ Clone, commit and push please.
 
 
 ## Participating Organizations
+I have made a start. Please contribute  
+- [NIHR BRC-MH Bioinformatics Group](https://github.com/KHP-Informatics)  
+- ...
 
 ## Individual Contributors
+I have made a start. Please contribute  
+- Stephen J Newhouse <stephen.j.newhouse@gmail.com>  
+- ...
 
 ## Index
 I have made a start. Please contribute your own repositories and knowledge.  
