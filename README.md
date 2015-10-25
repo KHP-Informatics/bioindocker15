@@ -54,16 +54,6 @@ Clone, commit and push please.
 - Flocker by https://clusterhq.com/  
 - ...
 
-## Participating Organizations
-I have made a start. Please contribute  
-- [NIHR BRC-MH Bioinformatics Group](https://github.com/KHP-Informatics)  
-- ...
-
-## Individual Contributors
-I have made a start. Please contribute  
-- Stephen J Newhouse <stephen.j.newhouse@gmail.com>  
-- ...
-
 ## Index of Docker & Related Projects for Informatics  
 I have made a start. Please contribute your own repositories and knowledge.  
 
@@ -79,4 +69,14 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [Jess Frazelle (jfrazelle) - Dockerfiles ](https://github.com/jfrazelle/dockerfiles)  
 - [Mac OS X Dev Setup](https://github.com/jfrazelle/mac-dev-setup)  
 - [Too Much Fun With Docker](http://www.carlboettiger.info/2014/08/07/too-much-fun-with-docker.html)  
+- ...
+
+## Participating Organizations
+I have made a start. Please contribute  
+- [NIHR BRC-MH Bioinformatics Group](https://github.com/KHP-Informatics)  
+- ...
+
+## Individual Contributors
+I have made a start. Please contribute  
+- Stephen J Newhouse <stephen.j.newhouse@gmail.com>  
 - ...
