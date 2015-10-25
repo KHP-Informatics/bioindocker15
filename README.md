@@ -59,12 +59,16 @@ Clone, commit and push please.
 I have made a start. Please contribute.
 - Reproducible ?
 - Mutli-component  
-- Each component written in a different Language  (python, java etc etc)
-- Each component requires multiple inputs
-- Each component produces multiple outputs   
+- Each component/tool written in a different Language  (python, java etc etc)
+- Each component/tool has multiple options for tweaking the input and output  
+- Each component/tool requires multiple inputs
+- Each component/tool produces multiple outputs   
 - Disk I/O (pipes)  
 - Large files eg. for NGS  10's-100's GB per input/output  
 - Pipeline components often require access to large shared data and databases (eg NGS Reference Genomes and annotation files)
+- Binaries not often available, requires build from source  
+- Not easy to set up and reproduce for non-informaticians
+- *Can be hard for informaticians if code is bad, dependency heavy, undocumented or requires very specific versions of OS's etc*
 
 ## Index of Dockered & Related Projects for Informatics  
 I have made a start. Please contribute your own repositories and knowledge.  
