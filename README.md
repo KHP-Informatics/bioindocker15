@@ -47,7 +47,7 @@ Clone, commit and push please.
 
 - [A hands-on introduction to Docker](https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst)  
 - [Training in Docker from Docker](https://training.docker.com/self-paced-training)  
-- [rocker-org - "rocker": R in Docker](https://github.com/rocker-org)  
+- [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)  
 - http://www.nextflow.io/  
 - http://kubernetes.io/    
 - Jetbrains MPS, nextflow, docker integration demo and tutorial ([Fabien Campagne](http://campagnelab.org/pi-contact/))      
@@ -72,7 +72,7 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [bioboxes](https://github.com/bioboxes)  
 - [Campagne Laboratory](https://github.com/CampagneLaboratory)  
 - [Björn Grüning - Dockerfiles for Bio- & Cheminformatics & Galaxy ](https://github.com/bgruening)  
-- [rocker-org - "rocker": R in Docker](https://github.com/rocker-org)  
+- [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)  
 - ...
 
 ## Docker realted and Other Geeky-type Fun
