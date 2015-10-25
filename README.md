@@ -40,14 +40,16 @@ Placeholder of my (snewhouse) current thoughts. Please contribute.
 - Adapt/Adopt [CWL](https://github.com/common-workflow-language/common-workflow-language) for multi component Docker pipelines  
 - RFC  
 
-## Mini-Hacks  
+## Mini-Hacks, Demos and Tutorials
 
 TBA: List of potential ideas with [links to code](https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/)
 Clone, commit and push please.
 
+- [A hands-on introduction to Docker](https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst)  
+- [Training in Docker from Docker](https://training.docker.com/self-paced-training)  
 - http://www.nextflow.io/  
 - http://kubernetes.io/    
-- Jetbrains MPS, nextflow, docker integration demo and tutorial    
+- Jetbrains MPS, nextflow, docker integration demo and tutorial ([Fabien Campagne](http://campagnelab.org/pi-contact/))      
 - Flocker by https://clusterhq.com/  
 - ...
 
@@ -69,4 +71,8 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)  
 - [bioboxes](https://github.com/bioboxes)  
 - [Campagne Laboratory](https://github.com/CampagneLaboratory)  
-- [Björn Grüning - Dockerfiles for Bio- & Cheminformatics & Galaxy ](https://github.com/bgruening)
+- [Björn Grüning - Dockerfiles for Bio- & Cheminformatics & Galaxy ](https://github.com/bgruening)  
+- ...
+
+## Docker Fun
+- [Jess Frazelle (jfrazelle) - Dockerfiles ](https://github.com/jfrazelle/dockerfiles)  
