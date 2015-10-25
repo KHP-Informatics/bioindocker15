@@ -62,7 +62,7 @@ I have made a start. Please contribute
 - Stephen J Newhouse <stephen.j.newhouse@gmail.com>  
 - ...
 
-## Index
+## Index of Docker & Related Projects
 I have made a start. Please contribute your own repositories and knowledge.  
 
 - [BioDocker - BioDocker.github.io](https://github.com/BioDocker/BioDocker.github.io)  
