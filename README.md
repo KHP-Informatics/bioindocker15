@@ -50,10 +50,12 @@ Clone, commit and push please.
 - [A hands-on introduction to Docker](https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst)  
 - [Training in Docker from Docker](https://training.docker.com/self-paced-training)  
 - [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)  
-- http://www.nextflow.io/  
-- http://kubernetes.io/    
+- [nextflow](http://www.nextflow.io/)  
+- [kubernetes](http://kubernetes.io/)    
 - Jetbrains MPS, nextflow, docker integration demo and tutorial ([Fabien Campagne](http://campagnelab.org/pi-contact/))      
 - Flocker by https://clusterhq.com/  
+- [Jetstack]()  
+- [weave]()  
 - ...
 
 ## The problem with Informatic pipelines  
@@ -72,6 +74,8 @@ I have made a start. Please contribute.
 - Not easy to set up and reproduce for non-informaticians  
 - *Can be hard for informaticians if code is bad, dependency heavy, undocumented or requires very specific versions of OS's and software etc*
 - Often Suffers from: *"But It works on my Machine??"*  
+
+## Security  
 
 ## Index of Dockered & Related Projects for Informatics  
 I have made a start. Please contribute your own repositories and knowledge.  
