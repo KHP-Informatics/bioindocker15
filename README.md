@@ -99,6 +99,8 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)  
 - [CloudBioLinux: configure virtual (or real) machines with tools for biological analyses](https://github.com/chapmanb/cloudbiolinux)  
 - [bcbio-nextgen - community developed variant calling and RNA-seq analysis](https://github.com/chapmanb/bcbio-nextgen)  
+- [2015-09-04-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-1-Design-Considerations](https://github.com/catalyzeio/engineering-blog/blob/master/source/2015-09-04-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-1-Design-Considerations.html.markdown)
+- [2015-09-18-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-2-Implementation](https://github.com/catalyzeio/engineering-blog/blob/master/source/2015-09-18-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-2-Implementation.html.markdown)  
 - ...
 
 ## Docker Related stuff and Other Geeky-type Fun
