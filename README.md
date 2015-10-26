@@ -77,11 +77,16 @@ I have made a start. Please contribute.
 - Often Suffers from: *"But It works on my Machine??"*  
 
 ## Security  
-**Only trusted users should be allowed 1) Access to HPC and 2) To control your Docker daemon**
-
 - [Docker security](https://docs.docker.com/articles/security/)  
 - [Hypervisor-agnostic Docker Engine_](https://hyper.sh/)  
 - ...
+
+Some random thoughts...  
+**Only trusted users should be allowed 1) Access to HPC and 2) To control your Docker daemon**.  
+Who is the malicious Hacker that will delete all files and take down your system or make it all public?
+Lets make breaches of security a criminal offence.
+In the Academic (Bio)Informatic world, most users are basic or clinician scientists with little computer skill.
+We the sys. admins and trusted informaticians should set up the pipelines and provide users with push button solutions. We should control what gets run and when, so that all a user has to do is log in and select a pipeline to run on their data.
 
 ## Index of Dockered & Related Projects for Informatics  
 I have made a start. Please contribute your own repositories and knowledge.  
