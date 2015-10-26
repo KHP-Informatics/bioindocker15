@@ -50,6 +50,7 @@ Clone, commit and push please.
 - [A hands-on introduction to Docker](https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst)  
 - [Training in Docker from Docker](https://training.docker.com/self-paced-training)  
 - [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)  
+- Intel: Hack using docker on arduino for stream processing NGS sequence data.  
 - [nextflow](http://www.nextflow.io/)  
 - [kubernetes](http://kubernetes.io/)    
 - Jetbrains MPS, nextflow, docker integration demo and tutorial ([Fabien Campagne](http://campagnelab.org/pi-contact/))      
