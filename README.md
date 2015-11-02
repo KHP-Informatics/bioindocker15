@@ -34,7 +34,7 @@ Join us for the first exclusive event that brings together discussions on docker
 ## Aims (what we want to get out of the meeting)
 There is a BioInDocker15 team which you can request access to [https://github.com/orgs/KHP-Informatics/teams/bioindocker15](https://github.com/orgs/KHP-Informatics/teams/bioindocker15)
 
-Placeholder of my (snewhouse) current thoughts. Please contribute.  
+Please contribute.  
 
 - An understanding of current uses of Docker in the Bio/Informatics world
 - Index of Docker/VM Bioinformatics projetcs  
@@ -45,41 +45,49 @@ Placeholder of my (snewhouse) current thoughts. Please contribute.
 - ...
 
 ## Mini-Hacks, Demos and Tutorials
-I have made a start. Please contribute if you'd like to .
+I have made a start. Please contribute if you'd like to.
+
+These are suggestions we have put together from our poll or attendees and some ideas myself and Steve had. We have requested one or more some of the speakers to run a session, we'll try and get an idea of who is interested in participating in which session before the end of the first day.  
+
+###Hackday Resources
+- [x] AWS EC2 VMs (available on request)
+- [x] Intel Edison boards 
+- [x] Laptops BYOD (but the venue kindly asks that they are PAT-tested)
+- [x] This git repository (but created others as needed and we'll link to them here)
 
 TBA: List of potential ideas with [links to code](https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/)
 Clone, commit and push please.
 
-### Hackday Topic 1: Orchastration and Multi-container Workflows 
+### Hackday Topic 1: orchastration and multi-container workflows 
 (Paolo Di Tommasso, Nebojsa Tijanic, Brad Chapman, Yannick Wurm, Steven Newhouse, Amos Folarin)
 - [nextflow](http://www.nextflow.io/)
 - [Rabix] (https://www.rabix.org/#/)
 - [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
 
-### Hackday Topic 2: Specifications For Bio/Informatics Containers
+### Hackday Topic 2: specifications for bio/informatics containers
 (Peter Belmann)
 - [BioBoxes](http://bioboxes.org/)
 - [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker) 
 
-## Hackday Topic 3: Security and Using Docker in Multi-user environments
+## Hackday Topic 3: security and using Docker in multi-user environments
 (Aanand Prassad? **Other volunteers**?)
 - [#15187 User namespaces in experimental branch](https://github.com/docker/docker/wiki/Engine-1.9.0)
 - [Docker security](https://docs.docker.com/articles/security/)  
 - [Hypervisor-agnostic Docker Engine_](https://hyper.sh/)  
 - ...
 
-### Hackday Topic 4: Community requirements
+### Hackday Topic 4: bio/informatics Docker users community requirements
 (Thomas Ingraham, Michael Markie)
 - [Docker F1000 Channel for Docker publications](http://f1000research.com/channels/containers)
 - If separation from DockerHub is needed (I don't think so myself) [Portus](https://github.com/SUSE/Portus)
 
-### Hackday Dojo 1: Introduction to Docker
+### Hackday Tutorial 1: introduction to Docker
 (Anand Prassad, Kai Davenport)
 - [A hands-on introduction to Docker](https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst)  
 - [Training in Docker from Docker](https://training.docker.com/self-paced-training)  
  
 
-### Hackday Dojo 2: Advanced Docker Concepts Dojo
+### Hackday Tutorial 2: advanced Docker concepts
 (Matt Bates, Matt Barker, Alfonso Acosta Kai Davenport)
 - [Flocker by ClusterHQ](https://clusterhq.com/)
 - [Jetstack](http://www.jetstack.io/)
@@ -88,9 +96,11 @@ Clone, commit and push please.
 
 
 ###Other hackday Suggestions (**need fleshing out**)
-- Intel: Hack using docker on arduino for stream processing NGS sequence data.  
+- Intel: Hack using docker Intel Edison boards (we have some of these to distribute) if you want to participate in this. Intel are interested in applying this for stream processing NGS sequence data(?). **@elij to Elaborate**  
 - [Jetbrains MPS, nextflow, docker integration demo and tutorial, Fabien Campagne](http://campagnelab.org/pi-contact/))      
 - ...
+
+
 
 ## The problem with Informatic pipelines  
 I have made a start. Please contribute.
