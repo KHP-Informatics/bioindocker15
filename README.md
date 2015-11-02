@@ -144,6 +144,7 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [Best Practices for Scientific Computing](http://www.plosbiology.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pbio.1001745&representation=PDF)   
 - [A Quick Guide to Organizing Computational Biology Projects](http://www.ploscompbiol.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1000424&representation=PDF)  
 - [Ten Simple Rules for Reproducible Computational Research](http://www.ploscompbiol.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1003285&representation=PDF)    
+- [Docker Ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem)
 - ...
 
 ## Participating Organizations
@@ -155,3 +156,10 @@ I have made a start. Please contribute
 I have made a start. Please contribute  
 - Stephen J Newhouse <stephen.j.newhouse@gmail.com>  
 - ...
+
+# Event Sponsors
+- [Genomics England](http://www.genomicsengland.co.uk/)
+- [Software Sustainability Institute](http://www.software.ac.uk/)
+- [Intel](http://www.intel.com/)
+- [Docker](https://www.docker.com/)
+
