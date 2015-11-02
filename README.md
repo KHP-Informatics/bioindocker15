@@ -108,7 +108,10 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [Jess Frazelle (jfrazelle) - Dockerfiles ](https://github.com/jfrazelle/dockerfiles)  
 - [Mac OS X Dev Setup (jfrazelle)](https://github.com/jfrazelle/mac-dev-setup)  
 - [Too Much Fun With Docker](http://www.carlboettiger.info/2014/08/07/too-much-fun-with-docker.html)  
-- [Autocode  - open source code generator for every language and framework.](http://crystal.sh/#intro)  
+- [Autocode  - open source code generator for every language and framework.](http://crystal.sh/#intro)
+- [Best Practices for Scientific Computing](http://www.plosbiology.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pbio.1001745&representation=PDF)   
+- [A Quick Guide to Organizing Computational Biology Projects](http://www.ploscompbiol.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1000424&representation=PDF)  
+- [Ten Simple Rules for Reproducible Computational Research](http://www.ploscompbiol.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1003285&representation=PDF)    
 - ...
 
 ## Participating Organizations
