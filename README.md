@@ -15,7 +15,7 @@ Day two will additionally include an afternoon mini-hackday to introduce, demons
 
 Throughout the course of the event we would like to identify where common goals exist in the bioinformatics arena and explore how efforts in containerized solutions could be aligned by establishing a community of Docker users and resources (with a similar function to that of Bioconductor for R). This could include:  
 
-- Communal resopositories  
+- Communal repositories  
 - Documentation and tutorials  
 - Forums  
 
