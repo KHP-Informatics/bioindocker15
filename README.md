@@ -32,31 +32,61 @@ Join us for the first exclusive event that brings together discussions on docker
 ****
 
 ## Aims (what we want to get out of the meeting)
+There is a BioInDocker15 team which you can request access to [https://github.com/orgs/KHP-Informatics/teams/bioindocker15](https://github.com/orgs/KHP-Informatics/teams/bioindocker15)
+
 Placeholder of my (snewhouse) current thoughts. Please contribute.  
 
+- An understanding of current uses of Docker in the Bio/Informatics world
 - Index of Docker/VM Bioinformatics projetcs  
-- F1000 Channel, Editorial and Slide Share    
-- API  
+- F1000 Channel, Editorial and Slide Share (and perhaps a short paper documenting the presented work?)
+- Bioinformatics Container Specification/API (e.g. [BioBoxes](http://bioboxes.org/))  
 - Adapt/Adopt [CWL](https://github.com/common-workflow-language/common-workflow-language) for multi component Docker pipelines  
 - RFC  
 - ...
 
 ## Mini-Hacks, Demos and Tutorials
-I have made a start. Please contribute.
+I have made a start. Please contribute if you'd like to .
 
 TBA: List of potential ideas with [links to code](https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/)
 Clone, commit and push please.
 
+### Hackday Topic 1: Orchastration and Multi-container Workflows 
+(Paolo Di Tommasso, Nebojsa Tijanic, Brad Chapman, Yannick Wurm, Steven Newhouse, Amos Folarin)
+- [nextflow](http://www.nextflow.io/)
+- [Rabix] (https://www.rabix.org/#/)
+- [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
+
+## Hackday Topic 3: Security and Using Docker in Multi-user environments
+(Aanand Prassad? **Other volunteers**?)
+- [#15187 User namespaces in experimental branch](https://github.com/docker/docker/wiki/Engine-1.9.0)
+- [Docker security](https://docs.docker.com/articles/security/)  
+- [Hypervisor-agnostic Docker Engine_](https://hyper.sh/)  
+- ...
+
+### Hackday Topic 4: Community requirements
+(Thomas Ingraham, Michael Markie)
+- [Docker F1000 Channel for Docker publications](http://f1000research.com/channels/containers)
+- If separation from DockerHub is needed (I don't think so myself) [Portus](https://github.com/SUSE/Portus)
+
+### Hackday Dojo 1: Introduction to Docker
+(Anand Prassad, Kai Davenport)
 - [A hands-on introduction to Docker](https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst)  
 - [Training in Docker from Docker](https://training.docker.com/self-paced-training)  
 - [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)  
+- 
+
+### Hackday Dojo 2: Advanced Docker Concepts Dojo
+(Matt Bates, Matt Barker, Alfonso Acosta Kai Davenport)
+- [Flocker by ClusterHQ](https://clusterhq.com/)
+- [Jetstack](http://www.jetstack.io/)
+- [kubernetes](http://kubernetes.io/) 
+- [weave](http://weave.works/) 
+
+
+###Other hackday Suggestions (**need fleshing out**)
 - Intel: Hack using docker on arduino for stream processing NGS sequence data.  
-- [nextflow](http://www.nextflow.io/)  
-- [kubernetes](http://kubernetes.io/)    
-- Jetbrains MPS, nextflow, docker integration demo and tutorial ([Fabien Campagne](http://campagnelab.org/pi-contact/))      
-- Flocker by https://clusterhq.com/  
-- [Jetstack]()  
-- [weave]()  
+- [Jetbrains MPS, nextflow, docker integration demo and tutorial, Fabien Campagne](http://campagnelab.org/pi-contact/))      
+ 
 - ...
 
 ## The problem with Informatic pipelines  
@@ -76,10 +106,7 @@ I have made a start. Please contribute.
 - *Can be hard for informaticians if code is bad, dependency heavy, undocumented or requires very specific versions of OS's and software etc*
 - Often Suffers from: *"But It works on my Machine??"*  
 
-## Security  
-- [Docker security](https://docs.docker.com/articles/security/)  
-- [Hypervisor-agnostic Docker Engine_](https://hyper.sh/)  
-- ...
+
 
 Some random thoughts...  
 **Only trusted users should be allowed 1) Access to HPC and 2) To control your Docker daemon**.  
@@ -105,6 +132,8 @@ I have made a start. Please contribute your own repositories and knowledge.
 - ...
 
 ## Docker Related stuff and Other Geeky-type Fun
+- [Great visual overview of Docker's inner workings](http://merrigrove.blogspot.co.uk/2015/10/visualizing-docker-containers-and-images.html?m=1)
+- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [Jess Frazelle (jfrazelle) - Dockerfiles ](https://github.com/jfrazelle/dockerfiles)  
 - [Mac OS X Dev Setup (jfrazelle)](https://github.com/jfrazelle/mac-dev-setup)  
 - [Too Much Fun With Docker](http://www.carlboettiger.info/2014/08/07/too-much-fun-with-docker.html)  
