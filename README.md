@@ -56,6 +56,11 @@ Clone, commit and push please.
 - [Rabix] (https://www.rabix.org/#/)
 - [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
 
+### Hackday Topic 2: Specifications For Bio/Informatics Containers
+(Peter Belmann)
+- [BioBoxes](http://bioboxes.org/)
+- [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker) 
+
 ## Hackday Topic 3: Security and Using Docker in Multi-user environments
 (Aanand Prassad? **Other volunteers**?)
 - [#15187 User namespaces in experimental branch](https://github.com/docker/docker/wiki/Engine-1.9.0)
@@ -72,8 +77,7 @@ Clone, commit and push please.
 (Anand Prassad, Kai Davenport)
 - [A hands-on introduction to Docker](https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst)  
 - [Training in Docker from Docker](https://training.docker.com/self-paced-training)  
-- [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)  
-- 
+ 
 
 ### Hackday Dojo 2: Advanced Docker Concepts Dojo
 (Matt Bates, Matt Barker, Alfonso Acosta Kai Davenport)
@@ -86,7 +90,6 @@ Clone, commit and push please.
 ###Other hackday Suggestions (**need fleshing out**)
 - Intel: Hack using docker on arduino for stream processing NGS sequence data.  
 - [Jetbrains MPS, nextflow, docker integration demo and tutorial, Fabien Campagne](http://campagnelab.org/pi-contact/))      
- 
 - ...
 
 ## The problem with Informatic pipelines  
