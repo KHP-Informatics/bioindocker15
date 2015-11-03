@@ -44,6 +44,13 @@ Please contribute.
 - RFC  
 - ...
 
+## F1000 Channel Launch: *Container Virtualization in Informatics*
+Please join us for the launch of the new F1000 Channel:[Container Virtualization in Informatics](http://f1000research.com/channels/containers/about-this-channel). Official name TBC.
+
+**About this Channel**
+
+Technologies such as Docker are now establishing themselves as a lightweight solution to packaging applications together with their dependencies, solving a range of problems from reproducible research to simplifying deployment of complex code. This channel highlights literature in F1000Research on uses of containers, published container images, workflows and microservices.
+
 ## Mini-Hacks, Demos and Tutorials
 I have made a start. Please contribute if you'd like to.
 
