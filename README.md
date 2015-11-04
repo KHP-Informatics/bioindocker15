@@ -184,4 +184,5 @@ I have made a start. Please contribute
 - [Docker](https://www.docker.com/)
 
 ## Pipeline Pics...
+**GATK** : [best-practices](https://www.broadinstitute.org/gatk/guide/best-practices)
 ![gatk-pipeline](https://github.com/KHP-Informatics/bioindocker15/blob/master/pictures/gatk-9565118b9a6fb66daba37d2d7a8527.png)
