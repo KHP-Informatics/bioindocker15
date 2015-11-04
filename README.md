@@ -96,6 +96,7 @@ Clone, commit and push please.
 
 ### Hackday Tutorial 2: advanced Docker concepts
 (Matt Bates, Matt Barker, Alfonso Acosta Kai Davenport)
+- Docker: Compose, Machine, Swarm, Overlay Networking 
 - [Flocker by ClusterHQ](https://clusterhq.com/)
 - [Jetstack](http://www.jetstack.io/)
 - [kubernetes](http://kubernetes.io/) 
@@ -173,6 +174,7 @@ I have made a start. Please contribute
 ## Individual Contributors
 I have made a start. Please contribute  
 - Stephen J Newhouse <stephen.j.newhouse@gmail.com>  
+- Amos Folarin <amosfolarin@gmail.com>
 - ...
 
 # Event Sponsors
