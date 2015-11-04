@@ -38,7 +38,7 @@ Day two will additionally include an afternoon mini-hackday to introduce, demons
 <p>Throughout the course of the event we would like to identify where common goals exist in the bioinformatics arena and explore how efforts in containerized solutions could be aligned by establishing a community of Docker users and resources (with a similar function to that of Bioconductor for R). This could include:  </p>
 
 <ul>
-<li>Communal resopositories<br>
+<li>Communal repositories<br>
 </li>
 <li>Documentation and tutorials<br>
 </li>
@@ -61,14 +61,16 @@ Day two will additionally include an afternoon mini-hackday to introduce, demons
 <h2>
 <a id="aims-what-we-want-to-get-out-of-the-meeting" class="anchor" href="#aims-what-we-want-to-get-out-of-the-meeting" aria-hidden="true"><span class="octicon octicon-link"></span></a>Aims (what we want to get out of the meeting)</h2>
 
-<p>Placeholder of my (snewhouse) current thoughts. Please contribute.  </p>
+<p>There is a BioInDocker15 team which you can request access to <a href="https://github.com/orgs/KHP-Informatics/teams/bioindocker15">https://github.com/orgs/KHP-Informatics/teams/bioindocker15</a></p>
+
+<p>Please contribute.  </p>
 
 <ul>
+<li>An understanding of current uses of Docker in the Bio/Informatics world</li>
 <li>Index of Docker/VM Bioinformatics projetcs<br>
 </li>
-<li>F1000 Channel, Editorial and Slide Share<br>
-</li>
-<li>API<br>
+<li>F1000 Channel, Editorial and Slide Share (and perhaps a short paper documenting the presented work?)</li>
+<li>Bioinformatics Container Specification/API (e.g. <a href="http://bioboxes.org/">BioBoxes</a>)<br>
 </li>
 <li>Adapt/Adopt <a href="https://github.com/common-workflow-language/common-workflow-language">CWL</a> for multi component Docker pipelines<br>
 </li>
@@ -78,12 +80,87 @@ Day two will additionally include an afternoon mini-hackday to introduce, demons
 </ul>
 
 <h2>
+<a id="f1000-channel-launch-container-virtualization-in-informatics" class="anchor" href="#f1000-channel-launch-container-virtualization-in-informatics" aria-hidden="true"><span class="octicon octicon-link"></span></a>F1000 Channel Launch: <em>Container Virtualization in Informatics</em>
+</h2>
+
+<p>Please join us for the launch of the new F1000 Channel:<a href="http://f1000research.com/channels/containers/about-this-channel">Container Virtualization in Informatics</a>. Official name TBC.</p>
+
+<p><strong>About this Channel</strong></p>
+
+<p>Technologies such as Docker are now establishing themselves as a lightweight solution to packaging applications together with their dependencies, solving a range of problems from reproducible research to simplifying deployment of complex code. This channel highlights literature in F1000Research on uses of containers, published container images, workflows and microservices.</p>
+
+<h2>
 <a id="mini-hacks-demos-and-tutorials" class="anchor" href="#mini-hacks-demos-and-tutorials" aria-hidden="true"><span class="octicon octicon-link"></span></a>Mini-Hacks, Demos and Tutorials</h2>
 
-<p>I have made a start. Please contribute.</p>
+<p>I have made a start. Please contribute if you'd like to.</p>
+
+<p>These are suggestions we have put together from our poll or attendees and some ideas myself and Steve had. We have requested one or more some of the speakers to run a session, we'll try and get an idea of who is interested in participating in which session before the end of the first day.  </p>
+
+<h3>
+<a id="hackday-resources" class="anchor" href="#hackday-resources" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hackday Resources</h3>
+
+<ul>
+<li>[x] AWS EC2 VMs (available on request)</li>
+<li>[x] Intel Edison boards</li>
+<li>[x] Laptops BYOD (but the venue kindly asks that they are PAT-tested)</li>
+<li>[x] This git repository (but created others as needed and we'll link to them here)</li>
+</ul>
 
 <p>TBA: List of potential ideas with <a href="https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/">links to code</a>
 Clone, commit and push please.</p>
+
+<h3>
+<a id="hackday-topic-1-orchastration-and-multi-container-workflows" class="anchor" href="#hackday-topic-1-orchastration-and-multi-container-workflows" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hackday Topic 1: orchastration and multi-container workflows</h3>
+
+<p>(Paolo Di Tommaso, Nebojsa Tijanic, Brad Chapman, Yannick Wurm, Steven Newhouse, Amos Folarin)</p>
+
+<ul>
+<li><a href="http://www.nextflow.io/">Nextflow</a></li>
+<li><a href="https://www.rabix.org/#/">Rabix</a></li>
+<li><a href="https://github.com/common-workflow-language/common-workflow-language">Common Workflow Language</a></li>
+</ul>
+
+<h3>
+<a id="hackday-topic-2-specifications-for-bioinformatics-containers" class="anchor" href="#hackday-topic-2-specifications-for-bioinformatics-containers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hackday Topic 2: specifications for bio/informatics containers</h3>
+
+<p>(Peter Belmann)</p>
+
+<ul>
+<li><a href="http://bioboxes.org/">BioBoxes</a></li>
+<li><a href="https://github.com/rocker-org/rocker">rocker-org - "rocker": R in Docker</a></li>
+</ul>
+
+<h2>
+<a id="hackday-topic-3-security-and-using-docker-in-multi-user-environments" class="anchor" href="#hackday-topic-3-security-and-using-docker-in-multi-user-environments" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hackday Topic 3: security and using Docker in multi-user environments</h2>
+
+<p>(Aanand Prassad? <strong>Other volunteers</strong>?)</p>
+
+<ul>
+<li><a href="https://github.com/docker/docker/wiki/Engine-1.9.0">#15187 User namespaces in experimental branch</a></li>
+<li>
+<a href="https://docs.docker.com/articles/security/">Docker security</a><br>
+</li>
+<li>
+<a href="https://hyper.sh/">Hypervisor-agnostic Docker Engine_</a><br>
+</li>
+<li>...</li>
+</ul>
+
+<h3>
+<a id="hackday-topic-4-bioinformatics-docker-users-community-requirements" class="anchor" href="#hackday-topic-4-bioinformatics-docker-users-community-requirements" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hackday Topic 4: bio/informatics Docker users community requirements</h3>
+
+<p>(Thomas Ingraham, Michael Markie)</p>
+
+<ul>
+<li><a href="http://f1000research.com/channels/containers">Docker F1000 Channel for Docker publications</a></li>
+<li>If separation from DockerHub is needed (I don't think so myself) <a href="https://github.com/SUSE/Portus">Portus</a>
+</li>
+</ul>
+
+<h3>
+<a id="hackday-tutorial-1-introduction-to-docker" class="anchor" href="#hackday-tutorial-1-introduction-to-docker" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hackday Tutorial 1: introduction to Docker</h3>
+
+<p>(Anand Prassad, Kai Davenport)</p>
 
 <ul>
 <li>
@@ -92,26 +169,29 @@ Clone, commit and push please.</p>
 <li>
 <a href="https://training.docker.com/self-paced-training">Training in Docker from Docker</a><br>
 </li>
+</ul>
+
+<h3>
+<a id="hackday-tutorial-2-advanced-docker-concepts" class="anchor" href="#hackday-tutorial-2-advanced-docker-concepts" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hackday Tutorial 2: advanced Docker concepts</h3>
+
+<p>(Matt Bates, Matt Barker, Alfonso Acosta Kai Davenport)</p>
+
+<ul>
+<li>Docker: Compose, Machine, Swarm, Overlay Networking</li>
+<li><a href="https://clusterhq.com/">Flocker by ClusterHQ</a></li>
+<li><a href="http://www.jetstack.io/">Jetstack</a></li>
+<li><a href="http://kubernetes.io/">kubernetes</a></li>
+<li><a href="http://weave.works/">weave</a></li>
+</ul>
+
+<h3>
+<a id="other-hackday-suggestions-need-fleshing-out" class="anchor" href="#other-hackday-suggestions-need-fleshing-out" aria-hidden="true"><span class="octicon octicon-link"></span></a>Other hackday Suggestions (<strong>need fleshing out</strong>)</h3>
+
+<ul>
+<li>Intel: Hack using docker Intel Edison boards (we have some of these to distribute) if you want to participate in this. Intel are interested in applying this for stream processing NGS sequence data(?). <strong><a href="https://github.com/elij" class="user-mention">@elij</a> to Elaborate</strong><br>
+</li>
 <li>
-<a href="https://github.com/rocker-org/rocker">rocker-org - "rocker": R in Docker</a><br>
-</li>
-<li>Intel: Hack using docker on arduino for stream processing NGS sequence data.<br>
-</li>
-<li>
-<a href="http://www.nextflow.io/">nextflow</a><br>
-</li>
-<li>
-<a href="http://kubernetes.io/">kubernetes</a><br>
-</li>
-<li>Jetbrains MPS, nextflow, docker integration demo and tutorial (<a href="http://campagnelab.org/pi-contact/">Fabien Campagne</a>)<br>
-</li>
-<li>Flocker by <a href="https://clusterhq.com/">https://clusterhq.com/</a><br>
-</li>
-<li>
-<a href="">Jetstack</a><br>
-</li>
-<li>
-<a href="">weave</a><br>
+<a href="http://campagnelab.org/pi-contact/">Jetbrains MPS, nextflow, docker integration demo and tutorial, Fabien Campagne</a>)<br>
 </li>
 <li>...</li>
 </ul>
@@ -144,19 +224,6 @@ Clone, commit and push please.</p>
 <li><em>Can be hard for informaticians if code is bad, dependency heavy, undocumented or requires very specific versions of OS's and software etc</em></li>
 <li>Often Suffers from: <em>"But It works on my Machine??"</em><br>
 </li>
-</ul>
-
-<h2>
-<a id="security" class="anchor" href="#security" aria-hidden="true"><span class="octicon octicon-link"></span></a>Security</h2>
-
-<ul>
-<li>
-<a href="https://docs.docker.com/articles/security/">Docker security</a><br>
-</li>
-<li>
-<a href="https://hyper.sh/">Hypervisor-agnostic Docker Engine_</a><br>
-</li>
-<li>...</li>
 </ul>
 
 <p>Some random thoughts...<br>
@@ -203,6 +270,7 @@ We the sys. admins and trusted informaticians should set up the pipelines and pr
 <li>
 <a href="https://github.com/catalyzeio/engineering-blog/blob/master/source/2015-09-18-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-2-Implementation.html.markdown">2015-09-18-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-2-Implementation</a><br>
 </li>
+<li><a href="http://www.nextflow.io/blog/2014/nextflow-meets-docker.html">Reproducibility in Science - Nextflow meets Docker</a></li>
 <li>...</li>
 </ul>
 
@@ -210,6 +278,8 @@ We the sys. admins and trusted informaticians should set up the pipelines and pr
 <a id="docker-related-stuff-and-other-geeky-type-fun" class="anchor" href="#docker-related-stuff-and-other-geeky-type-fun" aria-hidden="true"><span class="octicon octicon-link"></span></a>Docker Related stuff and Other Geeky-type Fun</h2>
 
 <ul>
+<li><a href="http://merrigrove.blogspot.co.uk/2015/10/visualizing-docker-containers-and-images.html?m=1">Great visual overview of Docker's inner workings</a></li>
+<li><a href="https://github.com/wsargent/docker-cheat-sheet">Docker Cheat Sheet</a></li>
 <li>
 <a href="https://github.com/jfrazelle/dockerfiles">Jess Frazelle (jfrazelle) - Dockerfiles </a><br>
 </li>
@@ -219,9 +289,17 @@ We the sys. admins and trusted informaticians should set up the pipelines and pr
 <li>
 <a href="http://www.carlboettiger.info/2014/08/07/too-much-fun-with-docker.html">Too Much Fun With Docker</a><br>
 </li>
+<li><a href="http://crystal.sh/#intro">Autocode  - open source code generator for every language and framework.</a></li>
 <li>
-<a href="http://crystal.sh/#intro">Autocode  - open source code generator for every language and framework.</a><br>
+<a href="http://www.plosbiology.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pbio.1001745&amp;representation=PDF">Best Practices for Scientific Computing</a><br>
 </li>
+<li>
+<a href="http://www.ploscompbiol.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1000424&amp;representation=PDF">A Quick Guide to Organizing Computational Biology Projects</a><br>
+</li>
+<li>
+<a href="http://www.ploscompbiol.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1003285&amp;representation=PDF">Ten Simple Rules for Reproducible Computational Research</a><br>
+</li>
+<li><a href="https://www.mindmeister.com/389671722/docker-ecosystem">Docker Ecosystem</a></li>
 <li>...</li>
 </ul>
 
@@ -245,8 +323,26 @@ We the sys. admins and trusted informaticians should set up the pipelines and pr
 <ul>
 <li>Stephen J Newhouse <a href="mailto:stephen.j.newhouse@gmail.com">stephen.j.newhouse@gmail.com</a><br>
 </li>
+<li>Amos Folarin <a href="mailto:amosfolarin@gmail.com">amosfolarin@gmail.com</a>
+</li>
 <li>...</li>
 </ul>
+
+<h1>
+<a id="event-sponsors" class="anchor" href="#event-sponsors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Event Sponsors</h1>
+
+<ul>
+<li><a href="http://www.genomicsengland.co.uk/">Genomics England</a></li>
+<li><a href="http://www.software.ac.uk/">Software Sustainability Institute</a></li>
+<li><a href="http://www.intel.com/">Intel</a></li>
+<li><a href="https://www.docker.com/">Docker</a></li>
+</ul>
+
+<h2>
+<a id="pipeline-pics" class="anchor" href="#pipeline-pics" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pipeline Pics...</h2>
+
+<p><strong>GATK</strong> : <a href="https://www.broadinstitute.org/gatk/guide/best-practices">best-practices</a>
+<img src="https://github.com/KHP-Informatics/bioindocker15/blob/master/pictures/gatk-9565118b9a6fb66daba37d2d7a8527.png" alt="gatk-pipeline"></p>
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/KHP-Informatics/bioindocker15">Bioindocker15</a> is maintained by <a href="https://github.com/KHP-Informatics">KHP-Informatics</a>.</span>
