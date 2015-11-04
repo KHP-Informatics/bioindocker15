@@ -58,14 +58,14 @@ These are suggestions we have put together from our poll or attendees and some i
 
 ###Hackday Resources
 - [x] AWS EC2 VMs (available on request)
-- [x] Intel Edison boards 
+- [x] Intel Edison boards
 - [x] Laptops BYOD (but the venue kindly asks that they are PAT-tested)
 - [x] This git repository (but created others as needed and we'll link to them here)
 
 TBA: List of potential ideas with [links to code](https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/)
 Clone, commit and push please.
 
-### Hackday Topic 1: orchastration and multi-container workflows 
+### Hackday Topic 1: orchastration and multi-container workflows
 (Paolo Di Tommaso, Nebojsa Tijanic, Brad Chapman, Yannick Wurm, Steven Newhouse, Amos Folarin)
 - [Nextflow](http://www.nextflow.io/)
 - [Rabix] (https://www.rabix.org/#/)
@@ -74,7 +74,7 @@ Clone, commit and push please.
 ### Hackday Topic 2: specifications for bio/informatics containers
 (Peter Belmann)
 - [BioBoxes](http://bioboxes.org/)
-- [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker) 
+- [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)
 
 ## Hackday Topic 3: security and using Docker in multi-user environments
 (Aanand Prassad? **Other volunteers**?)
@@ -92,15 +92,15 @@ Clone, commit and push please.
 (Anand Prassad, Kai Davenport)
 - [A hands-on introduction to Docker](https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst)  
 - [Training in Docker from Docker](https://training.docker.com/self-paced-training)  
- 
+
 
 ### Hackday Tutorial 2: advanced Docker concepts
 (Matt Bates, Matt Barker, Alfonso Acosta Kai Davenport)
-- Docker: Compose, Machine, Swarm, Overlay Networking 
+- Docker: Compose, Machine, Swarm, Overlay Networking
 - [Flocker by ClusterHQ](https://clusterhq.com/)
 - [Jetstack](http://www.jetstack.io/)
-- [kubernetes](http://kubernetes.io/) 
-- [weave](http://weave.works/) 
+- [kubernetes](http://kubernetes.io/)
+- [weave](http://weave.works/)
 
 
 ###Other hackday Suggestions (**need fleshing out**)
@@ -183,3 +183,5 @@ I have made a start. Please contribute
 - [Intel](http://www.intel.com/)
 - [Docker](https://www.docker.com/)
 
+## Pipeline Pics...
+![gatk-pipeline](https://github.com/KHP-Informatics/bioindocker15/blob/master/pictures/gatk-9565118b9a6fb66daba37d2d7a8527.png)
