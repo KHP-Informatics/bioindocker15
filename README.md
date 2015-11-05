@@ -102,12 +102,20 @@ Clone, commit and push please.
 - [kubernetes](http://kubernetes.io/)
 - [weave](http://weave.works/)
 
+### Hackday Tutorial 3: introduction to the NextflowWorkbench, its Docker IDE and its bioinformatics features
+(Fabien Campagne) 
+
+*The tutorial will demonstrate the interactive capabilities of the [NextflowWorkbench](http://wokrflow.campagnelab.org). The tutorial will use Docker, but assumes no prior knowledge of docker. I suggest to download the software and images prior to the start of the tutorial [[follow these instructions]](http://campagnelab.org/software/nextflow-workbench/instructions-for-workflow-tutorial/). If you are able to complete the installation instructions, you will be able to follow the tutorial and learn how to create or run workflows with docker.*
+- **Mini-intro to the MPS platform** (5': plugins, solutions, models, languages and devkits)
+- **Creating a workflow with NextflowWorkbench** (10': We will simple workflow to process a set of reads and simply print the filenames. This minimal example will illustrate the structure of workflows and demonstrate auto-completion, automatic type calculation and error detection)
+- **Using bioinformatics resources in workflows** (15': We will continue and mofify the workflow to use Kallisto to estimate counts from each reads file. We are able to do this in 15' by reusing (1) automated installation of GobyWeb resources  (2) a docker image that provides all the software needed to install these resources (3) a frozen docker image that includes the pre-built Kallisto human transcriptome index).
+
 
 ###Other hackday Suggestions (**need fleshing out**)
 - Intel: Hack using docker Intel Edison boards (we have some of these to distribute) if you want to participate in this. Intel are interested in applying this for stream processing NGS sequence data(?). **@elij to Elaborate**  
 - Installing [ubilinux](http://www.emutexlabs.com/ubilinux) on Intel Edison
 - [Upgrading Ubilinux Debian Wheezy to Jessie](https://github.com/catmaker/chippy/wiki/Upgrading-Ubilinux-Debian-Wheezy-to-Jessie)
-- [Jetbrains MPS, nextflow, docker integration demo and tutorial, Fabien Campagne](http://campagnelab.org/pi-contact/))      
+  
 - ...
 
 
