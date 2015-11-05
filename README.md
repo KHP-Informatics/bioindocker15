@@ -106,6 +106,7 @@ Clone, commit and push please.
 ###Other hackday Suggestions (**need fleshing out**)
 - Intel: Hack using docker Intel Edison boards (we have some of these to distribute) if you want to participate in this. Intel are interested in applying this for stream processing NGS sequence data(?). **@elij to Elaborate**  
 - Installing [ubilinux](http://www.emutexlabs.com/ubilinux) on Intel Edison
+- [Upgrading Ubilinux Debian Wheezy to Jessie](https://github.com/catmaker/chippy/wiki/Upgrading-Ubilinux-Debian-Wheezy-to-Jessie)
 - [Jetbrains MPS, nextflow, docker integration demo and tutorial, Fabien Campagne](http://campagnelab.org/pi-contact/))      
 - ...
 
