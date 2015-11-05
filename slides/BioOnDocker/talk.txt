@@ -1,0 +1,34 @@
+Bioinformatics and the packaging melee
+A talk highlighting the discrepancies in packaging and versioning of bioinformatic tooling. How this relates to the early days of packaging in the FOSS world and how docker helps get around many of the issues.
+
+Who?
+- Bio
+- Personal GNU/Linux experience (Mandrake -> Gentoo -> Ubuntu)
+
+Summary
+- Issue
+- Solution
+- Downsides
+- QA
+
+Issue
+
+- installing from code
+- - untar / make install
+- distrubtions and respositories
+- Sysadmin pace vs developer pace
+- deployment of bioinformatics tools
+- hosting of old packages / versioning
+-- CRAN (latest version not in archive folder)
+-- Platypus only presents the latest version
+-- samtools upstream in distribution (no cram support)
+- automation
+
+Solution
+
+integrated solutions
+
+
+Downside
+
+QA

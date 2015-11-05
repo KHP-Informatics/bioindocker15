@@ -1,0 +1,115 @@
+html, body, .deck-container {
+/*  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;*/
+}
+
+.slide-1 {
+/*  background-image: url("Angled_Gradient_rgb_digital_small.png");
+  background-repeat: no-repeat;
+  background-size: 150%;
+  width: 100%;*/
+}
+
+#logo {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  background-image: url("intel_wht_rgb_3000.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 80px;
+  height: 55px;
+  z-index: 5;
+}
+
+.foot {
+  width: 100%;
+  height: 4em;
+  position: absolute;
+  bottom: 0;
+  background: linear-gradient(to right, #003c71, #0071c5);
+}
+
+
+.deck-container {
+  height: 100%;
+}
+.slide {
+/*  height: 100%;
+  border-bottom: 1px solid #000;
+  position: relative; */
+  width: 100%;
+  background-position: right 2em bottom 5em;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+
+.slide-0 {
+}
+.slide-1 {
+  background-image: url("5c15da17163a6ac932c3c7b4424d4bb3.gif");
+}
+.slide-2 {
+  background-image: url("5c15da17163a6ac932c3c7b4424d4bb3.png");
+}
+.slide-3 {
+  background-image: url("26c150dee8f40ec85b06792ebd048ef6.gif");
+}
+.slide-4 {
+  background-image: url("26c150dee8f40ec85b06792ebd048ef6.png");
+}
+.slide-5 {
+  background-image: url("488a5e7daae8f88649034bc6ad3c8b63.gif");
+}
+.slide-6 {
+  background-image: url("488a5e7daae8f88649034bc6ad3c8b63.png");
+}
+.slide-7 {
+  background-image: url("7872d10b12b588f6955244130a67b0a9.gif");
+}
+.slide-8 {
+  background-image: url("7872d10b12b588f6955244130a67b0a9.png");
+}
+.slide-9 {
+}
+
+h1, h2, li {
+  font-family: Arial;
+}
+
+
+h1, li {
+  list-style-type: square;
+  color: #003c71;
+}
+
+h1 {
+  font-size: 4.5em;
+}
+
+h1, .vcenter {
+  font-weight: bold;
+  text-align: center;
+  max-height: 100%;
+}
+
+h2, ul {
+  width: 45%;
+  padding: 2.5%;
+  font-size: 2em;
+}
+h2 {
+  color: #00aeef;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+ul {
+  padding-left: 4em;
+  margin: 0;
+}
+
+
