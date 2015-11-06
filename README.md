@@ -185,6 +185,7 @@ I have made a start. Please contribute
 I have made a start. Please contribute  
 - Stephen J Newhouse <stephen.j.newhouse@gmail.com>  
 - Amos Folarin <amosfolarin@gmail.com>
+- Paolo Di Tommaso <paolo.ditommaso@gmail.com>
 - ...
 
 # Event Sponsors
