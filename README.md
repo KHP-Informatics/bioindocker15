@@ -119,7 +119,6 @@ Clone, commit and push please.
 - ...
 
 
-
 ## The problem with Informatic pipelines  
 I have made a start. Please contribute.
 - Reproducible ?
@@ -164,6 +163,7 @@ I have made a start. Please contribute your own repositories and knowledge.
 - ...
 
 ## Docker Related stuff and Other Geeky-type Fun
+- [Bioinformatics for the masses? (@davidweisss) ](https://medium.com/@davidweisss/bioinformatics-for-the-masses-42deedb2cf4f)  
 - [Great visual overview of Docker's inner workings](http://merrigrove.blogspot.co.uk/2015/10/visualizing-docker-containers-and-images.html?m=1)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [Jess Frazelle (jfrazelle) - Dockerfiles ](https://github.com/jfrazelle/dockerfiles)  
