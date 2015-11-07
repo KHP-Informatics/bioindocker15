@@ -123,7 +123,7 @@ The tutorial will give a quick introduction of the Nextlow workflow framework an
 - Deployment profiles.
 - Sharing a workflow. 
  
-#### Prerequistes:
+#### Prerequisites:
 - Unix-like OS (Linux, Mac OSX).
 - Java 7 or 8.
 - Docker engine (note versions 1.7.x and 1.8.x are affected by [this bug](https://github.com/docker/docker/issues/9718)).
