@@ -27,6 +27,8 @@ Join us for the first exclusive event that brings together discussions on docker
 
 **Latest Conference Agenda:**https://goo.gl/LpH07s
 
+###**[Attendee List](https://github.com/KHP-Informatics/bioindocker15/blob/master/Attendess-07.11.15.am.tsv)**
+
 ****
 
 ## Aims (what we want to get out of the meeting)
@@ -190,7 +192,6 @@ I have made a start. Please contribute
 - C. Titus Brown <t@idyll.org>  
 - ...
 
-###**[Attendee List](https://github.com/KHP-Informatics/bioindocker15/blob/master/Attendess-07.11.15.am.tsv)**
 
 # Event Sponsors
 - [Genomics England](http://www.genomicsengland.co.uk/)
