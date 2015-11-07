@@ -55,7 +55,7 @@ I have made a start. Please contribute if you'd like to.
 
 These are suggestions we have put together from our poll or attendees and some ideas myself and Steve had. We have requested one or more some of the speakers to run a session, we'll try and get an idea of who is interested in participating in which session before the end of the first day.  
 
-###Hackday Resources
+## Hackday Resources
 - [x] AWS EC2 VMs (available on request)
 - [x] Intel Edison boards
 - [x] Laptops BYOD (but the venue kindly asks that they are PAT-tested)
@@ -64,13 +64,13 @@ These are suggestions we have put together from our poll or attendees and some i
 TBA: List of potential ideas with [links to code](https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/)
 Clone, commit and push please.
 
-### Hackday Topic 1: orchastration and multi-container workflows
+## Hackday Topic 1: orchastration and multi-container workflows
 (Paolo Di Tommaso, Nebojsa Tijanic, Brad Chapman, Yannick Wurm, Steven Newhouse, Amos Folarin)
 - [Nextflow](http://www.nextflow.io/)
 - [Rabix] (https://www.rabix.org/#/)
 - [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
 
-### Hackday Topic 2: specifications for bio/informatics containers
+## Hackday Topic 2: specifications for bio/informatics containers
 (Peter Belmann)
 - [BioBoxes](http://bioboxes.org/)
 - [rocker-org - "rocker": R in Docker](https://github.com/rocker-org/rocker)
@@ -82,18 +82,17 @@ Clone, commit and push please.
 - [Hypervisor-agnostic Docker Engine_](https://hyper.sh/)  
 - ...
 
-### Hackday Topic 4: bio/informatics Docker users community requirements
+## Hackday Topic 4: bio/informatics Docker users community requirements
 (Thomas Ingraham, Michael Markie)
 - [Docker F1000 Channel for Docker publications](http://f1000research.com/channels/containers)
 - If separation from DockerHub is needed (I don't think so myself) [Portus](https://github.com/SUSE/Portus)
 
-### Hackday Tutorial 1: introduction to Docker
+## Hackday Tutorial 1: introduction to Docker
 (Anand Prassad, Kai Davenport)
 - [A hands-on introduction to Docker](https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst)  
 - [Training in Docker from Docker](https://training.docker.com/self-paced-training)  
 
-
-### Hackday Tutorial 2: advanced Docker concepts
+## Hackday Tutorial 2: advanced Docker concepts
 (Matt Bates, Matt Barker, Alfonso Acosta Kai Davenport)
 - Docker: Compose, Machine, Swarm, Overlay Networking
 - [Flocker by ClusterHQ](https://clusterhq.com/)
@@ -101,7 +100,7 @@ Clone, commit and push please.
 - [kubernetes](http://kubernetes.io/)
 - [weave](http://weave.works/)
 
-### Hackday Tutorial 3: introduction to the NextflowWorkbench, its Docker IDE and its bioinformatics features
+## Hackday Tutorial 3: introduction to the NextflowWorkbench, its Docker IDE and its bioinformatics features
 (Fabien Campagne) 
 
 *The tutorial will demonstrate the interactive capabilities of the [NextflowWorkbench](http://workflow.campagnelab.org). The tutorial will use Docker, but assumes no prior knowledge of docker. I suggest to download the software and images prior to the start of the tutorial [[follow these instructions]](http://campagnelab.org/software/nextflow-workbench/instructions-for-workflow-tutorial/). If you are able to complete the installation instructions, you will be able to follow the tutorial and learn how to create or run workflows with docker.*
@@ -110,7 +109,7 @@ Clone, commit and push please.
 - **Using bioinformatics resources in workflows** (15': We will continue and mofify the workflow to use Kallisto to estimate counts from each reads file. We are able to do this in 15' by reusing (1) automated installation of GobyWeb resources  (2) a docker image that provides all the software needed to install these resources (3) a frozen docker image that includes the pre-built Kallisto human transcriptome index).
 
 
-###Other hackday Suggestions (**need fleshing out**)
+## Other hackday Suggestions (**need fleshing out**)
 - Intel: Hack using docker Intel Edison boards (we have some of these to distribute) if you want to participate in this. Intel are interested in applying this for stream processing NGS sequence data(?). **@elij to Elaborate**  
 - Installing [ubilinux](http://www.emutexlabs.com/ubilinux) on Intel Edison
 - [Upgrading Ubilinux Debian Wheezy to Jessie](https://github.com/catmaker/chippy/wiki/Upgrading-Ubilinux-Debian-Wheezy-to-Jessie)
@@ -182,12 +181,16 @@ I have made a start. Please contribute
 
 ## Individual Contributors
 I have made a start. Please contribute  
+
 - Stephen J Newhouse <stephen.j.newhouse@gmail.com>  
-- Amos Folarin <amosfolarin@gmail.com>
-- Paolo Di Tommaso <paolo.ditommaso@gmail.com>
+- Amos Folarin <amosfolarin@gmail.com>  
+- Paolo Di Tommaso <paolo.ditommaso@gmail.com>  
+- Elijah	Charles	<elijah.charles@intel.com>  
+- Fabien	Campagne	<fac2003@campagnelab.org>  
+- C. Titus Brown <t@idyll.org>  
 - ...
 
-**[Attendee List](https://github.com/KHP-Informatics/bioindocker15/blob/master/Attendess-07.11.15.am.tsv)**
+###**[Attendee List](https://github.com/KHP-Informatics/bioindocker15/blob/master/Attendess-07.11.15.am.tsv)**
 
 # Event Sponsors
 - [Genomics England](http://www.genomicsengland.co.uk/)
