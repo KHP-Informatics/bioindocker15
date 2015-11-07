@@ -188,6 +188,8 @@ I have made a start. Please contribute
 - Paolo Di Tommaso <paolo.ditommaso@gmail.com>
 - ...
 
+**[Attendee List](https://github.com/KHP-Informatics/bioindocker15/blob/master/Attendess-07.11.15.am.tsv)**
+
 # Event Sponsors
 - [Genomics England](http://www.genomicsengland.co.uk/)
 - [Software Sustainability Institute](http://www.software.ac.uk/)
