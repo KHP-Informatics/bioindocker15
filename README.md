@@ -180,6 +180,7 @@ I have made a start. Please contribute your own repositories and knowledge.
 ## Participating Organizations
 I have made a start. Please contribute  
 - [NIHR BRC-MH Bioinformatics Group](https://github.com/KHP-Informatics)  
+- [Center for Genomic Regulation](http://www.crg.eu)
 - ...
 
 ## Individual Contributors
