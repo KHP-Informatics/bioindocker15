@@ -110,6 +110,25 @@ Clone, commit and push please.
 - **Creating a workflow with NextflowWorkbench** (10': We will simple workflow to process a set of reads and simply print the filenames. This minimal example will illustrate the structure of workflows and demonstrate auto-completion, automatic type calculation and error detection)
 - **Using bioinformatics resources in workflows** (15': We will continue and mofify the workflow to use Kallisto to estimate counts from each reads file. We are able to do this in 15' by reusing (1) automated installation of GobyWeb resources  (2) a docker image that provides all the software needed to install these resources (3) a frozen docker image that includes the pre-built Kallisto human transcriptome index).
 
+## Hackday Tutorial 4: Hands-on introduction to Nextflow
+(Paolo Di Tommaso) 
+
+The tutorial will give a quick introduction of the Nextlow workflow framework and programming model. You will learn:
+
+- How to install Nextflow. 
+- Main abstractions (channels, operators and processes).
+- Resuming a pipeline execution.
+- Using Docker containers.
+- Nextflow configuration file.
+- Deployment profiles.
+- Sharing a workflow. 
+ 
+#### Prerequistes:
+- Unix-like OS (Linux, Mac OSX).
+- Java 7 or 8.
+- Docker engine (note versions 1.7.x and 1.8.x are affected by [this bug](https://github.com/docker/docker/issues/9718)).
+- It is suggested to download the following images prior to the start of the tutorial: [nextflow/rnatoy](https://hub.docker.com/r/nextflow/rnatoy/) and [nextflow/examples](https://hub.docker.com/r/nextflow/examples/).
+ 
 
 ## Other hackday Suggestions (**need fleshing out**)
 - Intel: Hack using docker Intel Edison boards (we have some of these to distribute) if you want to participate in this. Intel are interested in applying this for stream processing NGS sequence data(?). **@elij to Elaborate**  
@@ -160,7 +179,7 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [2015-09-04-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-1-Design-Considerations](https://github.com/catalyzeio/engineering-blog/blob/master/source/2015-09-04-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-1-Design-Considerations.html.markdown)
 - [2015-09-18-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-2-Implementation](https://github.com/catalyzeio/engineering-blog/blob/master/source/2015-09-18-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-2-Implementation.html.markdown)  
 - [Reproducibility in Science - Nextflow meets Docker](http://www.nextflow.io/blog/2014/nextflow-meets-docker.html)
-- [Nextflow](http://www.nextflow.io) - Data-driven computational pipelines with built-in support for Docker containers.
+- [Nextflow](http://www.nextflow.io)
 - ...
 
 ## Docker Related stuff and Other Geeky-type Fun
