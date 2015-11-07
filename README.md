@@ -2,8 +2,6 @@
 
 [![Join the chat at https://gitter.im/KHP-Informatics/bioindocker15](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/KHP-Informatics/bioindocker15?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-...work in progress..
-
 Eventbrite: http://www.eventbrite.co.uk/e/bio-in-docker-symposium-2015-tickets-16296680811
 Twitter: [@bioindocker15](https://twitter.com/bioindocker15)
 
@@ -42,6 +40,7 @@ Please contribute.
 - Bioinformatics Container Specification/API (e.g. [BioBoxes](http://bioboxes.org/))  
 - Adapt/Adopt [CWL](https://github.com/common-workflow-language/common-workflow-language) for multi component Docker pipelines  
 - RFC  
+- [Bioinformatics for the masses? (@davidweisss) ](https://medium.com/@davidweisss/bioinformatics-for-the-masses-42deedb2cf4f)  
 - ...
 
 ## F1000 Channel Launch: *Container Virtualization in Informatics*
