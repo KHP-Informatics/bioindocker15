@@ -160,6 +160,7 @@ I have made a start. Please contribute your own repositories and knowledge.
 - [2015-09-04-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-1-Design-Considerations](https://github.com/catalyzeio/engineering-blog/blob/master/source/2015-09-04-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-1-Design-Considerations.html.markdown)
 - [2015-09-18-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-2-Implementation](https://github.com/catalyzeio/engineering-blog/blob/master/source/2015-09-18-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-2-Implementation.html.markdown)  
 - [Reproducibility in Science - Nextflow meets Docker](http://www.nextflow.io/blog/2014/nextflow-meets-docker.html)
+- [Nextflow](http://www.nextflow.io) - Data-driven computational pipelines with built-in support for Docker containers.
 - ...
 
 ## Docker Related stuff and Other Geeky-type Fun
