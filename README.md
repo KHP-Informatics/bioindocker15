@@ -91,7 +91,7 @@ Clone, commit and push please.
 
 ## Hackday Tutorial 1: introduction to Docker
 (Anand Prassad, Kai Davenport)
-- [A hands-on introduction to Docker](https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst)  
+- [A hands-on introduction to Docker](https://github.com/ngs-docs/2015-nov-docker)  
 - [Training in Docker from Docker](https://training.docker.com/self-paced-training)  
 
 ## Hackday Tutorial 2: advanced Docker concepts
@@ -103,7 +103,7 @@ Clone, commit and push please.
 - [weave](http://weave.works/)
 
 ## Hackday Tutorial 3: introduction to the NextflowWorkbench, its Docker IDE and its bioinformatics features
-(Fabien Campagne) 
+(Fabien Campagne)
 
 *The tutorial will demonstrate the interactive capabilities of the [NextflowWorkbench](http://workflow.campagnelab.org). The tutorial will use Docker, but assumes no prior knowledge of docker. I suggest to download the software and images prior to the start of the tutorial [[follow these instructions]](http://campagnelab.org/software/nextflow-workbench/instructions-for-workflow-tutorial/). If you are able to complete the installation instructions, you will be able to follow the tutorial and learn how to create or run workflows with docker.*
 - **Mini-intro to the MPS platform** (5': plugins, solutions, models, languages and devkits)
@@ -111,30 +111,30 @@ Clone, commit and push please.
 - **Using bioinformatics resources in workflows** (15': We will continue and mofify the workflow to use Kallisto to estimate counts from each reads file. We are able to do this in 15' by reusing (1) automated installation of GobyWeb resources  (2) a docker image that provides all the software needed to install these resources (3) a frozen docker image that includes the pre-built Kallisto human transcriptome index).
 
 ## Hackday Tutorial 4: Hands-on introduction to Nextflow
-(Paolo Di Tommaso) 
+(Paolo Di Tommaso)
 
 The tutorial will give a quick introduction of the Nextlow workflow framework and programming model. You will learn:
 
-- How to install Nextflow. 
+- How to install Nextflow.
 - Main abstractions (channels, operators and processes).
 - Resuming a pipeline execution.
 - Using Docker containers.
 - Nextflow configuration file.
 - Deployment profiles.
-- Sharing a workflow. 
- 
+- Sharing a workflow.
+
 #### Prerequisites:
 - Unix-like OS (Linux, Mac OSX).
 - Java 7 or 8.
 - Docker engine (note versions 1.7.x and 1.8.x are affected by [this bug](https://github.com/docker/docker/issues/9718)).
 - It is suggested to download the following images prior to the start of the tutorial: [nextflow/rnatoy](https://hub.docker.com/r/nextflow/rnatoy/) and [nextflow/examples](https://hub.docker.com/r/nextflow/examples/).
- 
+
 
 ## Other hackday Suggestions (**need fleshing out**)
 - Intel: Hack using docker Intel Edison boards (we have some of these to distribute) if you want to participate in this. Intel are interested in applying this for stream processing NGS sequence data(?). **@elij to Elaborate**  
 - Installing [ubilinux](http://www.emutexlabs.com/ubilinux) on Intel Edison
 - [Upgrading Ubilinux Debian Wheezy to Jessie](https://github.com/catmaker/chippy/wiki/Upgrading-Ubilinux-Debian-Wheezy-to-Jessie)
-  
+
 - ...
 
 
