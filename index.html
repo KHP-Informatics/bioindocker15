@@ -55,7 +55,7 @@ Day two will additionally include an afternoon mini-hackday to introduce, demons
 <p><strong>Latest Conference Agenda:</strong><a href="https://goo.gl/LpH07s">https://goo.gl/LpH07s</a></p>
 
 <h3>
-<a id="attendee-list" class="anchor" href="#attendee-list" aria-hidden="true"><span class="octicon octicon-link"></span></a><strong><a href="https://github.com/KHP-Informatics/bioindocker15/blob/master/Attendess-07.11.15.am.tsv">Attendee List</a></strong>
+<a id="attendee-list" class="anchor" href="#attendee-list" aria-hidden="true"><span class="octicon octicon-link"></span></a><strong><a href="https://github.com/KHP-Informatics/bioindocker15/blob/master/Attendess-08.11.15.am.csv">Attendee List</a></strong>
 </h3>
 
 <hr>
@@ -88,7 +88,7 @@ Day two will additionally include an afternoon mini-hackday to introduce, demons
 <a id="f1000-channel-launch-container-virtualization-in-informatics" class="anchor" href="#f1000-channel-launch-container-virtualization-in-informatics" aria-hidden="true"><span class="octicon octicon-link"></span></a>F1000 Channel Launch: <em>Container Virtualization in Informatics</em>
 </h2>
 
-<p>Please join us for the launch of the new F1000 Channel:<a href="http://f1000research.com/channels/containers/about-this-channel">Container Virtualization in Informatics</a>. Official name TBC.</p>
+<p>Please join us for the launch of the new F1000 Channel:<a href="http://f1000research.com/channels/containers">Container Virtualization in Informatics</a>. Official name TBC.</p>
 
 <p><strong>About this Channel</strong></p>
 
@@ -169,7 +169,7 @@ Clone, commit and push please.</p>
 
 <ul>
 <li>
-<a href="https://github.com/ngs-docs/angus/blob/2015/week3/CTB_docker.rst">A hands-on introduction to Docker</a><br>
+<a href="https://github.com/ngs-docs/2015-nov-docker">A hands-on introduction to Docker</a><br>
 </li>
 <li>
 <a href="https://training.docker.com/self-paced-training">Training in Docker from Docker</a><br>
@@ -187,12 +187,13 @@ Clone, commit and push please.</p>
 <li><a href="http://www.jetstack.io/">Jetstack</a></li>
 <li><a href="http://kubernetes.io/">kubernetes</a></li>
 <li><a href="http://weave.works/">weave</a></li>
+<li><a href="https://medium.com/on-docker/docker-overlay-networks-that-was-easy-8f24baebb698">New features of Dockerv1.9 Swarm 1.0, and Overlay Networking Tutorial </a></li>
 </ul>
 
 <h2>
 <a id="hackday-tutorial-3-introduction-to-the-nextflowworkbench-its-docker-ide-and-its-bioinformatics-features" class="anchor" href="#hackday-tutorial-3-introduction-to-the-nextflowworkbench-its-docker-ide-and-its-bioinformatics-features" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hackday Tutorial 3: introduction to the NextflowWorkbench, its Docker IDE and its bioinformatics features</h2>
 
-<p>(Fabien Campagne) </p>
+<p>(Fabien Campagne)</p>
 
 <p><em>The tutorial will demonstrate the interactive capabilities of the <a href="http://workflow.campagnelab.org">NextflowWorkbench</a>. The tutorial will use Docker, but assumes no prior knowledge of docker. I suggest to download the software and images prior to the start of the tutorial <a href="http://campagnelab.org/software/nextflow-workbench/instructions-for-workflow-tutorial/">[follow these instructions]</a>. If you are able to complete the installation instructions, you will be able to follow the tutorial and learn how to create or run workflows with docker.</em></p>
 
@@ -203,6 +204,33 @@ Clone, commit and push please.</p>
 <strong>Creating a workflow with NextflowWorkbench</strong> (10': We will simple workflow to process a set of reads and simply print the filenames. This minimal example will illustrate the structure of workflows and demonstrate auto-completion, automatic type calculation and error detection)</li>
 <li>
 <strong>Using bioinformatics resources in workflows</strong> (15': We will continue and mofify the workflow to use Kallisto to estimate counts from each reads file. We are able to do this in 15' by reusing (1) automated installation of GobyWeb resources  (2) a docker image that provides all the software needed to install these resources (3) a frozen docker image that includes the pre-built Kallisto human transcriptome index).</li>
+</ul>
+
+<h2>
+<a id="hackday-tutorial-4-hands-on-introduction-to-nextflow" class="anchor" href="#hackday-tutorial-4-hands-on-introduction-to-nextflow" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hackday Tutorial 4: Hands-on introduction to Nextflow</h2>
+
+<p>(Paolo Di Tommaso)</p>
+
+<p>The tutorial will give a quick introduction of the Nextlow workflow framework and programming model. You will learn:</p>
+
+<ul>
+<li>How to install Nextflow.</li>
+<li>Main abstractions (channels, operators and processes).</li>
+<li>Resuming a pipeline execution.</li>
+<li>Using Docker containers.</li>
+<li>Nextflow configuration file.</li>
+<li>Deployment profiles.</li>
+<li>Sharing a workflow.</li>
+</ul>
+
+<h4>
+<a id="prerequisites" class="anchor" href="#prerequisites" aria-hidden="true"><span class="octicon octicon-link"></span></a>Prerequisites:</h4>
+
+<ul>
+<li>Unix-like OS (Linux, Mac OSX).</li>
+<li>Java 7 or 8.</li>
+<li>Docker engine (note versions 1.7.x and 1.8.x are affected by <a href="https://github.com/docker/docker/issues/9718">this bug</a>).</li>
+<li>It is suggested to download the following images prior to the start of the tutorial: <a href="https://hub.docker.com/r/nextflow/rnatoy/">nextflow/rnatoy</a> and <a href="https://hub.docker.com/r/nextflow/examples/">nextflow/examples</a>.</li>
 </ul>
 
 <h2>
@@ -291,6 +319,7 @@ We the sys. admins and trusted informaticians should set up the pipelines and pr
 <a href="https://github.com/catalyzeio/engineering-blog/blob/master/source/2015-09-18-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-2-Implementation.html.markdown">2015-09-18-Building-a-secure-multi-tenant-Docker-based-Platform-as-a-Service-Part-2-Implementation</a><br>
 </li>
 <li><a href="http://www.nextflow.io/blog/2014/nextflow-meets-docker.html">Reproducibility in Science - Nextflow meets Docker</a></li>
+<li><a href="http://www.nextflow.io">Nextflow</a></li>
 <li>...</li>
 </ul>
 
@@ -335,6 +364,7 @@ We the sys. admins and trusted informaticians should set up the pipelines and pr
 <li>
 <a href="https://github.com/KHP-Informatics">NIHR BRC-MH Bioinformatics Group</a><br>
 </li>
+<li><a href="http://www.crg.eu">Center for Genomic Regulation</a></li>
 <li>...</li>
 </ul>
 
