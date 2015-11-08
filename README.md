@@ -27,7 +27,7 @@ Join us for the first exclusive event that brings together discussions on docker
 
 **Latest Conference Agenda:**https://goo.gl/LpH07s
 
-###**[Attendee List](https://github.com/KHP-Informatics/bioindocker15/blob/master/Attendess-07.11.15.am.tsv)**
+###**[Attendee List](https://github.com/KHP-Informatics/bioindocker15/blob/master/Attendess-08.11.15.am.csv)**
 
 ****
 
