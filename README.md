@@ -46,7 +46,7 @@ Please contribute.
 - ...
 
 ## F1000 Channel Launch: *Container Virtualization in Informatics*
-Please join us for the launch of the new F1000 Channel:[Container Virtualization in Informatics](http://f1000research.com/channels/containers/about-this-channel). Official name TBC.
+Please join us for the launch of the new F1000 Channel:[Container Virtualization in Informatics](http://f1000research.com/channels/containers). Official name TBC.
 
 **About this Channel**
 
