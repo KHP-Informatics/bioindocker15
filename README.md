@@ -101,6 +101,7 @@ Clone, commit and push please.
 - [Jetstack](http://www.jetstack.io/)
 - [kubernetes](http://kubernetes.io/)
 - [weave](http://weave.works/)
+- [New features of Dockerv1.9 Swarm 1.0, and Overlay Networking Tutorial ](https://medium.com/on-docker/docker-overlay-networks-that-was-easy-8f24baebb698)
 
 ## Hackday Tutorial 3: introduction to the NextflowWorkbench, its Docker IDE and its bioinformatics features
 (Fabien Campagne)
