@@ -66,7 +66,7 @@ These are suggestions we have put together from our poll or attendees and some i
 TBA: List of potential ideas with [links to code](https://github.com/KHP-Informatics/bioindocker15/tree/master/hack/)
 Clone, commit and push please.
 
-## Hackday Topic 1: orchastration and multi-container workflows
+## Hackday Topic 1: orchestration and multi-container workflows
 (Paolo Di Tommaso, Nebojsa Tijanic, Brad Chapman, Yannick Wurm, Steven Newhouse, Amos Folarin)
 - [Nextflow](http://www.nextflow.io/)
 - [Rabix] (https://www.rabix.org/#/)
