@@ -88,9 +88,9 @@ Clone, commit and push please.
 (Thomas Ingraham, Michael Markie)
 - [Docker F1000 Channel for Docker publications](http://f1000research.com/channels/containers)
 - If separation from DockerHub is needed (I don't think so myself) [Portus](https://github.com/SUSE/Portus)
-
+******
 # Tutorials
-[Register your interest in one of the Tutorias Below](https://goo.gl/VPhQBS)
+[Register your interest in one of the Tutorials Below](https://goo.gl/VPhQBS)
 
 ## Hackday Tutorial 1: introduction to Docker
 (Anand Prassad, Kai Davenport)
