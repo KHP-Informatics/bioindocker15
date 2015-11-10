@@ -1,0 +1,5546 @@
+{
+    "fonts": [
+        {
+            "Aachen": [
+                {
+                    "file": "Aachen-MediumPlain.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Aachen-BoldPlain.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "AllianzSans": [
+                {
+                    "file": "AllianzSans-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "AllianzSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Alice": [
+                {
+                    "file": "Alice-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Alegreya": [
+                {
+                    "file": "Alegreya-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Alegreya-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Alegreya-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Alegreya-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Aleo": [
+                {
+                    "file": "Aleo-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Aleo-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Aleo-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Aleo-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Amatic": [
+                {
+                    "file": "Amatic-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Amatic-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Amiri": [
+                {
+                    "file": "Amiri-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Amiri-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Amiri-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Amiri-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Annie": [
+                {
+                    "file": "AnnieUseYourTelescope.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "AnnieUseYourTelescope-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "AnnieUseYourTelescope-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "AnnieUseYourTelescope-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Arial": [
+                {
+                    "file": "arial.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "arial-bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "arial-italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "arial-bold-italic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Arimo": [
+                {
+                    "file": "Arimo-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Arimo-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Arimo-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Arimo-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Arnhem": [
+                {
+                    "file": "Arnhem-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Arnhem-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Arsenal": [
+                {
+                    "file": "Arsenal-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Arsenal-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Arsenal-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Arsenal-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "ArnoPro": [
+                {
+                    "file": "ArnoPro-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "ArnoPro-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "ArnoPro-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "ArnoPro-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "BarmenoCFF": [
+                {
+                    "file": "BarmenoCFF-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "BarmenoCFF-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "BarmenoCFF-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "BarmenoCFF-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "BarmenoCFFMed": [
+                {
+                    "file": "BarmenoCFFMed-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "BarmenoCFFMed-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "BarmenoCFFMed-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "BarmenoCFFMed-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "BerthBodoniPro": [
+                {
+                    "file": "BerthBodoniPro-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "BerthBodoniPro-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "BerthBodoniPro-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Cabin": [
+                {
+                    "file": "Cabin-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Cabin-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Cabin-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Cabin-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Cambria": [
+                {
+                    "file": "Cambria-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Cambria-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Cambria-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Cambria-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Calibri": [
+                {
+                    "file": "calibri.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Calibri-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "CALIBRIB.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Calibri-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "CLAASHelveticaNeue": [
+                {
+                    "file": "CLAASHelveticaNeue-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "CLAASHelveticaNeue-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "CrialBlack": [
+                {
+                    "file": "Crial-Black.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Crialblack-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Crialblack-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Crialblack-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "CrimsonText": [
+                {
+                    "file": "CrimsonText.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "CrimsonText-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "CrimsonText-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "CrimsonText-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "CenturyGothic": [
+                {
+                    "file": "CenturyGothic.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "CenturyGothicBold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "CenturyGothicItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "DancingScript": [
+                {
+                    "file": "DancingScript.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "DancingScript-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "DancingScript-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "DancingScript-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Dosis": [
+                {
+                    "file": "Dosis-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Dosis-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "ExpertSansLight": [
+                {
+                    "file": "ExpertSansLight-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "ExpertSansLight-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ExpertSans": [
+                {
+                    "file": "ExpertSans-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "ExpertSans-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "ExpertSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Flama": [
+                {
+                    "file": "Flama-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Flama-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Flama-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Flama-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Fontin": [
+                {
+                    "file": "Fontin.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Fontin-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Fontin-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Fontin-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Futura-itao": [
+                {
+                    "file": "futura-itao.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "futura-itao_bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "futura-itao_italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Garamond": [
+                {
+                    "file": "Garamond-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Garamond-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Garamond-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "GEInspira": [
+                {
+                    "file": "GEInspira-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GEInspira-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GEInspira-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GEInspira-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "GEInspiraG": [
+                {
+                    "file": "GE_InspiraG_Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GE_InspiraG-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GE_InspiraG-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GE_InspiraG-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "GentiumBasic": [
+                {
+                    "file": "GentiumBasic.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GentiumBasic-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GentiumBasic-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GentiumBasic-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "GentonaBook": [
+                {
+                    "file": "GentonaBook-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GentonaBook-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GentonaBook-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GentonaBook-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Georgia": [
+                {
+                    "file": "Georgia.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GeorgiaBold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GeorgiaItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GeorgiaBoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "GillSansMT": [
+                {
+                    "file": "GillSansMT-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GillSansMT-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GillSansMT-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GillSansMT-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Glasgow": [
+                {
+                    "file": "GlasgowRR-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GlasgowRR-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Gotham": [
+                {
+                    "file": "Gotham-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Gotham-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "HelveticaNeueLTStd": [
+                {
+                    "file": "HelveticaNeueLTStd-MdCn.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "HelveticaNeueLTStd-BdCnO.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "HelvNeueforIBM": [
+                {
+                    "file": "HelvNeueforIBM-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "HelvNeueforIBM-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "HelvNeueforIBM-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "HelvNeueforIBM-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "HelveticaNeueLTStdRoman": [
+                {
+                    "file": "HelveticaNeueLTStdRoman.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "HelveticaNeueLTStdBd.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "HelveticaNeueLTStdIt.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "HelveticaNeueLTStd-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Heuristica": [
+                {
+                    "file": "Heuristica-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Heuristica-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Heuristica-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Heuristica-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Interstate": [
+                {
+                    "file": "Interstate-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Interstate-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Interstate-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Interstate-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "InterstateCondensed": [
+                {
+                    "file": "InterstateCondensed-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "InterstateCondensed-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "IstokWeb": [
+                {
+                    "file": "IstokWeb-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "IstokWeb-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "IstokWeb-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "JosefinSlab": [
+                {
+                    "file": "JosefinSlab.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "JosefinSlab-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "JosefinSlab-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "JosefinSlab-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Klavika": [
+                {
+                    "file": "KlavikaLight.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "KlavikaMedium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "KlavikaItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Letter": [
+                {
+                    "file": "Letter-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Letter-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "LeagueGothic": [
+                {
+                    "file": "LeagueGothic-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "LeagueGothic-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "LeagueGothic-Condensed": [
+                {
+                    "file": "LeagueGothic-CondensedRegular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "LeagueGothic-CondensedItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "LiberationMonoPR": [
+                {
+                    "file": "LiberationMonoPR-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "LiberationMonoPR-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "LiberationMonoPR-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "LiberationMonoPR-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "LobsterTwo": [
+                {
+                    "file": "LobsterTwo.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "LobsterTwo-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "LobsterTwo-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "LobsterTwo-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "LoveYaLikeASister": [
+                {
+                    "file": "LoveYaLikeASister.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "LoveYaLikeASister-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "LoveYaLikeASister-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "LoveYaLikeASister-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "LubalinforIBM": [
+                {
+                    "file": "LubalinforIBM-Book.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "LubalinforIBM-Demi.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MetricWeb": [
+                {
+                    "file": "MetricWeb-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MetricWeb-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MinionPro": [
+                {
+                    "file": "MinionPro-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MinionPro-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MinionPro-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MinionPro-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MuseoSans500": [
+                {
+                    "file": "MuseoSans500-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MuseoSans500-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MuseoSans500-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MuseoSans500-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MuseoSans300": [
+                {
+                    "file": "MuseoSans300-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MuseoSans300-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MuseoSans300-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MuseoSans300-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MuseoSans100": [
+                {
+                    "file": "MuseoSans100-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MuseoSans100-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MrsEavesOT": [
+                {
+                    "file": "MrsEavesOT-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MrsEavesOT-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MrsEavesOT-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MtelText": [
+                {
+                    "file": "MtelText-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MtelText-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MyriadProCond": [
+                {
+                    "file": "MyriadProCond-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MyriadProCond-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MyriadProCond-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MyriadProCond-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MyriadProRegular": [
+                {
+                    "file": "MyriadProRegular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MyriadProItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MyriadProBold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MyriadProBoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MyriadProSemi": [
+                {
+                    "file": "MyriadProSemibold.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MyriadProSemiboldIt.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MyriadPro-Black2.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MyriadPro-BlackItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "NewsGothicStd": [
+                {
+                    "file": "NewsGothicStd-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "NewsGothicStd-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "NewsGothicStd-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "NewsGothicStd-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Nobile": [
+                {
+                    "file": "Nobile-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Nobile-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Nobile-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Nobile-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "NotoSans": [
+                {
+                    "file": "NotoSans-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "NotoSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "NotoSans-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "NotoSans-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "NotoSerif": [
+                {
+                    "file": "NotoSerif-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "NotoSerif-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "NotoSerif-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "NotoSerif-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Nunito": [
+                {
+                    "file": "Nunito-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Nunito-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Nunito-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Nunito-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "OpenSans": [
+                {
+                    "file": "OpenSans.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OpenSans-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "OpenSans-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OpenSans-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "OfficinaSans": [
+                {
+                    "file": "OfficinaSans-Book.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OfficinaSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "OfficinaSans-BookItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OfficinaSans-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "OfficinaSerifStd": [
+                {
+                    "file": "OfficinaSerifStdBook.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OfficinaSerifStdBold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "OfficinaSerifStdBookItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OfficinaSerifStd-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "OpenSans2": [
+                {
+                    "file": "OpenSans-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OpenSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "OpenSans-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OpenSans-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "OpenSansB": [
+                {
+                    "file": "OpenSans-SB.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OpenSans-XB.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "OpenSans-SBI.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OpenSans-XBI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "OpenSansLight": [
+                {
+                    "file": "OpenSans-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OpenSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "OpenSans-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OpenSans-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "OptimaHU": [
+                {
+                    "file": "OptimaHU-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OptimaHU-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "OptimaHU-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "PlayfairDisplay": [
+                {
+                    "file": "PlayfairDisplay-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "PlayfairDisplay-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "PlayfairDisplay-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "PlayfairDisplay-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "PTSans": [
+                {
+                    "file": "PTSans.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "PTSans-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "PTSans-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "PTSans-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Quadon": [
+                {
+                    "file": "Quadon-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Quadon-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Quadon-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Quadon-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Quicksand": [
+                {
+                    "file": "Quicksand-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Quicksand-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Quicksand-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Quicksand-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Raleway": [
+                {
+                    "file": "Raleway-Thin.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Raleway-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Raleway-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Raleway-BI.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "RalewayO": [
+                {
+                    "file": "Raleway-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Raleway-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "RotisSansSerifPro": [
+                {
+                    "file": "RotisSansSerifPro-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "RotisSansSerifPro-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "RotisSansSerifPro-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "SangSangTitle": [
+                {
+                    "file": "SangSangTitleOTFM-P.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SangSangTitleOTFB-P.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "SansaPro": [
+                {
+                    "file": "SansaPro-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SansaPro-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "SeoulHangangL": [
+                {
+                    "file": "SangSangTitleOTFM-P.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SangSangTitleOTFB-P.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "SerifaStd": [
+                {
+                    "file": "SerifaStd-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SerifaStd-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "StagSans": [
+                {
+                    "file": "StagSans-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "StagSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "StempelGaramondLTStd": [
+                {
+                    "file": "StempelGaramondLTStd-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "StempelGaramondLTStd-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "StempelGaramondLTStd-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "StempelGaramondLTStd-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "StoneSansStd": [
+                {
+                    "file": "StoneSansStd-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "StoneSansStd-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "StoneSansStd-MediumItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "StoneSansStd-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "StoneSansStdSemi": [
+                {
+                    "file": "StoneSansStd-Semibold.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "StoneSansStd-SemiboldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "SuperstarUnibetPro": [
+                {
+                    "file": "SuperstarUnibetPro-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SuperstarUnibetPro-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Swansea": [
+                {
+                    "file": "Swansea-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Swansea-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Swansea-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Swansea-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "TimesNewRoman": [
+                {
+                    "file": "times.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TimesNewRoman-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "TimesNewRoman-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TimesNewRoman-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Tinos": [
+                {
+                    "file": "Tinos-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Tinos-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Tinos-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Tinos-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Titillium": [
+                {
+                    "file": "Titillium-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Titillium-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Titillium-RegularItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Titillium-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "TodaySansBEF": [
+                {
+                    "file": "TodaySansBEF-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TodaySansBEF-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "TodaySansBEF-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TodaySansBEF-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "TodaySansHEF": [
+                {
+                    "file": "TodaySansHEF-XLight.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TodaySansHEF-Light.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "TodaySansHEF-XLightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TodaySansHEF-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "TitilliumWeb": [
+                {
+                    "file": "TitilliumWeb-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TitilliumWeb-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "TitilliumWeb-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TitilliumWeb-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "UniversDeutscheBank": [
+                {
+                    "file": "UniversDeutscheBank-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "UniversDeutscheBank-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "YanoneKaffeesatz": [
+                {
+                    "file": "YanoneKaffeesatz.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "YanoneKaffeesatz-B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "YanoneKaffeesatz-I.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "VeraMono": [
+                {
+                    "file": "VeraMono.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "VeraMono-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "VeraMono-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "VeraMono-Bold-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Verdana": [
+                {
+                    "file": "verdana.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "VerdanaBold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "VerdanaItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Verdana-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Wuerth": [
+                {
+                    "file": "Wuerth-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Wuerth-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "trebuc": [
+                {
+                    "file": "trebucItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "test": [
+                {
+                    "file": "test.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "test-bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "AoyagiKouzan": [
+                {
+                    "file": "AoyagiKouzan.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "XANOMincho": [
+                {
+                    "file": "XANOmincho.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FormataStd": [
+                {
+                    "file": "FormataStd-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "FormataStd-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "FormataStd-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "FormataStd-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FuturaAIG": [
+                {
+                    "file": "FuturaAIG-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "FuturaAIG-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "FuturaAIG-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "HPSimplified": [
+                {
+                    "file": "HPSimplified_Rg.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "HPSimplified_Bd.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "HPSimplified-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "HPSimplified-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ZurichBTWGL4": [
+                {
+                    "file": "ZurichBTWGL4-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "ZurichBTWGL4-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ZurichLtBT": [
+                {
+                    "file": "ZurichLtBT-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Magallanes": [
+                {
+                    "file": "Magallanes-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Magallanes-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "FuturaUCDavis": [
+                {
+                    "file": "FuturaUCDavis-Book.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "FuturaUCDavis-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Daum_Regular.ttf": [
+                {
+                    "file": "Daum_Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Daum_SemiBold.ttf": [
+                {
+                    "file": "Daum_SemiBold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "GodoM.otf": [
+                {
+                    "file": "GodoM.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "GodoB.otf": [
+                {
+                    "file": "GodoB.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "BM-HANNA": [
+                {
+                    "file": "BM-HANNA.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "BM-JUA.otf": [
+                {
+                    "file": "BM-JUA.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "BerkeleyUCDavis": [
+                {
+                    "file": "BerkeleyUCDavis-BookItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "BerkeleyUCDavis-Book.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Geometric415": [
+                {
+                    "file": "Geometric415-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Geometric415-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Geometric415-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Geometric415-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Geometric415-Light": [
+                {
+                    "file": "Geometric415-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Geometric415-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Arial_Narrow": [
+                {
+                    "file": "Arial_Narrow_BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "arial-narrow.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Arial_Narrow_Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Arial_Narrow_Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "BorisBlackBloxx": [
+                {
+                    "file": "BorisBlackBloxx.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Corbel": [
+                {
+                    "file": "Corbel-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Corbel-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Corbel-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Corbel-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Interval": [
+                {
+                    "file": "Interval-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Interval-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Interval-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Interval-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Sansumi": [
+                {
+                    "file": "Sansumi-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Sansumi-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Sansumi-UltraLight": [
+                {
+                    "file": "Sansumi-UltraLight.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Roboto": [
+                {
+                    "file": "Roboto-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Roboto-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Roboto-Bold2.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Roboto-Regular2.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ClarendonLTStd": [
+                {
+                    "file": "ClarendonLTStd-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "ClarendonLTStd-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "TradeGothicLTStd": [
+                {
+                    "file": "TradeGothicLTStd-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "TradeGothicLTStd.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TradeGothicLTStd-Obl.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TradeGothicLTStd-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "NanumBarunGothicTest": [
+                {
+                    "file": "NanumBarunGothicTest.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Adelle": [
+                {
+                    "file": "Adelle-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Adelle-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Adelle-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Adelle-Regular": [
+                {
+                    "file": "Adelle-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "BentonSans": [
+                {
+                    "file": "BentonSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "BentonSans-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "BentonSans-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "BentonSans-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FrescoSansPlusPro": [
+                {
+                    "file": "FrescoSansPlusPro-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "FrescoSansPlusPro-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "IntelClear": [
+                {
+                    "file": "IntelClear-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "IntelClear-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "IntelClear-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "IntelClear-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Nexa": [
+                {
+                    "file": "Nexa-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Nexa-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Nexa-Book": [
+                {
+                    "file": "Nexa-Book.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Nexa-BookItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "IntelClearLight": [
+                {
+                    "file": "IntelClearLight-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "IntelClearLight-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MrEavesSanAlt": [
+                {
+                    "file": "MrEavesSanAlt-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MrEavesSanAlt-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MrEavesSanAlt-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "NewsGothicMT": [
+                {
+                    "file": "NewsGothicMT-Bold-fixed.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "NewsGothicMt-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "NewsGothicMT-Italic-fixed.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "NewsGothicMT-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "VParalucent": [
+                {
+                    "file": "VParalucent-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "VParalucent-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "AvenirNextLTPro": [
+                {
+                    "file": "AvenirNextLTPro-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "DINPro-Cond": [
+                {
+                    "file": "DINPro-CondRegular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MuseoSansRounded": [
+                {
+                    "file": "MuseoSansRounded-300.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MuseoSansRounded-700.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "RockwellStd": [
+                {
+                    "file": "RockwellStd-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "RockwellStd-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Strangelove-text": [
+                {
+                    "file": "Strangelove-text.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "TwoSxtnMedium": [
+                {
+                    "file": "TwoSxtnMedium-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TwoSxtnMedium-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "NanumBarunGothic2": [
+                {
+                    "file": "NanumBarunGothic2.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "NanumBarunGothicBold2": [
+                {
+                    "file": "NanumBarunGothicBold2.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "SerifGothicSTD-Reg": [
+                {
+                    "file": "SerifGothicStd.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "SerifGothicSTD-Light": [
+                {
+                    "file": "SerifGothicStd-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Alabama": [
+                {
+                    "file": "Alabama-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "KGSmallTownSouthernGirl": [
+                {
+                    "file": "KGSmallTownSouthernGirl.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "StreetCorner": [
+                {
+                    "file": "StreetCorner-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Paralucent": [
+                {
+                    "file": "Paralucent-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Paralucent-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Paralucent-DemiBold": [
+                {
+                    "file": "Paralucent-DemiBold.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MaxPro": [
+                {
+                    "file": "MaxPro-Book.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MaxPro-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Antenna": [
+                {
+                    "file": "Antenna-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Antenna-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Antenna-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Antenna-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "AntennaCond": [
+                {
+                    "file": "AntennaCond-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "AntennaCond-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "AntennaCond-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "AntennaCond-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "AntennaCond2": [
+                {
+                    "file": "AntennaCond2-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "AntennaCond2-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "AntennaCond2-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "AntennaCond2-MediumItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "DTLArgo": [
+                {
+                    "file": "DTLArgo-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "DTLArgo-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "DTLArgo-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "HPSimplified_Lt": [
+                {
+                    "file": "HPSimplified_Lt.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "HPSimplified-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FunctionPro": [
+                {
+                    "file": "FunctionPro-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "FunctionPro-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "FunctionPro-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "FunctionPro-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "National": [
+                {
+                    "file": "National-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "National-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "National-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "National-RegularItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "National2": [
+                {
+                    "file": "National2-Black.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "National2-BlackItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "National2-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "National2-MediumItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "PayPalForward": [
+                {
+                    "file": "PayPalForward-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "PayPalForward-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "PayPalForward-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "PayPalForward-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "eurostar": [
+                {
+                    "file": "eurostar.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "eurostarblack": [
+                {
+                    "file": "eurostarblack.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "InfoOTText": [
+                {
+                    "file": "InfoOTText-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "InfoOTText-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MiloOT": [
+                {
+                    "file": "MiloOT_Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MiloOT-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MiloOT-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MiloOT-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MiloOT-X": [
+                {
+                    "file": "MiloOT-XBold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MiloOT-XBoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MiloSerifOT": [
+                {
+                    "file": "MiloSerifOT-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MiloSerifOT-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MiloSerifOT-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MiloSerifOT-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Swis721Ex-Light": [
+                {
+                    "file": "Swis721Ex-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Swis721Ex": [
+                {
+                    "file": "Swis721Ex-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Zeefont": [
+                {
+                    "file": "Zeefont-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Zeefont-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Zeefont-Light": [
+                {
+                    "file": "Zeefont-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FoundryMonoline": [
+                {
+                    "file": "FoundryMonoline-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "FoundryMonoline-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "FoundryMonoline-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FoundryMonoline-ExtraBold": [
+                {
+                    "file": "FoundryMonoline-ExtraBold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "FoundryMonoline-Light": [
+                {
+                    "file": "FoundryMonoline-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FoundryMonoline-Medium": [
+                {
+                    "file": "FoundryMonoline-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FoundryMonoline-UltraLight": [
+                {
+                    "file": "FoundryMonoline-UltraLight.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "OptimaLTStd": [
+                {
+                    "file": "OptimaLTStd.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Gotham-Book": [
+                {
+                    "file": "Gotham-Book_1.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Gotham-Book-Narrow": [
+                {
+                    "file": "Gotham-Narrow-Book.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ClarendonBT": [
+                {
+                    "file": "ClarendonBT-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "ClarendonBT-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ClarendonBT-Light": [
+                {
+                    "file": "ClarendonBT-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ImagoPro": [
+                {
+                    "file": "ImagoPro-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "ImagoPro-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Minion": [
+                {
+                    "file": "Minion-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MyriadProBlack": [
+                {
+                    "file": "MyriadPro-Black.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MyriadProBoldIt": [
+                {
+                    "file": "MyriadPro-BoldIt.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MyriadProCondIt": [
+                {
+                    "file": "MyriadPro-CondIt.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MyriadProCondBold": [
+                {
+                    "file": "MyriadPro-BoldCond.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MyriadProBoldCondIt": [
+                {
+                    "file": "MyriadPro-BoldCondIt.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Lili": [
+                {
+                    "file": "lilitest.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Vodafone": [
+                {
+                    "file": "Vodafone-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Vodafone-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "VodafoneL": [
+                {
+                    "file": "Vodafone-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "VodafoneEx": [
+                {
+                    "file": "VodafoneEx-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "BMWCn": [
+                {
+                    "file": "BMWCond-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ICGHeadline": [
+                {
+                    "file": "ICGHeadline-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Montserrat": [
+                {
+                    "file": "Montserrat-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Montserrat-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Pembroke": [
+                {
+                    "file": "Pembroke-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "SouthwestSans": [
+                {
+                    "file": "SouthwestSans-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SouthwestSans-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SouthwestSans-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "SouthwestSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "SouthwestSansM": [
+                {
+                    "file": "SouthwestSans-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "SouthwestSans-MediumItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "SouthwestSans-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SouthwestSans-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ConduitITC": [
+                {
+                    "file": "ConduitITC-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "HelveticaNeueLTPro": [
+                {
+                    "file": "HelveticaNeueLTPro-Roman2.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "HelveticaNeueLTPro-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "HelveticaNeueLTPro-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "NCCCentury": [
+                {
+                    "file": "NCCCentury-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "NCCCentury-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FuturaMedium": [
+                {
+                    "file": "NCCFutura-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "NeoSansStdM": [
+                {
+                    "file": "NeoSansStd-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "NeoSansStd-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "NeoSansStd": [
+                {
+                    "file": "NeoSansStd-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "GothamRounded": [
+                {
+                    "file": "GothamRounded-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GothamRounded-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GothamRounded-Book.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GothamRounded-BookItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "GothamRoundedM-Medium": [
+                {
+                    "file": "GothamRoundedM-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "GothamRoundedM": [
+                {
+                    "file": "GothamRoundedM-MediumItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GothamRoundedM-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GothamRoundedM-Medium2.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GothamRoundedM-LightItalic2.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Gotham1": [
+                {
+                    "file": "Gotham1-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Gotham1-Book.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Gotham1-BookItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Gotham2": [
+                {
+                    "file": "Gotham2-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Gotham2-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Dinot": [
+                {
+                    "file": "Dinot-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Dinot-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "DINOT-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Dinot-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Palatino": [
+                {
+                    "file": "Palatino-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Palatino-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Palatino-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Palatino-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Swiss721CnBl": [
+                {
+                    "file": "Swiss721Cn-Black.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Fredericka": [
+                {
+                    "file": "FrederickatheGreatest-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "EndzoneTech": [
+                {
+                    "file": "EndzoneTech-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "EndzoneTech-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "EndzoneTechL": [
+                {
+                    "file": "EndzoneTech-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Bariol": [
+                {
+                    "file": "Bariol-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Bariol-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MuseoSansRnd700": [
+                {
+                    "file": "MuseoSansRnd700-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "NCRNewMarker-Regular": [
+                {
+                    "file": "NCRNewMarker-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "NCRNewSolidv3-Regular": [
+                {
+                    "file": "NCRNewSolidv3-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "NCRnewSolidv3": [
+                {
+                    "file": "NCRNewSolidv3Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FrutigerBold": [
+                {
+                    "file": "FrutigerLTStdBold.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FrutigerLight": [
+                {
+                    "file": "FrutigerLTStdLight.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "TrebuchetMS": [
+                {
+                    "file": "TrebuchetMS-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TrebuchetMS-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TrebuchetMS-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "TrebuchetMS-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "UbuntuFam": [
+                {
+                    "file": "UbuntuFam-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "UbuntuFam-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "UbuntuFam-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "UbuntuFam-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "UbuntuMono": [
+                {
+                    "file": "UbuntuMono-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "UbuntuMono-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "UbuntuMono-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "UbuntuMono-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "UbuntuM": [
+                {
+                    "file": "UbuntuM-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "UbuntuM-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "UbuntuM-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "UbuntuM-MediumItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Tahoma": [
+                {
+                    "file": "Tahoma-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Tahoma-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "ProximaNovaSoft-regular": [
+                {
+                    "file": "proximanovasoft-regular-webfont.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ProximaNovaSoft-bold": [
+                {
+                    "file": "proximanovasoft-bold-webfont.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "ProximaNovaSoft-medium": [
+                {
+                    "file": "proximanovasoft-medium-webfont.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "HelveticaNeue-LightCond": [
+                {
+                    "file": "HelveticaNeue-LightCond.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "defi_gotham_black": [
+                {
+                    "file": "defi_gotham_black.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "defi_gotham_bold": [
+                {
+                    "file": "defi_gotham_bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "defi_gotham_book": [
+                {
+                    "file": "defi_gotham_book.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "defi_gotham_medium": [
+                {
+                    "file": "defi_gotham_medium.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "defi_gotham_light": [
+                {
+                    "file": "defi_gotham_light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "QuadraatSansCaps": [
+                {
+                    "file": "QuadraatSansCaps.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "QuadraatSans": [
+                {
+                    "file": "QuadraatSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MinionProFam": [
+                {
+                    "file": "MinionProFam-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MinionProFam-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MinionProFam-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "MinionProFam-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Graphik": [
+                {
+                    "file": "Graphik-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Graphik-Semibold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "GraphikL": [
+                {
+                    "file": "Graphik-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "RalewayPrezi-Regular-v02": [
+                {
+                    "file": "RalewayPrezi-Regular-v02.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "RalewayPrezi-SemiBold-v02": [
+                {
+                    "file": "RalewayPrezi-SemiBold-v02.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "RalewayPrezi-Black-v02": [
+                {
+                    "file": "RalewayPrezi-Black-v02.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "StagSerif": [
+                {
+                    "file": "StagSerif-Black.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "StagSans2": [
+                {
+                    "file": "StagSans-Black.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "InterstateL": [
+                {
+                    "file": "InterstateL-Light.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "InterstateL-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "InterstateL-ExtraLight.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "InterstateL-ExtraLightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MinionProSemi": [
+                {
+                    "file": "MinionPro-SemiBold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "UpperEastSide": [
+                {
+                    "file": "UpperEastSide.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "UpperEastSide-Bold": [
+                {
+                    "file": "UpperEastSide-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "GoudyOldstyle": [
+                {
+                    "file": "GoudyOldstyle-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GoudyOldstyle-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GoudyOldstyle-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "TabletGothic": [
+                {
+                    "file": "TabletGothic-ExtraBoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "TabletGothic-ExtraBold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "TabletGothic-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "TabletGothic-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Stilson": [
+                {
+                    "file": "Stilson-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Stilson-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Stilson-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Stilson-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Abril": [
+                {
+                    "file": "Abril-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Abril-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Abril-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Abril-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Rabiohead": [
+                {
+                    "file": "rabiohead.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "GoudyOldStyle1": [
+                {
+                    "file": "GoudyOldstyle-Regular1.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GoudyOldstyle-Italic1.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GoudyOldstyle-Bold1.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MyriadProL": [
+                {
+                    "file": "MyriadPro-Light2.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "MyriadPro-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Emirates": [
+                {
+                    "file": "Emirates-SB.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "AkzidCnd": [
+                {
+                    "file": "AkzidGroteskPro-MediumCnd.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "AkzidLight": [
+                {
+                    "file": "AkzidGroteskPro-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "AkzidExt": [
+                {
+                    "file": "AkzidGroteskPro-LightExt.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Eurostile": [
+                {
+                    "file": "Eurostile-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Eurostile-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Vacak": [
+                {
+                    "file": "Vacak-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Vacak-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Vacak-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Vacak-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Kukde": [
+                {
+                    "file": "Kukde_B.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Kukde_L.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "BM-DOHYEON": [
+                {
+                    "file": "BM-DOHYEON.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "SimplonNorm": [
+                {
+                    "file": "SimplonNorm-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SimplonNorm-RegularItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SimplonNorm-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "SimplonNorm-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "SimplonNormM": [
+                {
+                    "file": "SimplonNorm-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SimplonNorm-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SimplonNorm-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "SimplonNorm-MediumItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "ItalianPlateNo2ExpR": [
+                {
+                    "file": "ItalianPlateNo2Exp-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ItalianPlateNo2Exp": [
+                {
+                    "file": "ItalianPlateNo2Exp-Black.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "ItalianPlateNo2Exp-Demibold.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FromWhereYouAre": [
+                {
+                    "file": "FromWhereYouAre-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "AbrilFatface": [
+                {
+                    "file": "AbrilFatface-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "FiraSans": [
+                {
+                    "file": "FiraSans-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "FiraSans-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "FiraSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "FiraSans-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "AmaticSC": [
+                {
+                    "file": "AmaticSC-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "AmaticSC-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "Antonio": [
+                {
+                    "file": "Antonio-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Antonio-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Comfortaa": [
+                {
+                    "file": "Comfortaa-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Comfortaa-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "CooperHewitt": [
+                {
+                    "file": "CooperHewitt-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "CooperHewitt-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "CooperHewitt-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "CooperHewitt-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "DroidSans": [
+                {
+                    "file": "DroidSans-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "DroidSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "FreeSerif": [
+                {
+                    "file": "FreeSerif-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "FreeSerif-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "FreeSerif-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "FreeSerif-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "GreatVibes": [
+                {
+                    "file": "GreatVibes-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Inconsolata": [
+                {
+                    "file": "Inconsolata-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Inconsolata-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Itim": [
+                {
+                    "file": "Itim-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "JosefinSans": [
+                {
+                    "file": "JosefinSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "JosefinSans-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "JosefinSans-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "JosefinSans-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "KaushanScript": [
+                {
+                    "file": "KaushanScript-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "KGEmpireofDirt": [
+                {
+                    "file": "KGEmpireofDirt-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "KomikaTitle": [
+                {
+                    "file": "KomikaTitle-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Lato": [
+                {
+                    "file": "Lato-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Lato-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Lato-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Lato-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "LiberationMono": [
+                {
+                    "file": "LiberationMono-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "LiberationMono-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "LiberationMono-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "LiberationMono-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "LibreBaskerville": [
+                {
+                    "file": "LibreBaskerville-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "LibreBaskerville-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "LibreBaskerville-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "OldStandard": [
+                {
+                    "file": "OldStandard-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "OldStandard-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OldStandard-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "OpenSansCondensed": [
+                {
+                    "file": "OpenSansCondensed-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "OpenSansCondensed-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "OpenSansCondensed-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Orbitron": [
+                {
+                    "file": "Orbitron-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Orbitron-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Oswald": [
+                {
+                    "file": "Oswald-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Oswald-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Palanquin": [
+                {
+                    "file": "Palanquin-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Palanquin-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Play": [
+                {
+                    "file": "Play-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Play-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Questrial": [
+                {
+                    "file": "Questrial-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Righteous": [
+                {
+                    "file": "Righteous-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "RobotoCondensed": [
+                {
+                    "file": "RobotoCondensed-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "RobotoCondensed-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "RobotoCondensed-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "RobotoCondensed-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Sacramento": [
+                {
+                    "file": "Sacramento-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Sanchez": [
+                {
+                    "file": "Sanchez-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Sanchez-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Sansita": [
+                {
+                    "file": "Sansita-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Sansita-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Sansita-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Sansita-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Sniglet": [
+                {
+                    "file": "Sniglet-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Sniglet-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "StintUltraExpanded": [
+                {
+                    "file": "StintUltraExpanded-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Vollkorn": [
+                {
+                    "file": "Vollkorn-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Vollkorn-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "Vollkorn-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "Vollkorn-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "WorkSans": [
+                {
+                    "file": "WorkSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "WorkSans-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ComicZineOT": [
+                {
+                    "file": "ComicZineOT-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "SourceSansPro": [
+                {
+                    "file": "SourceSansPro-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SourceSansPro-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "SourceSansPro-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SourceSansPro-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "StagSerif-Light": [
+                {
+                    "file": "StagSerif-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "StagSerifL": [
+                {
+                    "file": "StagSerifLight-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "UnitedSansSemiCond": [
+                {
+                    "file": "UnitedSansSemiCond-Heavy.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "UnitedSansSemiCond-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "UnitedSansSemiEx": [
+                {
+                    "file": "UnitedSansSemiEx-Black.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "UnitedSansSemiEx-Medium.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ITCFranklinGothicStd": [
+                {
+                    "file": "ITCFranklinGothicStd-Book.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "ITCFranklinGothicStd-BookItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "ITCFranklinGothicStd-Demi.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "ITCFranklinGothicStd-DemiItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "ITCFranklinGothicCd": [
+                {
+                    "file": "ITCFranklinGothicCd-Demi.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "ITCFranklinGothicCd-DemiItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "ITCFranklinGothicCond": [
+                {
+                    "file": "ITCFranklinGothicCond-Book.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "ITCFranklinGothicCond-BookItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "ITCFranklinGothicCond-Demi.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "ITCFranklinGothicCond-DemiItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "MichaellaType2009": [
+                {
+                    "file": "MichaellaType2009.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "BookAntiquaItalic": [
+                {
+                    "file": "ANTQUAI.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Black": [
+                {
+                    "file": "ProximaNova-Black.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "KFDisplayRg": [
+                {
+                    "file": "KFDisplay_Rg_V1.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "GothamNarrow": [
+                {
+                    "file": "GothamNarrow-Book.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GothamNarrow-BookItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GothamNarrow-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "GothamNarrow-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "GothamNarrow1": [
+                {
+                    "file": "GothamNarrow1-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GothamNarrow1-LightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "GothamNarrow1-Black.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "LatoL": [
+                {
+                    "file": "Lato-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "GothamNorrowLight": [
+                {
+                    "file": "GothamNarrow-Light.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "GothamNorrowLight-Italic": [
+                {
+                    "file": "GothamNarrow-LightItalic.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "SalesforceSans": [
+                {
+                    "file": "SalesforceSans-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SalesforceSans-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SalesforceSans-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "SalesforceSans-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "SalesforceSansThin": [
+                {
+                    "file": "SalesforceSansThin-Regular.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SalesforceSansThin-Italic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }, 
+                {
+                    "file": "SalesforceSansThin-Bold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }, 
+                {
+                    "file": "SalesforceSansThin-BoldItalic.keg", 
+                    "style": "italic", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "PetalaPro": [
+                {
+                    "file": "PetalaPro.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "PetalaProLight": [
+                {
+                    "file": "PetalaProLight.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "National-LightPL": [
+                {
+                    "file": "National-LightPL.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "National-RegularItalicPL": [
+                {
+                    "file": "National-RegularItalicPL.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "Newzald-MediumItalicPL": [
+                {
+                    "file": "Newzald-MediumItalicPL.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "MichaellaHand2015": [
+                {
+                    "file": "MichaellaHand2015.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "VectoraBold": [
+                {
+                    "file": "VectoLHBla.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "VectoraLight": [
+                {
+                    "file": "VectoLHLig.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "brandonbold": [
+                {
+                    "file": "BrandonBold.keg", 
+                    "style": "normal", 
+                    "weight": "bold"
+                }
+            ]
+        }, 
+        {
+            "brandonlight": [
+                {
+                    "file": "BrandonLight.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "brandonlightitalic": [
+                {
+                    "file": "BrandonLightItalic.keg", 
+                    "style": "italic", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "AkzidGrtskProLig": [
+                {
+                    "file": "AkzidGrtskProLig.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "AkzidGrtskProMedCnd": [
+                {
+                    "file": "AkzidGrtskProMedCnd.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }, 
+        {
+            "AkzidGrtskProLigExt": [
+                {
+                    "file": "AkzidGrtskProLigExt.keg", 
+                    "style": "normal", 
+                    "weight": "normal"
+                }
+            ]
+        }
+    ]
+}

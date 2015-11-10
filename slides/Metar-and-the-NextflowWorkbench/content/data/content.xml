@@ -1,0 +1,2765 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-140861.72419565107" y="-115366.7702802245" width="281723.44839130214" height="230733.540560449"/>
+      <aspectratio>16:9</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="73" type="image" x="401.2270041932579" y="315.22560695016745" r="-5.754754543683245e-16" s="274.336908577066">
+      <source w="1024" h="838">3937035692<url>3937035692.png</url></source>
+      <resource>
+        <id>3937035692</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/7/2/593d7c76315c92ce5fa51ef9f23d824703160.png</url>
+      </resource>
+      <sourceUrl>aviary.png</sourceUrl>
+    </object>
+    <object id="106" type="button" x="-90318.1100655116" y="62805.475393949266" r="-5.754754543683245e-16" s="40.81996020638821" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>2130.8594179475067</w>
+        <h>779.41357421875</h>
+      </size>
+    </object>
+    <object id="107" type="text" x="-88352.61994570846" y="51241.62441871311" r="-5.754754543683243e-16" s="137.1330770158932" class="body">
+      <height>54.375</height>
+      <width>511.9868457910458</width>
+      <p>
+        <text><![CDATA[Data Analysis: ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[GUI or Programming?]]></text>
+      </p>
+    </object>
+    <object id="108" type="button" x="-109616.26705748882" y="67620.58476864098" r="-5.754754543683245e-16" s="20.826510309381742" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="109" type="text" x="-109630.18408853002" y="67162.22961848392" r="-5.754754543683245e-16" s="87.50638465216805" class="body">
+      <height>54.375</height>
+      <width>151.95383639270534</width>
+      <p align="center">
+        <text><![CDATA[User Interfaces]]></text>
+      </p>
+    </object>
+    <object id="128" type="button" x="-81265.6879145658" y="65730.10607635943" r="-5.754754543683245e-16" s="21.199559213296023" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800.2263723825694</h>
+      </size>
+    </object>
+    <object id="145" type="button" x="-62866.56776950053" y="75150.08223947456" r="-5.754754543683245e-16" s="9.18062432900659" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>771.5709201883328</w>
+        <h>609.70840927921</h>
+      </size>
+    </object>
+    <object id="146" type="image" x="-62854.97074974126" y="75126.57740581063" r="-5.754754543683249e-16" s="3.901729575513968">
+      <source w="1800" h="1440">3937035719<url>3937035719.jpg</url></source>
+      <resource>
+        <id>3937035719</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/4/f/12a971b93e01df558ced1c8ff00c10d3d8211.jpg</url>
+      </resource>
+      <sourceUrl>NasaRendering.jpg</sourceUrl>
+    </object>
+    <object id="147" type="text" x="-63613.25106639524" y="72847.18265663619" r="-5.75475454368325e-16" s="7.591743752178422" class="body">
+      <height>54.375</height>
+      <width>683.6095059706256</width>
+      <p>
+        <text><![CDATA[There is a galaxy of programming languages]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="148" type="text" x="-62245.1167874915" y="75080.32073155638" r="-5.75475454368325e-16" s="7.591743752178422" class="body">
+      <height>27.1875</height>
+      <width>-86.4140625</width>
+      <p>
+        <text><![CDATA[Great?]]></text>
+      </p>
+    </object>
+    <object id="158" type="text" x="-60988.11286645221" y="75629.53991882775" r="-5.75475454368323e-16" s="7.591743752178342" class="body">
+      <height>54.375</height>
+      <width>417.6425689497637</width>
+      <p>
+        <text><![CDATA[Not so much. Each language behaves like its own planet]]></text>
+      </p>
+    </object>
+    <object id="224" type="text" x="-60947.91635455978" y="76547.70814847267" r="-5.75475454368323e-16" s="7.591743752178342" class="body">
+      <height>135.9375</height>
+      <width>428.2113587594772</width>
+      <p>
+        <text><![CDATA[Each planet is isolated from the others]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Cross-language programming is tedious if it works at all]]></text>
+      </p>
+    </object>
+    <object id="226" type="persistentgroup" x="-60947.9557245045" y="76243.42443359697" r="-5.754754543683243e-16" s="9.26726267118431">
+      <m o="158"/>
+      <m o="224"/>
+    </object>
+    <object id="227" type="text" x="-65743.26969764744" y="74124.08390248056" r="-5.754754543683263e-16" s="7.591743752178429" class="body">
+      <height>27.1875</height>
+      <width>-57.609375</width>
+      <p>
+        <text><![CDATA[Java]]></text>
+      </p>
+    </object>
+    <object id="229" type="text" x="-64588.26072506983" y="73988.6443519228" r="-5.754754543683263e-16" s="7.591743752178429" class="body">
+      <height>27.1875</height>
+      <width>-14.40234375</width>
+      <p>
+        <text><![CDATA[C]]></text>
+      </p>
+    </object>
+    <object id="232" type="text" x="-63456.523440313984" y="73418.79704372554" r="-5.754754543683263e-16" s="7.591743752178429" class="body">
+      <height>27.1875</height>
+      <width>-72.01171875</width>
+      <p>
+        <text><![CDATA[Forth]]></text>
+      </p>
+    </object>
+    <object id="233" type="text" x="-64918.962412334506" y="74292.91248252029" r="-5.754754543683263e-16" s="7.591743752178429" class="body">
+      <height>27.1875</height>
+      <width>-57.609375</width>
+      <p>
+        <text><![CDATA[Perl]]></text>
+      </p>
+    </object>
+    <object id="234" type="text" x="-65092.77010700834" y="74822.0604422848" r="-5.754754543683263e-16" s="7.591743752178429" class="body">
+      <height>27.1875</height>
+      <width>-86.4140625</width>
+      <p>
+        <text><![CDATA[Python]]></text>
+      </p>
+    </object>
+    <object id="235" type="text" x="-65799.91932728495" y="74580.89937690372" r="-5.754754543683263e-16" s="7.591743752178429" class="body">
+      <height>27.1875</height>
+      <width>-86.4140625</width>
+      <p>
+        <text><![CDATA[Erlang]]></text>
+      </p>
+    </object>
+    <object id="243" type="persistentgroup" x="-64655.55610959466" y="74120.42874300518" r="-5.75475454368325e-16" s="9.298050919261334">
+      <m o="227"/>
+      <m o="229"/>
+      <m o="232"/>
+      <m o="233"/>
+      <m o="234"/>
+      <m o="235"/>
+    </object>
+    <object id="244" type="image" x="-83667.71663927393" y="66023.57539337319" r="-5.754754543683243e-16" s="19.80637204186016">
+      <source w="386" h="500">3937035746<mask x="0" y="0" w="386" h="498"/>
+      <url>3937035746.jpg</url></source>
+      <resource>
+        <id>3937035746</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/3/d/f4768d5b9fc82ed65c7e5c0ed4862e4cd3587.jpg</url>
+      </resource>
+      <sourceUrl>lo0P1WEYazloJ3e.jpg</sourceUrl>
+    </object>
+    <object id="250" type="text" x="-75282.92833758837" y="66374.9011660745" r="-5.754754543683249e-16" s="22.338543928979337" class="body">
+      <height>435</height>
+      <width>383.952</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Best to automate ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[analyses]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Traditional ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Programming]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Languages rely on]]></text>
+      </p>
+      <p>
+        <text><![CDATA[compiler technology]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Compilers do not ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[support language ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[composition]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="256" type="text" x="-80783.26535999344" y="72308.47964827703" r="-5.754754543683249e-16" s="22.338543928979337" class="strong">
+      <height>54.375</height>
+      <width>-259.2421875</width>
+      <p>
+        <text><![CDATA[Languages Are Not ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Composable]]></text>
+      </p>
+    </object>
+    <object id="257" type="text" x="-63868.46143100467" y="73873.01258034981" r="-5.754754543683244e-16" s="7.591743752178488" class="body">
+      <height>27.1875</height>
+      <width>-57.609375</width>
+      <p>
+        <text><![CDATA[Lisp]]></text>
+      </p>
+    </object>
+    <object id="258" type="text" x="-62971.71229981336" y="73873.18311036304" r="-5.75475454368325e-16" s="7.591743752178422" class="body">
+      <height>27.1875</height>
+      <width>-100.81640625</width>
+      <p>
+        <text><![CDATA[Haskell]]></text>
+      </p>
+    </object>
+    <object id="259" type="text" x="-109474.86967339166" y="62633.655973885376" r="-5.754754543683249e-16" s="17.213009890246287" class="body">
+      <height>81.5625</height>
+      <width>487.99921875</width>
+      <p>
+        <text><![CDATA[Gentle learning curve for beginners, but inefficient for repetitive analyses]]></text>
+      </p>
+    </object>
+    <object id="260" type="text" x="-110323.8730944142" y="71668.13873635128" r="-5.754754543683245e-16" s="44.6461146184531" class="body">
+      <height>54.375</height>
+      <width>-144.0234375</width>
+      <p>
+        <text><![CDATA[beginners ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[experts ]]></text>
+      </p>
+    </object>
+    <object id="261" type="text" x="-61282.0644707328" y="58671.016969281845" r="-5.754754543683243e-16" s="31.890081870323648" class="body">
+      <height>81.5625</height>
+      <width>422.3854787484148</width>
+      <p>
+        <text><![CDATA[Even Worse: Both technologies support fragmentation inside their own community of users]]></text>
+      </p>
+    </object>
+    <object id="262" type="text" x="-57460.237637475744" y="63954.580111405805" r="-5.754754543683245e-16" s="30.67045398625707" class="body">
+      <height>54.375</height>
+      <width>676.8504260115515</width>
+      <p>
+        <text><![CDATA[GUIs: using several GUI tools is rarely seamless]]></text>
+      </p>
+    </object>
+    <object id="263" type="text" x="-59374.49444693054" y="70237.57048112439" r="-5.754754543683245e-16" s="30.67045398625707" class="body">
+      <height>81.5625</height>
+      <width>552</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Compiler technology has resulted in hundreds of languages, ~10 of them common. ]]></text>
+      </p>
+    </object>
+    <object id="264" type="text" x="-82807.68423208724" y="59188.11241603286" r="-5.754754543683245e-16" s="44.6461146184531" class="body">
+      <height>54.375</height>
+      <width>-144.0234375</width>
+      <p>
+        <text><![CDATA[beginners ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[experts ]]></text>
+      </p>
+    </object>
+    <object id="265" type="image" x="-95767.71970270258" y="65932.54307872299" r="-5.754754543683249e-16" s="14.611507046934689">
+      <source w="707" h="470">3937035767<url>3937035767.jpg</url></source>
+      <resource>
+        <id>3937035767</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/2/1/bc8906eb462c63447a7883c4125ae5d281a53.jpg</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fmedia3.washingtonpost.com%2Fwp-srv%2Fphoto%2Fgallery%2F100227%2FGAL-10Feb27-3885%2Fmedia%2FPHO-10Feb27-208584.jpg</sourceUrl>
+    </object>
+    <object id="266" type="text" x="-96075.87446534589" y="68540.32960954265" r="-5.754754543683243e-16" s="31.890081870323648" class="head head-background">
+      <height>27.1875</height>
+      <width>110</width>
+      <p align="center">
+        <text><![CDATA[GUIs]]></text>
+      </p>
+    </object>
+    <object id="267" type="text" x="-96204.20523265192" y="65124.27400524361" r="-5.754754543683246e-16" s="12.295007064461654" class="head head-background">
+      <height>27.1875</height>
+      <width>136.25101441115623</width>
+      <p align="center">
+        <text><![CDATA[Compilers]]></text>
+      </p>
+    </object>
+    <object id="268" type="text" x="-65230.92024039618" y="73715.73298325032" r="-5.754754543683243e-16" s="6.684776512187517" class="head">
+      <height>27.1875</height>
+      <width>-14.40234375</width>
+      <p>
+        <text><![CDATA[R]]></text>
+      </p>
+    </object>
+    <object id="269" type="text" x="-64249.41769271077" y="74200.60073537486" r="-5.754754543683258e-16" s="7.591743752178434" class="head">
+      <height>27.1875</height>
+      <width>-43.20703125</width>
+      <p>
+        <text><![CDATA[C++]]></text>
+      </p>
+    </object>
+    <object id="270" type="image" x="-107793.60928267326" y="72492.58354211177" r="-5.754754543683243e-16" s="11.637611051842484">
+      <source w="101" h="102" bt="-51.45" bl="-50.6">3937035779<url>3937035779.swf</url></source>
+      <resource>
+        <id>3937035779</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/0/1/27d1cf5cc2a4e2770f56ab04843664955f255.swf</url>
+      </resource>
+      <sourceUrl>th%20down.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    </object>
+    <object id="271" type="image" x="-106691.9938608568" y="70752.50426135" r="-5.754754543683243e-16" s="11.637611051842484">
+      <source w="101" h="102" bt="-51.4" bl="-50.55">3937035788<url>3937035788.swf</url></source>
+      <resource>
+        <id>3937035788</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/4/7/7a255d5be47d83fc240d606f866ff9bc90c56.swf</url>
+      </resource>
+      <sourceUrl>th%20up.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    </object>
+    <object id="272" type="image" x="-79041.57044656678" y="58565.117743299175" r="-5.754754543683243e-16" s="11.637611051842484">
+      <source w="101" h="102" bt="-51.45" bl="-50.6">3937035800<url>3937035800.swf</url></source>
+      <resource>
+        <id>3937035800</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/9/b/797def3fe1561e7fe95e1155f0d728b24b7f0.swf</url>
+      </resource>
+      <sourceUrl>th%20down.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    </object>
+    <object id="273" type="image" x="-80529.6628506802" y="59715.62377992191" r="-5.754754543683243e-16" s="11.637611051842484">
+      <source w="101" h="102" bt="-51.4" bl="-50.55">3937035815<url>3937035815.swf</url></source>
+      <resource>
+        <id>3937035815</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/b/5/40a7aca858e72558fad20b36ea31aa1160440.swf</url>
+      </resource>
+      <sourceUrl>th%20up.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    </object>
+    <object id="81" type="button" x="-16090.315647737176" y="99737.20623147712" r="1.1642617707745817e-31" s="23.05346348897019" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>2323.4283756996265</w>
+        <h>1091.1414369344711</h>
+      </size>
+    </object>
+    <object id="274" type="button" x="-486.734388413221" y="106396.20067880503" r="-5.754754543683243e-16" s="6.367086025281174" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="275" type="button" x="-386.1007716924827" y="104300.77526816868" r="2.7794198237676187e-31" s="0.4459425372746315" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>437.92441639880695</h>
+      </size>
+    </object>
+    <object id="276" type="image" x="-292.92113067396735" y="104338.53424944651" r="8.336372671003217e-32" s="0.12390096361230908">
+      <source w="1089" h="734">3937035851<mask x="0" y="283" w="1089" h="167"/>
+      <url>3937035851.png</url></source>
+      <resource>
+        <id>3937035851</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/d/5865eb7295e8ebcfcade795fb5a2cb32ac440.png</url>
+      </resource>
+      <sourceUrl>gX2DgLJ6wiCqoLZ.png</sourceUrl>
+    </object>
+    <object id="277" type="button" x="690.8692886255816" y="105965.04079421134" r="-5.754754543683252e-16" s="1.1798678151795392" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1699.5071179568768</w>
+        <h>540.727210521698</h>
+      </size>
+    </object>
+    <object id="278" type="image" x="117.40769199718528" y="105953.73425341072" r="-2.140356836017099e-31" s="0.7721214254278604">
+      <source w="906" h="659">3937035860<url>3937035860.png</url></source>
+      <resource>
+        <id>3937035860</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/d/5/dd64d607fdb80f04423ecc25bd0baa98ad6d1.png</url>
+      </resource>
+      <sourceUrl>Composable_languages_for_bioinformatics__the_NYoSh_experiment__PeerJ__and_Scaling_Sequence_Data_Analysis_for_Large_Clinical_Research_Projects.png</sourceUrl>
+    </object>
+    <object id="76" type="image" x="-24212.98719100139" y="102233.32563057814" r="1.1642617707745817e-31" s="18.096129904215456">
+      <source w="1524" h="758">3937035896<url>3937035896.png</url></source>
+      <resource>
+        <id>3937035896</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/0/b/ba1f4f10acb5468e8ed8bcfbb44120ff9b6dd.png</url>
+      </resource>
+      <sourceUrl>MetaR_Preprint.png</sourceUrl>
+    </object>
+    <object id="279" type="text" x="-375.00703840484175" y="104223.89572297504" r="2.1517112789188903e-31" s="0.768046990012587" class="head">
+      <height>27.1875</height>
+      <width>446.65</width>
+      <p>
+        <text><![CDATA[Language Workbench Technology]]></text>
+      </p>
+    </object>
+    <object id="280" type="text" x="-398.0181579195181" y="104303.58582267222" r="-9.522471986375468e-32" s="0.4338724685969966" class="body">
+      <height>271.875</height>
+      <width>698.6598305710013</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Ideas introduced in the 90s (Simonyi C 1995)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Support Composable Languages (CLs)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Robust implementations refined in the last 10 years:]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Meta-Programming System (JetBrains, open-source)]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Intentional Software (commercial)]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Spoofax (open-source)]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[XText (open-source)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Developed for the software engineering domain]]></text>
+      </p>
+    </object>
+    <object id="281" type="text" x="-415.8504487466108" y="104381.4948457722" r="3.8340090896943913e-31" s="0.2694006672401887" class="body">
+      <height>81.5625</height>
+      <width>1038.3739067350002</width>
+      <p>
+        <text><![CDATA[Erdweg, S., van der Storm, T., Völter, M., Boersma, M., Bosman, R., Cook, W. R., et al (2013). The state of the art in language workbenches. In Software Language Engineering (pp. 197–217). Springer.]]></text>
+      </p>
+    </object>
+    <object id="282" type="text" x="-1429.0362382635678" y="105984.72187014043" r="-2.3328117472299675e-31" s="11.334753423543171" class="head">
+      <height>81.5625</height>
+      <width>168.69999999999996</width>
+      <p>
+        <text><![CDATA[Language Workbench Technology]]></text>
+      </p>
+    </object>
+    <object id="283" type="text" x="-296.32560385811325" y="104906.92829220752" r="-1.0588747540368255e-30" s="4.370038119785484" class="body">
+      <height>135.9375</height>
+      <width>674.9999999999997</width>
+      <p>
+        <text><![CDATA[Ideas introduced in the 90s (Simonyi C 1995)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[First open-source implementations ~2005]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Workbench: interactive work environment]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Support Composable Languages (CLs)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Several robust implementations available today]]></text>
+      </p>
+    </object>
+    <object id="284" type="text" x="373.9501325930383" y="105369.05431927364" r="-1.0588747540368255e-30" s="4.370038119785484" class="body">
+      <height>27.1875</height>
+      <width>534.1363636363636</width>
+      <p>
+        <text><![CDATA[Developed for software engineering]]></text>
+      </p>
+    </object>
+    <object id="285" type="text" x="1121.888252087616" y="106038.78491085544" r="3.750441867899033e-31" s="5.287746124940429" class="body">
+      <height>108.75</height>
+      <width>226.1855287714941</width>
+      <p>
+        <text><![CDATA[2013: First application to bioinformatics]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="286" type="button" x="-844.174472603452" y="107116.42190026584" r="-5.754754543683249e-16" s="4.250214486579338" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>681.1664061914871</w>
+        <h>216.07048904640695</h>
+      </size>
+    </object>
+    <object id="287" type="image" x="127.56288977649454" y="107100.73979414842" r="-5.754754543683243e-16" s="0.48946127496055897">
+      <source w="1834" h="1542">3937035920<mask x="0" y="52" w="1834" h="1490"/>
+      <url>3937035920.png</url></source>
+      <resource>
+        <id>3937035920</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/e/5/b43c21bfd45693d04f75af25c7ff50f397b19.png</url>
+      </resource>
+      <sourceUrl>Cursor_and_Language_workbench_user_interfaces_for_data_analysis__PeerJ_PrePrints_.png</sourceUrl>
+    </object>
+    <object id="288" type="image" x="298.7464125026414" y="107197.95575463655" r="-5.754754543683296e-16" s="0.4330059832909993">
+      <source w="1184" h="1200">3937035938<url>3937035938.jpg</url></source>
+      <resource>
+        <id>3937035938</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/a/e/1d01f589eff7ac98189938ba666438a2899b7.jpg</url>
+      </resource>
+      <sourceUrl>https%3A%2F%2Fdfzljdn9uc3pi.cloudfront.net%2F2015%2F800%2F1%2Ffig-5-2x.jpg</sourceUrl>
+    </object>
+    <object id="289" type="text" x="-1278.264646005445" y="107182.81823677292" r="-2.6923484435120543e-31" s="7.3658313067116445" class="body">
+      <height>81.5625</height>
+      <width>260.01715432130055</width>
+      <p>
+        <text><![CDATA[Summer 2014:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[First Application ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[to Data Analysis]]></text>
+      </p>
+    </object>
+    <object id="290" type="text" x="419.9189978777768" y="106780.7108152915" r="-5.419228068560231e-31" s="1.3031837722150967" class="body body-background">
+      <height>54.375</height>
+      <width>-230.4375</width>
+      <p>
+        <text><![CDATA[Now in press at ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[PeerJ]]></text>
+      </p>
+    </object>
+    <object id="291" type="text" x="127.73281220403325" y="107495.96847944337" r="-2.995578459063067e-31" s="1.7681685290649494" class="body body-background">
+      <height>27.1875</height>
+      <width>499.5796875</width>
+      <p align="center">
+        <text><![CDATA[https://peerj.com/articles/800/]]></text>
+      </p>
+    </object>
+    <object id="292" type="text" x="117.87851642649024" y="106232.8149802946" r="2.1579237503004204e-31" s="1.531671701485945" class="body body-background">
+      <height>27.1875</height>
+      <width>451.07265625</width>
+      <p>
+        <text><![CDATA[https://peerj.com/articles/241/]]></text>
+      </p>
+    </object>
+    <object id="294" type="text" x="727.4696118354117" y="107159.53330226208" r="-5.754754543683243e-16" s="1.3031837722150934" class="head">
+      <height>108.75</height>
+      <width>216.03515625</width>
+      <p>
+        <text><![CDATA[Application ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[to ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[biomarker development ]]></text>
+      </p>
+    </object>
+    <object id="295" type="text" x="540.4048625597259" y="106984.73042329811" r="-5.754754543683163e-16" s="0.7842096731846909" class="head head-background">
+      <height>54.375</height>
+      <width>193.45126376133425</width>
+      <p>
+        <text><![CDATA[project configuration ]]></text>
+      </p>
+    </object>
+    <object id="296" type="text" x="337.7779084871064" y="107082.49595755858" r="-5.754754543683301e-16" s="0.5601497665604882" class="head head-background">
+      <height>81.5625</height>
+      <width>164.8715545855113</width>
+      <p>
+        <text><![CDATA[selection of modeling approaches  ]]></text>
+      </p>
+    </object>
+    <object id="297" type="text" x="402.79844749793705" y="107399.36177946207" r="-5.754754543683301e-16" s="0.5601497665604882" class="head head-background">
+      <height>54.375</height>
+      <width>211.93481210222063</width>
+      <p>
+        <text><![CDATA[Assay platform and dataset(s)]]></text>
+      </p>
+    </object>
+    <object id="298" type="text" x="402.8056436497593" y="107317.62835821383" r="-5.754754543683301e-16" s="0.5601497665604882" class="head head-background">
+      <height>54.375</height>
+      <width>211.93481210222063</width>
+      <p>
+        <text><![CDATA[prediction endpoints]]></text>
+      </p>
+    </object>
+    <object id="299" type="persistentgroup" x="148.70025802563873" y="107132.46825366674" r="-5.754754543683244e-16" s="1.9802688256169092">
+      <m o="287"/>
+      <m o="288"/>
+      <m o="290"/>
+      <m o="291"/>
+      <m o="295"/>
+      <m o="296"/>
+      <m o="297"/>
+      <m o="298"/>
+    </object>
+    <object id="300" type="button" x="258.05934066374294" y="107139.47217826248" r="-5.754754543683244e-16" s="1.5045362359135632" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>566.4045554694951</h>
+      </size>
+    </object>
+    <object id="336" type="button" x="-7675.614099742546" y="106849.98689323336" r="-5.754754543683245e-16" s="5.130796123601441" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="338" type="image" x="-7792.782128338905" y="108111.54598279456" r="-5.754754543683243e-16" s="2.2996040238934277">
+      <source w="672" h="394">3937035956<url>3937035956.png</url></source>
+      <resource>
+        <id>3937035956</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/3/c/701d53ca02b376f42aa0b54e33c2cce73852e.png</url>
+      </resource>
+      <sourceUrl>MyFirstRScript_-_MetaR_-____MPSProjects_git_MetaR_.png</sourceUrl>
+    </object>
+    <object id="340" type="text" x="-7703.8110423187345" y="105789.70215079591" r="-5.754754543683244e-16" s="14.528808605696826" class="body">
+      <height>54.375</height>
+      <width>199.04882445828255</width>
+      <p align="center">
+        <text><![CDATA[A composable R language]]></text>
+      </p>
+    </object>
+    <object id="341" type="image" x="-6880.32745103431" y="108149.87149064514" r="-5.754754543683243e-16" s="0.38436382088561216">
+      <source w="1800" h="600">3937035974<url>3937035974.png</url></source>
+      <resource>
+        <id>3937035974</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/d/d/89d114a1c8a93ea4fdfc57c59909cc03c9491.png</url>
+      </resource>
+      <sourceUrl>MyFirstRScript_-_MetaR_-____MPSProjects_git_MetaR_.png</sourceUrl>
+    </object>
+    <object id="342" type="text" x="-7536.360590733505" y="107044.29154520092" r="-5.754754543683243e-16" s="6.161633127465686" class="body">
+      <height>271.875</height>
+      <width>589.4398451108402</width>
+      <p>
+        <text><![CDATA[The R language is used widely for data analysis in Bioinformatics]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[We developed a composable R language ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Provides the ability to blend user interfaces and scripting, in the R world.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Enables first-class meta-programming in R.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="343" type="image" x="-6688.104417244493" y="108187.74918694128" r="-5.754754543683244e-16" s="0.33192800196458">
+      <source w="1386" h="472">3937035989<url>3937035989.png</url></source>
+      <resource>
+        <id>3937035989</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/7/a/7b14296c2972949b63f27f0cdde17736c88dc.png</url>
+      </resource>
+      <sourceUrl>Screen_Shot_2015-06-12_at_9_51_32_AM.png</sourceUrl>
+    </object>
+    <object id="344" type="button" x="-6880.287280158548" y="108140.2482527953" r="-5.75475454368324e-16" s="0.5439916153488233" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1766.3129250597597</w>
+        <h>775.47265625</h>
+      </size>
+    </object>
+    <object id="346" type="image" x="117104.9592573109" y="108220.30200859607" r="-4.083628623691702e-18" s="4.528515428969175">
+      <source w="360" h="447">3937036004<url>3937036004.png</url></source>
+      <resource>
+        <id>3937036004</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/a/8/37a06b57ab289461302203639e07ad9fb392c.png</url>
+      </resource>
+      <sourceUrl>Google_Play_Books_Partner_Center.png</sourceUrl>
+    </object>
+    <object id="347" type="image" x="115362.01721046718" y="108203.4270727803" r="-4.083628623691704e-18" s="4.579742979070633">
+      <source w="351" h="442">3937036028<url>3937036028.png</url></source>
+      <resource>
+        <id>3937036028</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/e/b/72d243938321687e465435824fd688aebb406.png</url>
+      </resource>
+      <sourceUrl>Cursor_and_Google_Play_Books_Partner_Center.png</sourceUrl>
+    </object>
+    <object id="359" type="button" x="116266.46565379183" y="108228.12258594028" r="-4.083628623691674e-18" s="2.13541733639421" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1761.6891740030317</w>
+        <h>1322.7194378376007</h>
+      </size>
+    </object>
+    <object id="348" type="persistentgroup" x="116239.18217608282" y="108211.86454068818" r="-4.0836286236916985e-18" s="20.15338765922722">
+      <m o="346"/>
+      <m o="347"/>
+    </object>
+    <object id="349" type="button" x="112807.71175942235" y="88968.28394123411" r="-2.0288729784585773e-31" s="58.799922200959614" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>920.421686585513</w>
+        <h>690.316264939135</h>
+      </size>
+    </object>
+    <object id="165" type="image" x="119959.24285361836" y="108141.95849641676" r="-2.0288729784585795e-31" s="42.51795976360359">
+      <source w="62" h="48">3937036043<url>3937036043.png</url></source>
+      <resource>
+        <id>3937036043</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/3/f/c1b408efb0918807b44989ed17867b93a0eef.png</url>
+      </resource>
+      <sourceUrl>TwitterBird.png</sourceUrl>
+    </object>
+    <object id="350" type="text" x="101332.32618688216" y="73429.90834893499" r="-2.7985462129575543e-31" s="113.67575801715304" class="head">
+      <height>27.1875</height>
+      <width>-216.03515625</width>
+      <p>
+        <text><![CDATA[Acknowledgments]]></text>
+      </p>
+    </object>
+    <object id="351" type="text" x="112699.51761676768" y="85164.57405986637" r="-2.344742511135162e-31" s="67.83833631906305" class="body">
+      <height>244.6875</height>
+      <width>730.1601819896546</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Manuele Simi (MetaR, NextflowWorkbench, GobyWeb)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Jason P Kurs (NextflowWorkbench)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[William ER Digan (Metar)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[JetBrains (MPS)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Paolo Di Tommaso, CRG, Barcelona (Nextflow.io)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[NIH NIAID award 5R01AI107762]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Weill Cornell Medical College CTSC (UL1 RR024996, NIH, National Center for Research Resources)]]></text>
+      </p>
+    </object>
+    <object id="352" type="text" x="107900.01269065816" y="96155.81067720076" r="-1.6571401093519313e-31" s="93.94690745219238" class="body body-background">
+      <height>27.1875</height>
+      <width>-403.265625</width>
+      <p>
+        <text><![CDATA[http://metaR.campagnelab.org]]></text>
+      </p>
+    </object>
+    <object id="355" type="text" x="111386.8247191914" y="100409.36752955728" r="-1.6571401093519313e-31" s="93.94690745219238" class="body body-background">
+      <height>27.1875</height>
+      <width>479.57190253286234</width>
+      <p>
+        <text><![CDATA[http://workflow.campagnelab.org/]]></text>
+      </p>
+    </object>
+    <object id="357" type="text" x="105718.99924437336" y="104564.35077142667" r="-1.6571401093519313e-31" s="93.9469074521924" class="body body-background">
+      <height>27.1875</height>
+      <width>356.83671875000005</width>
+      <p>
+        <text><![CDATA[http://jetbrains.com/mps]]></text>
+      </p>
+    </object>
+    <object id="360" type="button" x="-100706.69238874716" y="16136.737572325328" r="1.1642617707745817e-31" s="68.31085372929785" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>962.0873991896784</w>
+        <h>445.0917914890704</h>
+      </size>
+    </object>
+    <object id="361" type="image" x="-100820.46898044" y="14775.625724833955" r="7.730828928454039e-32" s="102.8760515360414">
+      <source w="600" h="260">3937036073<url>3937036073.gif</url></source>
+      <resource>
+        <id>3937036073</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/c/9/98a9e65ed872ee3732c67f6d014348818dbdb.gif</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fwww.phdcomics.com%2Fcomics%2Farchive%2Fphd053104s.gif</sourceUrl>
+    </object>
+    <object id="362" type="marker" x="-116026.5805046398" y="15714.903712134945" r="8.660975736709331e-32" s="45.91383115698068">
+      <width>24.05</width>
+      <height>489.8</height>
+      <offsetx>-4134.475</offsetx>
+      <offsety>472.625</offsety>
+      <p x="-4133.249983762288" y="235.24999907580676"/>
+      <p x="-4134.24998375836" y="392.1999984592196"/>
+      <p x="-4135.249983754431" y="511.099997992114"/>
+      <p x="-4135.999983751484" y="583.9999977057222"/>
+      <p x="-4134.999983755413" y="622.9999975525084"/>
+      <p x="-4129.949983775253" y="666.9999973796519"/>
+      <p x="-4134.999983755413" y="690.9999972853665"/>
+      <p x="-4138.999983739699" y="709.9999972107238"/>
+    </object>
+    <object id="363" type="marker" x="-108198.2725167485" y="4201.957092404947" r="8.660975736709331e-32" s="45.91383115698068">
+      <width>356.2</width>
+      <height>23.2</height>
+      <offsetx>-3963.95</offsetx>
+      <offsety>221.875</offsety>
+      <p x="-3793.349985097605" y="222.69999912511017"/>
+      <p x="-4056.249984064787" y="220.2499991347351"/>
+      <p x="-4122.949983802752" y="217.99999914357437"/>
+      <p x="-4133.999983759341" y="224.9999991160745"/>
+      <p x="-4133.999983759341" y="225.99999911214593"/>
+    </object>
+    <object id="364" type="marker" x="-100558.13738297344" y="15535.85198688003" r="8.660975736709331e-32" s="45.91383115698068">
+      <width>24.05</width>
+      <height>489.8</height>
+      <offsetx>-4134.475</offsetx>
+      <offsety>472.625</offsety>
+      <p x="-4133.249983762288" y="235.24999907580676"/>
+      <p x="-4134.24998375836" y="392.1999984592196"/>
+      <p x="-4135.249983754431" y="511.099997992114"/>
+      <p x="-4135.999983751484" y="583.9999977057222"/>
+      <p x="-4134.999983755413" y="622.9999975525084"/>
+      <p x="-4129.949983775253" y="666.9999973796519"/>
+      <p x="-4134.999983755413" y="690.9999972853665"/>
+      <p x="-4138.999983739699" y="709.9999972107238"/>
+    </object>
+    <object id="365" type="marker" x="-108242.8788431648" y="26672.70681814778" r="8.660975736709331e-32" s="45.91383115698068">
+      <width>356.2</width>
+      <height>23.2</height>
+      <offsetx>-3963.95</offsetx>
+      <offsety>221.875</offsety>
+      <p x="-3793.349985097605" y="222.69999912511017"/>
+      <p x="-4056.249984064787" y="220.2499991347351"/>
+      <p x="-4122.949983802752" y="217.99999914357437"/>
+      <p x="-4133.999983759341" y="224.9999991160745"/>
+      <p x="-4133.999983759341" y="225.99999911214593"/>
+    </object>
+    <object id="366" type="marker" x="-108501.64919409071" y="27563.547531041775" r="6.523638523782213e-32" s="60.95656222831737">
+      <width>232.4</width>
+      <height>30.3</height>
+      <offsetx>-2984.7</offsetx>
+      <offsety>549.35</offsety>
+      <p x="-3088.6998324553215" y="545.4999704096798"/>
+      <p x="-2942.9998403587306" y="544.9999704368021"/>
+      <p x="-2920.9998415521072" y="541.9999705995352"/>
+      <p x="-2906.999842311529" y="541.9999705995352"/>
+      <p x="-2890.9998431794393" y="541.9999705995352"/>
+      <p x="-2875.9998439931055" y="542.9999705452908"/>
+      <p x="-2891.999843125195" y="546.9999703283132"/>
+      <p x="-2923.999841389374" y="549.9999701655801"/>
+      <p x="-2961.999839328087" y="554.9999698943581"/>
+      <p x="-2988.999837863488" y="556.9999697858692"/>
+      <p x="-3011.999836615867" y="554.9999698943581"/>
+      <p x="-3048.999834608824" y="544.9999704368021"/>
+      <p x="-3067.9998335781806" y="543.9999704910464"/>
+      <p x="-3092.999832222071" y="546.9999703283132"/>
+      <p x="-3042.9998349342904" y="553.9999699486025"/>
+      <p x="-3024.99983591069" y="553.9999699486025"/>
+      <p x="-2990.9998377549996" y="550.9999701113356"/>
+      <p x="-2970.999838839887" y="549.9999701655801"/>
+      <p x="-2963.999839219598" y="549.9999701655801"/>
+    </object>
+    <object id="13" type="image" x="-56123.63185400247" y="7777.621998118551" r="-1.113986202051057e-15" s="63.578125971338">
+      <source w="300" h="111">3937036085<url>3937036085.png</url></source>
+      <resource>
+        <id>3937036085</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/b/1/8f348095349e420086eca207358f08f71459f.png</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fcampagnelab.org%2Ffiles%2FMetaR-logo-4-SMALL-300x111.png</sourceUrl>
+    </object>
+    <object id="367" type="text" x="-108350.5557116498" y="27621.347728064673" r="1.2283600632260728e-31" s="16.186564083889138" class="body">
+      <height>54.375</height>
+      <width>552</width>
+      <p align="center">
+        <text><![CDATA[Data Analysis: ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[from data to understanding]]></text>
+      </p>
+    </object>
+    <object id="368" type="text" x="-78333.92822228289" y="30180.3313901655" r="-5.754754543683244e-16" s="44.64611461845306" class="body">
+      <height>27.1875</height>
+      <width>759.2352684878429</width>
+      <p>
+        <text><![CDATA["Piled Higher and Deeper" by Jorge Cham]]></text>
+      </p>
+    </object>
+    <object id="24" type="button" x="63979.45690434533" y="-12873.661871806542" r="1.1642617707745817e-31" s="22.271648156948608" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1847.330983778918</w>
+        <h>966.4563781065132</h>
+      </size>
+    </object>
+    <object id="10" type="text" x="67167.7417584487" y="-20435.38820171208" r="-1.1139862020510564e-15" s="79.17495529287665" class="head">
+      <height>54.375</height>
+      <width>540.6276069247037</width>
+      <p>
+        <text><![CDATA[And yet, automating analysis in Bioinformatics is still hard!]]></text>
+      </p>
+    </object>
+    <object id="11" type="text" x="64975.981185243974" y="-11125.912652626155" r="-1.1139862020510558e-15" s="64.63385826173253" class="body">
+      <height>163.125</height>
+      <width>600.6482278982867</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Real-world analyses are done with tens of bioinformatics software tools]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Installing each of these tools on one machine can be difficult]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Installing on tens of nodes is not practical without automation]]></text>
+      </p>
+    </object>
+    <object id="16" type="image" x="-56122.22096992981" y="22482.258913214635" r="-1.113986202051057e-15" s="28.01706501768223">
+      <source w="655" h="250">3937036106<url>3937036106.png</url></source>
+      <resource>
+        <id>3937036106</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/7/6/0f57ea92da90f5c16254725695bc78d5c2aab.png</url>
+      </resource>
+      <sourceUrl>NextflowWorkbenchLogo-2.png</sourceUrl>
+    </object>
+    <object id="18" type="image" x="-36152.66858280013" y="14298.52662712924" r="1.1642617707745817e-31" s="7.007233099362137">
+      <source w="1354" h="1208">3937036112<url>3937036112.jpg</url></source>
+      <resource>
+        <id>3937036112</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/5/3/93b26caaffa499228990e92f21caaecbdb507.jpg</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fdecebalonprogramming.net%2Ffiles%2F2014-12%2Fhighres_204879182.jpeg</sourceUrl>
+    </object>
+    <object id="19" type="shape" x="-41731.0803129655" y="10634.832573655627" r="18.454066533094462" s="128.9951152154929" class="line3">
+      <geom type="arrow">
+        <sp>-29.999999999999996 0</sp>
+        <ep>30 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="20" type="shape" x="-41623.21667922789" y="19895.122796502532" r="-26.617233111205053" s="128.9951152154929" class="line3">
+      <geom type="arrow">
+        <sp>-29.999999999999996 0</sp>
+        <ep>30 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="21" type="button" x="-48558.17596057546" y="14506.314901814883" r="1.1642617707745817e-31" s="16.76049448295251" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>2213.6059401960392</w>
+        <h>1580.6067853670684</h>
+      </size>
+    </object>
+    <object id="22" type="button" x="-58267.242997578054" y="-62108.075650950326" r="1.1642617707745817e-31" s="183.17693767592152" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>901.7525520801544</w>
+        <h>581.4536800129542</h>
+      </size>
+    </object>
+    <object id="23" type="button" x="-38858.5253270236" y="12998.709352139487" r="1.1642617707745817e-31" s="4.566478506885896" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>3249.353970461102</w>
+        <h>2252.2192047995804</h>
+      </size>
+    </object>
+    <object id="0" type="image" x="-94244.81250062214" y="41940.68708310569" r="-1.1139862020510572e-15" s="85.14677289120253">
+      <source w="300" h="111">3937036124<url>3937036124.png</url></source>
+      <resource>
+        <id>3937036124</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/4/2/40cdb14bc92513191ff78353f3c4f7da8e1a1.png</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fcampagnelab.org%2Ffiles%2FMetaR-logo-4-SMALL-300x111.png</sourceUrl>
+    </object>
+    <object id="1" type="button" x="-90449.65926177824" y="98544.3758046369" r="-5.754754543683244e-16" s="39.88239562728212" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>2185.5821129101423</w>
+        <h>843.5810676084918</h>
+      </size>
+    </object>
+    <object id="2" type="text" x="-89906.59334441058" y="86699.4726270354" r="-5.754754543683243e-16" s="137.1330770158932" class="body">
+      <height>54.375</height>
+      <width>539.9715305633713</width>
+      <p align="center">
+        <text><![CDATA[What if you could have the advantages of BOTH, in the same platform?]]></text>
+      </p>
+    </object>
+    <object id="6" type="button" x="-122301.14928255668" y="100609.27792204908" r="-5.754754543683245e-16" s="8.404545019564086" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1512.9240192000543</w>
+        <h>1817.85400390625</h>
+      </size>
+    </object>
+    <object id="4" type="image" x="-122301.14928255668" y="100608.16937027773" r="-5.754754543683245e-16" s="10.797539850487512">
+      <source w="1014" h="1240">3937036133<url>3937036133.png</url></source>
+      <resource>
+        <id>3937036133</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/0/f/9ffa8be877be3aed1dc56eddea4e64b460030.png</url>
+      </resource>
+      <sourceUrl>Beaker_Publications_-_R_Examples_and_MetaR_and_the_NextflowWorkbench.png</sourceUrl>
+    </object>
+    <object id="3" type="text" x="-119248.7846349637" y="98969.54172248332" r="-5.754754543683245e-16" s="30.67045398625707" class="body">
+      <height>271.875</height>
+      <width>148.4090909090909</width>
+      <p>
+        <text color="0"><![CDATA[This is a little bit what electronic notebooks (IPython, Jupyter, Beaker) are trying to do..]]></text>
+      </p>
+    </object>
+    <object id="8" type="button" x="-89029.27797113225" y="102045.8602403278" r="-5.754754543683244e-16" s="33.36215515090468" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1402.6629739825405</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="7" type="text" x="-87762.0858768329" y="95475.18998199176" r="-5.75475454368325e-16" s="58.157811362530815" class="body">
+      <height>54.375</height>
+      <width>708.3869946582961</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[languages non-programmers can use]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[the ability to extend and compose languages]]></text>
+      </p>
+    </object>
+    <object id="14" type="button" x="-89030.9911875062" y="105841.5168278974" r="-5.754754543683245e-16" s="18.308178688992793" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1946.911315450973</w>
+        <h>678.7147827148438</h>
+      </size>
+    </object>
+    <object id="15" type="button" x="-79233.02120446759" y="104823.79746625722" r="-5.754754543683244e-16" s="14.674827441020623" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>824.8314167011417</w>
+        <h>634.6043800179732</h>
+      </size>
+    </object>
+    <object id="17" type="button" x="-79043.79645745535" y="105137.31561196368" r="-1.150950908736649e-15" s="4.439433628280327" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>2757.6300037764013</w>
+        <h>2071.292593229786</h>
+      </size>
+    </object>
+    <object id="25" type="image" x="-98321.1761742374" y="105349.28648492656" r="-1.1509509087366506e-15" s="9.62484506404652">
+      <source w="994" h="830">3937036142<url>3937036142.png</url></source>
+      <resource>
+        <id>3937036142</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/3/a/44f2d8dd602f150539296789e2f5372695c44.png</url>
+      </resource>
+      <sourceUrl>Cursor_and_GSE59364_DC_all_csv_-_MetaR_-____MPSProjects_git_metar-fresh_.png</sourceUrl>
+    </object>
+    <object id="26" type="image" x="-93123.5784384304" y="107902.0985930288" r="-5.754754543683245e-16" s="14.246957466930688">
+      <source w="304" h="173">3937036160<url>3937036160.swf</url></source>
+      <resource>
+        <id>3937036160</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/3/f/c16d6e511c68eec2ed338a45472f2b0cf8bb6.swf</url>
+      </resource>
+      <sourceUrl>ExampleGroupContainer.pdf</sourceUrl>
+    </object>
+    <object id="29" type="image" x="-79356.09948868878" y="104951.72998178366" r="-1.150950908736649e-15" s="6.751646062987624">
+      <source w="1670" h="1196">3937036175<url>3937036175.png</url></source>
+      <resource>
+        <id>3937036175</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/b/8/43ca775abcd6240fa2550127cbcee7662c82c.png</url>
+      </resource>
+      <sourceUrl>PreviewMetaR.png</sourceUrl>
+    </object>
+    <object id="30" type="shape" x="-89240.26355642588" y="102739.77450112558" r="-6.5500045709618515" s="25.54398225349589" class="line3">
+      <geom type="arrow">
+        <sp>140.7529873408528 0</sp>
+        <ep>-140.75298734085277 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="33" type="text" x="-80704.51372148075" y="105410.00028462328" r="-1.1509509087366489e-15" s="11.288697617283091" class="body body-background">
+      <height>27.1875</height>
+      <width>-273.64453125</width>
+      <p>
+        <text><![CDATA[Here's your heatmap]]></text>
+      </p>
+    </object>
+    <object id="34" type="text" x="-77124.8415826275" y="101260.41968593436" r="-1.1509509087366489e-15" s="11.288697617283091" class="body body-background">
+      <height>54.375</height>
+      <width>594.5555723248931</width>
+      <p>
+        <text><![CDATA[A simple data analysis language for beginners with no programming experience]]></text>
+      </p>
+    </object>
+    <object id="35" type="text" x="-84216.84344056282" y="106502.34802404128" r="-1.1509509087366489e-15" s="11.288697617283091" class="body body-background">
+      <height>108.75</height>
+      <width>-72.01171875</width>
+      <p>
+        <text><![CDATA[Works]]></text>
+      </p>
+      <p>
+        <text><![CDATA[with ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Git&]]></text>
+      </p>
+      <p>
+        <text><![CDATA[SVN]]></text>
+      </p>
+    </object>
+    <object id="36" type="image" x="-74236.00272710499" y="103506.0685830996" r="-1.150950908736649e-15" s="2.2778783404457115">
+      <source w="407" h="289">3937036181<url>3937036181.swf</url></source>
+      <resource>
+        <id>3937036181</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/9/7/16c877936c14fc083984bbe3cecb2a2cb8ac2.swf</url>
+      </resource>
+      <sourceUrl>chat_rect_bottomleft_w.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    </object>
+    <object id="37" type="image" x="-74260.05662612151" y="103899.1843235385" r="-1.1509509087366498e-15" s="2.0994142654776677">
+      <source w="407" h="289">3937036193<url>3937036193.swf</url></source>
+      <resource>
+        <id>3937036193</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/a/9/23cd19f1a878fe3fad59b3ab403065d1f92c7.swf</url>
+      </resource>
+      <sourceUrl>chat_rect_bottomleft_w.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    </object>
+    <object id="38" type="video" x="-79659.61336102572" y="105604.55527761964" r="-1.1509509087366489e-15" s="23.61212502949537" onFocus="start" onLeave="pause">
+      <source>3937036877<url>3937036877.mp4</url></source>
+      <resource>
+        <id>3937036877</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/1/c/9427a14849c2763d3c196f972d3efb8d2a84d.mp4</url>
+      </resource>
+    </object>
+    <object id="39" type="text" x="-84243.75800118117" y="106304.90742773638" r="-5.75475454368325e-16" s="13.108101865322531" class="body body-background">
+      <height>108.75</height>
+      <width>-72.01171875</width>
+      <p>
+        <text><![CDATA[Works]]></text>
+      </p>
+      <p>
+        <text><![CDATA[with ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Git&]]></text>
+      </p>
+      <p>
+        <text><![CDATA[SVN]]></text>
+      </p>
+    </object>
+    <object id="40" type="button" x="-79530.29231193216" y="105019.92434265612" r="-5.754754543683245e-16" s="15.20361195095031" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>592.0302107224711</h>
+      </size>
+    </object>
+    <object id="41" type="shape" x="-76092.95977176688" y="102418.40042562709" r="-26.911252473568187" s="13.983101399107852" class="line4">
+      <geom type="arrow">
+        <sp>33.30794369280776 0</sp>
+        <ep>-33.30794369280776 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="42" type="text" x="-74700.63245852123" y="102296.70416598882" r="-5.754754543683244e-16" s="11.288697617283091" class="head">
+      <height>81.5625</height>
+      <width>164.76109825316624</width>
+      <p>
+        <text color="4420372"><![CDATA[example of language composition]]></text>
+      </p>
+    </object>
+    <object id="43" type="text" x="-86960.34190040287" y="92562.77985634153" r="-5.75475454368325e-16" s="58.157811362530815" class="body">
+      <height>27.1875</height>
+      <width>708.3869946582961</width>
+      <p>
+        <text><![CDATA[but offer: ]]></text>
+      </p>
+    </object>
+    <object id="44" type="button" x="-106995.3749750704" y="100029.18916192846" r="-5.754754543683245e-16" s="8.073017403199973" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1421.7763738057577</w>
+        <h>347.7292022705078</h>
+      </size>
+    </object>
+    <object id="45" type="image" x="-106070.61965643094" y="100027.89290667554" r="-5.754754543683249e-16" s="18.83335334029347">
+      <source w="447" h="166">3937036211<url>3937036211.png</url></source>
+      <resource>
+        <id>3937036211</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/4/4/8b833dd388a5e4aac1d21b517b42c46fcf373.png</url>
+      </resource>
+      <sourceUrl>MetaR-logo-4-SMALL.png</sourceUrl>
+    </object>
+    <object id="46" type="text" x="-76923.96021242403" y="106174.40318546894" r="-5.754754543683244e-16" s="11.288697617283091" class="head">
+      <height>54.375</height>
+      <width>476.5506346168366</width>
+      <p>
+        <text color="4420372"><![CDATA[MetaR blends GUI and scripting, all in the same user interface]]></text>
+      </p>
+    </object>
+    <object id="47" type="text" x="-95266.81634292874" y="103444.23164572768" r="-5.754754543683244e-16" s="11.288697617283091" class="head">
+      <height>135.9375</height>
+      <width>250.04545454545453</width>
+      <p>
+        <text color="4420372"><![CDATA[Platform supports designing objects to help with specific analysis tasks. ]]></text>
+      </p>
+    </object>
+    <object id="48" type="text" x="-94904.14972142052" y="105419.5840824892" r="-1.1509509087366504e-15" s="11.288697617283091" class="body">
+      <height>108.75</height>
+      <width>234.68181818181813</width>
+      <p>
+        <text color="4420372" weight="bold"><![CDATA[Here, annotation of the columns in a table of data]]></text>
+      </p>
+    </object>
+    <object id="49" type="button" x="-57304.64260025735" y="102124.7565683542" r="-1.1509509087366508e-15" s="11.932110314634851" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>1707.0022895932198</h>
+      </size>
+    </object>
+    <object id="50" type="text" x="-57306.07620289065" y="93920.9657559056" r="-1.1509509087366504e-15" s="58.157811362530815" class="body">
+      <height>27.1875</height>
+      <width>-187.23046875</width>
+      <p>
+        <text><![CDATA[User Training]]></text>
+      </p>
+    </object>
+    <object id="51" type="text" x="-57217.81860575517" y="102343.78946713288" r="-1.1509509087366504e-15" s="22.422353898732325" class="body">
+      <height>598.125</height>
+      <width>469.6175834672576</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[We teach MetaR to beginners in training sessions ~1h 30'.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Taught >100 beginners to perform diff exp and build a heatmap with MetaR.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[MetaR analysis scripts generate R code that executes on the user laptop.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[We found the installation of R packages (both CRAN and BioConductor) to be  unreliable.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Users who take the MetaR training often have never used R before and need a reliable way to install R and the package dependencies.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[We tried the R checkpoint package, works for CRAN packages but not BioConductor.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="52" type="button" x="-18381.47513575572" y="71124.62257140432" r="-1.1509509087366506e-15" s="46.26232268508048" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="53" type="image" x="-28937.951499570347" y="60138.75134787422" r="-1.113986202051057e-15" s="33.560272040984906">
+      <source w="300" h="111">3937036226<url>3937036226.png</url></source>
+      <resource>
+        <id>3937036226</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/b/0/5003cb8f27e2cda7fe51a0b5abdadc5c9ecc1.png</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fcampagnelab.org%2Ffiles%2FMetaR-logo-4-SMALL-300x111.png</sourceUrl>
+    </object>
+    <object id="65" type="marker" x="-6954.422698905111" y="64370.115850933435" r="-1.1509509087366506e-15" s="62.36839861493475">
+      <width>281.1</width>
+      <height>56</height>
+      <offsetx>-226.125</offsetx>
+      <offsety>957.95</offsety>
+      <p x="-357.2499949654971" y="937.599986786984"/>
+      <p x="-107.9499984787276" y="937.9999867813472"/>
+      <p x="-259.24999634655046" y="944.5999866883376"/>
+      <p x="-331.9499953220344" y="947.9999866404232"/>
+      <p x="-350.94999505427916" y="947.9999866404232"/>
+      <p x="-166.9499976472771" y="948.999986626331"/>
+      <p x="-139.94999802777147" y="949.9999866122388"/>
+      <p x="-307.24999567011605" y="959.5999864769516"/>
+      <p x="-271.24999617744174" y="964.5999864064898"/>
+      <p x="-186.94999736542945" y="977.999986217652"/>
+      <p x="-185.94999737952185" y="974.9999862599292"/>
+      <p x="-333.9499952938496" y="962.9999864290376"/>
+      <p x="-188.9499973372449" y="948.999986626331"/>
+      <p x="-275.9499961112076" y="973.9999862740216"/>
+      <p x="-318.9499955052354" y="970.9999863162986"/>
+    </object>
+    <object id="54" type="image" x="-8832.129623628742" y="60856.00673564903" r="-1.3415918006524463e-31" s="10.610014744992537">
+      <source w="1354" h="1208">3937036253<url>3937036253.jpg</url></source>
+      <resource>
+        <id>3937036253</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/d/1/88f97f751bba00bd9c3f0c655bb444a7cbe06.jpg</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fdecebalonprogramming.net%2Ffiles%2F2014-12%2Fhighres_204879182.jpeg</sourceUrl>
+    </object>
+    <object id="102" type="persistentgroup" x="-7101.826939782361" y="60856.00673564903" r="1.1642617707745817e-31" s="119.18336340446646">
+      <m o="65"/>
+      <m o="54"/>
+    </object>
+    <object id="57" type="text" x="-18608.329459610355" y="60288.24913063828" r="-1.1509509087366504e-15" s="207.6402980367914" class="body">
+      <height>27.1875</height>
+      <width>-43.20703125</width>
+      <p>
+        <text><![CDATA[met]]></text>
+      </p>
+    </object>
+    <object id="58" type="text" x="-56911.57646135968" y="109781.67274387188" r="-1.1509509087366504e-15" s="22.422353898732325" class="body">
+      <height>81.5625</height>
+      <width>455.0592006817851</width>
+      <p align="center">
+        <text color="16775176" weight="bold"><![CDATA[We needed a better solution to achieve consistent installation on the trainees' machines]]></text>
+      </p>
+    </object>
+    <object id="59" type="button" x="-30580.059282290244" y="74499.28672977806" r="-1.1509509087366506e-15" s="9.637793415186916" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1697.649319685751</w>
+        <h>1707.8291015625</h>
+      </size>
+    </object>
+    <object id="60" type="button" x="-8258.03640074654" y="74501.47282190474" r="-1.1509509087366506e-15" s="9.637793415186916" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>2163.22577062009</w>
+        <h>1707.8291015625</h>
+      </size>
+    </object>
+    <object id="63" type="image" x="-31181.4185527474" y="77543.1373277124" r="-1.1509509087366508e-15" s="0.9108151070383218">
+      <source w="1390" h="756">3937036265<url>3937036265.png</url></source>
+      <resource>
+        <id>3937036265</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/e/e/54e6d90af0e416b2a51f602d95458df3841f0.png</url>
+      </resource>
+      <sourceUrl>MetaR_Dockerfile_at_dbd76892ca4f50c0bdff3b160625abe0d28c51a0_%C2%B7_CampagneLaboratory_MetaR.png</sourceUrl>
+    </object>
+    <object id="5" type="image" x="-14605.57539139825" y="78441.61324404474" r="1.1642617707745817e-31" s="3.172781251086935">
+      <source w="1544" h="686">3937036280<url>3937036280.png</url></source>
+      <resource>
+        <id>3937036280</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/e/6/6ed6c598f2d0fde315333a10d234aa0251835.png</url>
+      </resource>
+      <sourceUrl>Preferences.png</sourceUrl>
+    </object>
+    <object id="12" type="image" x="-8262.211422772434" y="78441.72001491154" r="1.1642617707745817e-31" s="2.72154125093235">
+      <source w="1800" h="883">3937036301<url>3937036301.png</url></source>
+      <resource>
+        <id>3937036301</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/4/5/5f6fcd6ff497839245ada9b472c5ead31b02e.png</url>
+      </resource>
+      <sourceUrl>RunConfigurationWithDocker.png</sourceUrl>
+    </object>
+    <object id="61" type="text" x="-30798.06119471634" y="67825.06861259945" r="-1.1509509087366504e-15" s="32.24877880387159" class="body">
+      <height>27.1875</height>
+      <width>-360.05859375</width>
+      <p>
+        <text><![CDATA[Building the Docker Image]]></text>
+      </p>
+    </object>
+    <object id="62" type="text" x="-30605.44271502299" y="75116.72193221436" r="-1.1509509087366506e-15" s="24.2289848263498" class="body">
+      <height>435</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[We use ]]></text>
+        <text color="16775176"><![CDATA[rocker-base]]></text>
+        <text><![CDATA[ to provide an image with Linux, and R.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[We pre-install packages inside the image that we need for the training session.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Installing some packages sometimes requires installation of specific versions of libraries (e.g., the R Cairo package depends on a specific libcairo2-dev).]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[If the image builds, containers started from the image will run with a consistent environment.]]></text>
+      </p>
+    </object>
+    <object id="64" type="text" x="-8259.188133822992" y="67209.70363130927" r="-1.1509509087366504e-15" s="32.24877880387159" class="body">
+      <height>54.375</height>
+      <width>661.905000030367</width>
+      <p align="center">
+        <text><![CDATA[Running MetaR Analyses ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Inside Docker Containers]]></text>
+      </p>
+    </object>
+    <object id="32" type="image" x="-3239.496305839612" y="75984.06820245546" r="-5.754754543683252e-16" s="3.99175402800806">
+      <source w="966" h="400">3937036313<mask x="100" y="103" w="739" h="194"/>
+      <url>3937036313.gif</url></source>
+      <resource>
+        <id>3937036313</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/b/eb957248f3548eea442bc15be262cea24a043.gif</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fbetakit.com%2Fwp-content%2Fuploads%2F2015%2F03%2FKitematic-Logo.gif</sourceUrl>
+    </object>
+    <object id="66" type="text" x="-7712.338736366549" y="70234.64556649199" r="-1.1509509087366504e-15" s="27.131048217466116" class="body">
+      <height>54.375</height>
+      <width>753.0890399993574</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Trainees know neither programming nor scripting.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Starting docker on the command line is out of ]]></text>
+      </p>
+    </object>
+    <object id="67" type="text" x="-8257.371270253612" y="72950.1083564624" r="-1.1509509087366504e-15" s="27.131048217466116" class="body">
+      <height>54.375</height>
+      <width>552</width>
+      <p align="center">
+        <text color="16775176"><![CDATA[We needed a seamless solution to run MetaR inside a docker container]]></text>
+      </p>
+    </object>
+    <object id="68" type="text" x="-9647.192859266752" y="75306.88942242281" r="-1.1509509087366504e-15" s="27.131048217466116" class="body">
+      <height>54.375</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Since MetaR is built with MPS, we can customize how analyses are run]]></text>
+      </p>
+    </object>
+    <object id="28" type="image" x="-319.0995565868897" y="75870.25045842564" r="-1.1509509087366506e-15" s="5.481153754117705">
+      <source w="450" h="350">3937036328<url>3937036328.jpg</url></source>
+      <resource>
+        <id>3937036328</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/9/d/3cd3f095f113c22992506cc13d2a92b4dccba.jpg</url>
+      </resource>
+      <sourceUrl>https%3A%2F%2Fwww.docker.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2Ftbox.jpg</sourceUrl>
+    </object>
+    <object id="55" type="image" x="-2055.72770540948" y="79073.69677561743" r="-5.754754543683246e-16" s="2.8737147070634426">
+      <source w="1914" h="1442">3937036346<url>3937036346.png</url></source>
+      <resource>
+        <id>3937036346</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/b/0/6e2f200355b93adc868d8c75308a4f26dca36.png</url>
+      </resource>
+      <sourceUrl>Limma_analysisRunningWithDocker.png</sourceUrl>
+    </object>
+    <object id="56" type="text" x="-6720.928979830766" y="71377.45276240545" r="-1.1509509087366504e-15" s="27.131048217466116" class="body">
+      <height>27.1875</height>
+      <width>754.1</width>
+      <p>
+        <text><![CDATA[the question.]]></text>
+      </p>
+    </object>
+    <object id="70" type="text" x="-13085.798873086487" y="77688.55832036532" r="1.1642617707745817e-31" s="4.357994564069816" class="body">
+      <height>54.375</height>
+      <width>500.05</width>
+      <p>
+        <text color="16744448"><![CDATA[We need a bit of information to interface with docker]]></text>
+      </p>
+    </object>
+    <object id="69" type="text" x="-13633.853732472076" y="79123.02491608812" r="1.1642617707745817e-31" s="4.357994564069816" class="strong">
+      <height>54.375</height>
+      <width>499.0427138190486</width>
+      <p>
+        <text color="16744448"><![CDATA[This Preferences panel integrates with the MPS platform]]></text>
+      </p>
+    </object>
+    <object id="72" type="button" x="82762.48369574925" y="-99352.80710066987" r="-5.75475454368325e-16" s="41.95890743658257" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>2559.120048567822</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="71" type="image" x="41346.416115069194" y="-106404.38222891084" r="-1.113986202051057e-15" s="28.01706501768223">
+      <source w="655" h="250">3937036358<url>3937036358.png</url></source>
+      <resource>
+        <id>3937036358</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/3/6/24f67b4eee0b21822b943fe7f55fe101d6561.png</url>
+      </resource>
+      <sourceUrl>NextflowWorkbenchLogo-2.png</sourceUrl>
+    </object>
+    <object id="77" type="image" x="57680.39259198203" y="-99518.01712487935" r="-5.754754543683241e-16" s="46.85392214668904">
+      <source w="319" h="64">3937036376<url>3937036376.png</url></source>
+      <resource>
+        <id>3937036376</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/2/4/0b6fffd0a42b697fd8ab99a24b9112adbb06b.png</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fwww.nextflow.io%2Fimg%2Fnextflow2014_no-bg.png</sourceUrl>
+    </object>
+    <object id="79" type="image" x="112374.7743290802" y="-99023.41897653107" r="-5.754754543683246e-16" s="10.607261849520103">
+      <source w="778" h="272">3937036385<url>3937036385.png</url></source>
+      <resource>
+        <id>3937036385</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/a/2/4f60f46b2d2c3317acc22bb026dea1170dd23.png</url>
+      </resource>
+      <sourceUrl>MPSLogo.png</sourceUrl>
+    </object>
+    <object id="80" type="image" x="128602.02421007346" y="-99347.25501559526" r="-5.75475454368325e-16" s="26.02123785247139">
+      <source w="444" h="176">3937036409<url>3937036409.png</url></source>
+      <resource>
+        <id>3937036409</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/a/9/29eca169cfb34859f7de8a35675e925dc8766.png</url>
+      </resource>
+      <sourceUrl>JetbrainsLogo.png</sourceUrl>
+    </object>
+    <object id="74" type="text" x="79370.31655202743" y="-109242.5121121876" r="-5.754754543683244e-16" s="80.09581760777198" class="strong">
+      <height>54.375</height>
+      <width>580.2310160750742</width>
+      <p>
+        <text><![CDATA[For bioinformaticians who develop analysis pipelines]]></text>
+      </p>
+    </object>
+    <object id="75" type="text" x="81997.70763315882" y="-98823.6261863056" r="-5.754754543683245e-16" s="80.09581760777195" class="body">
+      <height>27.1875</height>
+      <width>1243.3897496814102</width>
+      <p>
+        <text><![CDATA[Built on top of                with Language Workbench Technology         from]]></text>
+      </p>
+    </object>
+    <object id="78" type="persistentgroup" x="81997.70763315883" y="-99376.08314963666" r="-5.754754543683249e-16" s="37.4937828861712">
+      <m o="77"/>
+      <m o="75"/>
+    </object>
+    <object id="82" type="image" x="128602.13098094027" y="-92871.81548471344" r="-5.754754543683244e-16" s="15.455011463377872">
+      <source w="550" h="475">3937036415<url>3937036415.png</url></source>
+      <resource>
+        <id>3937036415</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/e/6/8e7d64294c9f06011216b86b9875006090c5c.png</url>
+      </resource>
+      <sourceUrl>https%3A%2F%2Foscedays.org%2Fwp-content%2Fuploads%2F2014%2F12%2Fopen-source-logo.png</sourceUrl>
+    </object>
+    <object id="83" type="text" x="73923.99825003458" y="-92818.90391399265" r="-5.754754543683244e-16" s="80.09581760777198" class="body">
+      <height>27.1875</height>
+      <width>982.3783042669552</width>
+      <p>
+        <text><![CDATA[When MetaR built on R, NextflowWorkbench builds on Nextflow]]></text>
+      </p>
+    </object>
+    <object id="84" type="button" x="56281.31142407664" y="-71052.65499577152" r="-5.754754543683245e-16" s="41.894321746636585" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="85" type="text" x="57489.912915968365" y="-67522.60630342078" r="-5.754754543683245e-16" s="62.12123160419519" class="body">
+      <height>462.1875</height>
+      <width>631.4588176513188</width>
+      <p>
+        <text><![CDATA[All the advantages of Nextflow:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Dataflow paradigm for implicit parallelization]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Workflow portability (Local execution, Sun Grid Engine, Slurm, etc.)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Docker integration]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[In a language designed from the ground-up to provide:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Modularity (reusable Processes can be organized in libraries)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Interactive assistance]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Extensibility and composability]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[  ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="86" type="text" x="105065.59253400489" y="-67775.10283006937" r="-5.754754543683244e-16" s="80.09581760777198" class="body">
+      <height>190.3125</height>
+      <width>511.27734375</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Auto-completion for language elements facilitate learning]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Intentions & Refactorings]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Effective language typesystem helps write correct workflows]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Execute workflows from inside MPS to help development]]></text>
+      </p>
+    </object>
+    <object id="87" type="button" x="105717.61078287128" y="-70964.83265912741" r="-5.754754543683245e-16" s="41.894321746636585" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="89" type="image" x="121348.54537267642" y="-78900.95433222115" r="-5.754754543683246e-16" s="10.607261849520103">
+      <source w="778" h="272">3937036430<url>3937036430.png</url></source>
+      <resource>
+        <id>3937036430</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/8/9/4fbcd30d00354076b7f34aba403cccd3018a4.png</url>
+      </resource>
+      <sourceUrl>MPSLogo.png</sourceUrl>
+    </object>
+    <object id="88" type="text" x="110143.17137615372" y="-81798.5198066847" r="-5.754754543683249e-16" s="68.3333547646147" class="head">
+      <height>54.375</height>
+      <width>631.4588176513188</width>
+      <p>
+        <text><![CDATA[NextflowWorkbench is an Integrated Development Environment]]></text>
+      </p>
+    </object>
+    <object id="90" type="button" x="63102.795334321134" y="-39691.38213915207" r="1.1642617707745817e-31" s="39.38903582618832" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="91" type="text" x="64775.160404471746" y="-49503.24948117879" r="1.1642617707745817e-31" s="62.12123160419519" class="head">
+      <height>54.375</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Here's what Workflow and Processes ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[look like in the Workbench]]></text>
+      </p>
+    </object>
+    <object id="92" type="image" x="57334.712796119915" y="-38431.0588272122" r="1.1642617707745817e-31" s="15.278171471976076">
+      <source w="1800" h="1183">3937036439<url>3937036439.png</url></source>
+      <resource>
+        <id>3937036439</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/2/3/732cef183ffd9f66542ff22c8c377d81b3184.png</url>
+      </resource>
+      <sourceUrl>NextflowWorkbench.png</sourceUrl>
+    </object>
+    <object id="93" type="image" x="77309.62010248499" y="-42965.93785364575" r="1.1642617707745817e-31" s="7.492059283402002">
+      <source w="1250" h="524">3937036451<url>3937036451.png</url></source>
+      <resource>
+        <id>3937036451</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/4/6/83598be611d876a1ff17c6ee5a82b1da5f5cc.png</url>
+      </resource>
+      <sourceUrl>AProcess.png</sourceUrl>
+    </object>
+    <object id="94" type="text" x="77631.53426594642" y="-40188.93437853192" r="1.1642617707745817e-31" s="17.431978256279265" class="head">
+      <height>54.375</height>
+      <width>331.25390625</width>
+      <p align="center">
+        <text color="16775176"><![CDATA[Processes can be reused across Workflows]]></text>
+      </p>
+    </object>
+    <object id="95" type="button" x="77167.98613307445" y="-42587.991354527534" r="1.1642617707745817e-31" s="13.225401074769058" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>451.2086132851538</h>
+      </size>
+    </object>
+    <object id="96" type="image" x="77633.88322501646" y="-35856.06583212123" r="1.1642617707745817e-31" s="4.9143830726071265">
+      <source w="1858" h="706">3937036463<url>3937036463.png</url></source>
+      <resource>
+        <id>3937036463</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/a/3/4c6952b2ed8c336d48627958d479dd1a6e82f.png</url>
+      </resource>
+      <sourceUrl>WorkflowExecution.png</sourceUrl>
+    </object>
+    <object id="97" type="text" x="77672.79140048446" y="-32934.344252521056" r="1.1642617707745817e-31" s="17.431978256279265" class="head">
+      <height>81.5625</height>
+      <width>544.6021609175459</width>
+      <p align="center">
+        <text color="16775176"><![CDATA[You can run workflows directly from the Workbench (code generates to Nextflow as part of running)]]></text>
+      </p>
+    </object>
+    <object id="98" type="button" x="77520.25687874928" y="-34947.58836036149" r="1.1642617707745817e-31" s="2.880724786405358" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>3497.626241547314</w>
+        <h>2169.8532495498657</h>
+      </size>
+    </object>
+    <object id="99" type="text" x="64644.01027659207" y="-4080.467286295799" r="-1.1509509087366506e-15" s="46.55344984015213" class="body">
+      <height>54.375</height>
+      <width>503.6895617221245</width>
+      <p align="center">
+        <text color="16775176" weight="bold"><![CDATA[We needed a better solution than manual installation of tools]]></text>
+      </p>
+    </object>
+    <object id="100" type="button" x="109972.98324956362" y="-39919.77503833139" r="1.1642617707745817e-31" s="31.744409790955174" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1336.7555342690268</w>
+        <h>729.2098236083984</h>
+      </size>
+    </object>
+    <object id="101" type="image" x="103997.74566013936" y="-49129.60645341402" r="-1.113986202051057e-15" s="28.01706501768223">
+      <source w="655" h="250">3937036472<url>3937036472.png</url></source>
+      <resource>
+        <id>3937036472</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/c/1/cf0e0c2c18473b3717608871b8b13e17a51b7.png</url>
+      </resource>
+      <sourceUrl>NextflowWorkbenchLogo-2.png</sourceUrl>
+    </object>
+    <object id="103" type="marker" x="121396.86624914498" y="-43384.41330506494" r="-1.1509509087366508e-15" s="62.36839861493477">
+      <width>281.1</width>
+      <height>56</height>
+      <offsetx>-226.125</offsetx>
+      <offsety>957.95</offsety>
+      <p x="-357.2499949654971" y="937.599986786984"/>
+      <p x="-107.9499984787276" y="937.9999867813472"/>
+      <p x="-259.24999634655046" y="944.5999866883376"/>
+      <p x="-331.9499953220344" y="947.9999866404232"/>
+      <p x="-350.94999505427916" y="947.9999866404232"/>
+      <p x="-166.9499976472771" y="948.999986626331"/>
+      <p x="-139.94999802777147" y="949.9999866122388"/>
+      <p x="-307.24999567011605" y="959.5999864769516"/>
+      <p x="-271.24999617744174" y="964.5999864064898"/>
+      <p x="-186.94999736542945" y="977.999986217652"/>
+      <p x="-185.94999737952185" y="974.9999862599292"/>
+      <p x="-333.9499952938496" y="962.9999864290376"/>
+      <p x="-188.9499973372449" y="948.999986626331"/>
+      <p x="-275.9499961112076" y="973.9999862740216"/>
+      <p x="-318.9499955052354" y="970.9999863162986"/>
+    </object>
+    <object id="104" type="image" x="119519.15932442134" y="-46898.522420349334" r="-1.3415918006524452e-31" s="10.610014744992542">
+      <source w="1354" h="1208">3937036490<url>3937036490.jpg</url></source>
+      <resource>
+        <id>3937036490</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/4/7/51930919b7456d4b1a6e7a1183e19ae2cca6e.jpg</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fdecebalonprogramming.net%2Ffiles%2F2014-12%2Fhighres_204879182.jpeg</sourceUrl>
+    </object>
+    <object id="105" type="persistentgroup" x="121249.46200826773" y="-46898.522420349334" r="1.1642617707745817e-31" s="119.18336340446646">
+      <m o="103"/>
+      <m o="104"/>
+    </object>
+    <object id="114" type="image" x="96221.94374226032" y="-31829.20259001586" r="1.1642617707745817e-31" s="8.558969478727866">
+      <source w="1416" h="370">3937036517<url>3937036517.png</url></source>
+      <resource>
+        <id>3937036517</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/0/7/8ab68555fd409dcf523f0c2e692a0685692a9.png</url>
+      </resource>
+      <sourceUrl>MessagesTabFeedback.png</sourceUrl>
+    </object>
+    <object id="119" type="image" x="107857.83280827236" y="-39595.71544248159" r="1.1642617707745817e-31" s="10.257680639433312">
+      <source w="930" h="566">3937036535<url>3937036535.png</url></source>
+      <resource>
+        <id>3937036535</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/9/c/9f73b06ebf8bb8583127ed971978f7be2f7e8.png</url>
+      </resource>
+      <sourceUrl>InteractivePathInContainer-2.png</sourceUrl>
+    </object>
+    <object id="144" type="image" x="96238.96212508912" y="-37096.14493855306" r="1.1642617707745817e-31" s="9.511076900477972">
+      <source w="1264" h="474">3937036547<mask x="0" y="3" w="1264" h="471"/>
+      <url>3937036547.png</url></source>
+      <resource>
+        <id>3937036547</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/7/f/46bc30f7ad608fc4ce354ab24eef6ce36e5fc.png</url>
+      </resource>
+      <sourceUrl>5Kggdh85eYUehmb.png</sourceUrl>
+    </object>
+    <object id="110" type="text" x="100687.7479694477" y="-43919.71654511618" r="1.1642617707745817e-31" s="79.17495529287665" class="head">
+      <height>27.1875</height>
+      <width>245.89488305651855</width>
+      <p>
+        <text><![CDATA[Since release 1.2]]></text>
+      </p>
+    </object>
+    <object id="113" type="text" x="98921.4635059681" y="-37313.17698976637" r="1.1642617707745817e-31" s="12.273035510190342" class="head">
+      <height>108.75</height>
+      <width>330.68181818181824</width>
+      <p>
+        <text color="16744448"><![CDATA[Pressing this button]]></text>
+      </p>
+      <p>
+        <text color="16744448"><![CDATA[will pull the image to the development machine]]></text>
+      </p>
+    </object>
+    <object id="115" type="image" x="109931.19629400827" y="-30537.54293218291" r="1.1642617707745817e-31" s="9.517773948500135">
+      <source w="1416" h="264">3937036559<url>3937036559.png</url></source>
+      <resource>
+        <id>3937036559</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/c/c/f5b882f003a2b8815f98e5d6cbb42ccecda7d.png</url>
+      </resource>
+      <sourceUrl>TlICmHbyCvo812q.png</sourceUrl>
+    </object>
+    <object id="116" type="image" x="111285.35931976064" y="-34415.12186147083" r="1.1642617707745817e-31" s="9.194190721321682">
+      <source w="1826" h="572">3937036589<mask x="0" y="0" w="1826" h="455"/>
+      <url>3937036589.png</url></source>
+      <resource>
+        <id>3937036589</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/9/1/0c82a2b6489e1504e289bd95830f21c34f424.png</url>
+      </resource>
+      <sourceUrl>22koM4MmHAMw6tc.png</sourceUrl>
+    </object>
+    <object id="117" type="text" x="115686.010211216" y="-33817.15133748445" r="1.1642617707745817e-31" s="17.890722318061723" class="head">
+      <height>54.375</height>
+      <width>762.3739423324066</width>
+      <p>
+        <text color="16744448"><![CDATA[An interactive use container waiting ]]></text>
+      </p>
+      <p>
+        <text color="16744448"><![CDATA[for docker exec commands]]></text>
+      </p>
+    </object>
+    <object id="120" type="button" x="111022.63372288714" y="-39721.89368532699" r="1.1642617707745817e-31" s="7.140059391889304" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>2421.006852135485</w>
+        <h>898.9629211425781</h>
+      </size>
+    </object>
+    <object id="121" type="text" x="116024.82125023103" y="-39701.40178569635" r="1.1642617707745817e-31" s="17.890722318061723" class="body">
+      <height>135.9375</height>
+      <width>316.8515625</width>
+      <p>
+        <text><![CDATA[Demonstrating ]]></text>
+        <text color="16775176"><![CDATA[interactive auto-completion]]></text>
+        <text><![CDATA[ for files ]]></text>
+        <text color="16775176"><![CDATA[inside the docker container]]></text>
+      </p>
+    </object>
+    <object id="122" type="button" x="124909.24701024692" y="-38830.48863998474" r="1.1642617707745817e-31" s="8.333168876624823" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="123" type="text" x="124497.64531865688" y="-41129.585715213565" r="1.1642617707745817e-31" s="17.083338691153678" class="body">
+      <height>27.1875</height>
+      <width>-316.8515625</width>
+      <p>
+        <text><![CDATA[Also introduced in 1.2]]></text>
+      </p>
+    </object>
+    <object id="124" type="text" x="123272.23608016704" y="-40453.619357378" r="1.1642617707745817e-31" s="17.083338691153678" class="body">
+      <height>27.1875</height>
+      <width>-273.64453125</width>
+      <p>
+        <text><![CDATA[Docker IDE features]]></text>
+      </p>
+    </object>
+    <object id="126" type="image" x="123587.95753335304" y="-38535.0536514946" r="1.1642617707745817e-31" s="2.8421512565309546">
+      <source w="1800" h="955">3937036610<url>3937036610.png</url></source>
+      <resource>
+        <id>3937036610</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/6/6/89c4cd1407b4de0e240b1c1a73f42fe016522.png</url>
+      </resource>
+      <sourceUrl>DockerfileIDE.png</sourceUrl>
+    </object>
+    <object id="125" type="text" x="126834.4325098731" y="-39152.72311604659" r="1.1642617707745817e-31" s="17.083338691153678" class="body">
+      <height>81.5625</height>
+      <width>244.83984375</width>
+      <p align="right">
+        <text color="16775176"><![CDATA[Composable Dockerfile Language]]></text>
+      </p>
+    </object>
+    <object id="127" type="text" x="127773.47241290238" y="-37570.12319740418" r="1.1642617707745817e-31" s="10.607409262378791" class="body">
+      <height>108.75</height>
+      <width>240.02578125</width>
+      <p>
+        <text><![CDATA[Also, support to tag, then push image to docker registry]]></text>
+      </p>
+    </object>
+    <object id="129" type="button" x="109861.92197847836" y="-12899.471571967202" r="1.1642617707745817e-31" s="31.744409790955174" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1336.7555342690268</w>
+        <h>729.2098236083984</h>
+      </size>
+    </object>
+    <object id="130" type="image" x="103886.68438905408" y="-22109.302987049807" r="-1.113986202051057e-15" s="28.01706501768223">
+      <source w="655" h="250">3937036619<url>3937036619.png</url></source>
+      <resource>
+        <id>3937036619</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/2/7/b0922b99b128e7482e998c2abc34959c6317b.png</url>
+      </resource>
+      <sourceUrl>NextflowWorkbenchLogo-2.png</sourceUrl>
+    </object>
+    <object id="136" type="text" x="100576.68669836242" y="-16899.413078751997" r="1.1642617707745817e-31" s="79.17495529287665" class="head">
+      <height>27.1875</height>
+      <width>245.89488305651855</width>
+      <p>
+        <text><![CDATA[Since release 1.2]]></text>
+      </p>
+    </object>
+    <object id="157" type="image" x="112520.62333315592" y="-9494.445585201547" r="1.1642617707745817e-31" s="16.738707832114777">
+      <source w="406" h="288">3937036643<url>3937036643.png</url></source>
+      <resource>
+        <id>3937036643</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/4/e/4621d22c731be18e2882c5461d06f0d259633.png</url>
+      </resource>
+      <sourceUrl>http%3A%2F%2Fcampagnelab.org%2Ffiles%2FLogin.png</sourceUrl>
+    </object>
+    <object id="159" type="text" x="121012.8763141748" y="-10386.577215778396" r="1.1642617707745817e-31" s="36.935700971902634" class="body">
+      <height>54.375</height>
+      <width>252.5470314681449</width>
+      <p>
+        <text><![CDATA[Dorff et al PLOS One 2013]]></text>
+      </p>
+    </object>
+    <object id="162" type="image" x="99952.517828941" y="-7852.744636590058" r="1.1642617707745817e-31" s="12.496519683121004">
+      <source w="1306" h="750">3937036676<mask x="0" y="8" w="1306" h="732"/>
+      <url>3937036676.png</url></source>
+      <resource>
+        <id>3937036676</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/8/0/2f09578e54898c998b313c6bb73b2434669ef.png</url>
+      </resource>
+      <sourceUrl>NbLrG8sCa5QcqxV.png</sourceUrl>
+    </object>
+    <object id="111" type="image" x="125046.27650787252" y="-5527.623114679949" r="1.1642617707745817e-31" s="6.772913178849382">
+      <source w="1334" h="514">3937036706<url>3937036706.png</url></source>
+      <resource>
+        <id>3937036706</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/b/2/e05427479e7136d0bd75e5712bea2781db80a.png</url>
+      </resource>
+      <sourceUrl>BashScriptSalmonIndex-1.png</sourceUrl>
+    </object>
+    <object id="160" type="text" x="109783.79726971449" y="-13737.029958811823" r="1.1642617707745817e-31" s="36.935700971902634" class="body">
+      <height>54.375</height>
+      <width>1026.07734375</width>
+      <p>
+        <text><![CDATA[Using image artifacts/software, the workbench can automatically install the following software and data resources: ]]></text>
+      </p>
+    </object>
+    <object id="161" type="text" x="116978.48151399178" y="-4974.109708657923" r="1.1642617707745817e-31" s="36.935700971902634" class="body">
+      <height>81.5625</height>
+      <width>424.9191203393422</width>
+      <p>
+        <text><![CDATA[Excerpt from the NextflowWorkbench documentation booklet]]></text>
+      </p>
+    </object>
+    <object id="163" type="text" x="122346.42589397344" y="-8819.226623433697" r="1.1642617707745817e-31" s="26.38264355135902" class="body">
+      <height>27.1875</height>
+      <width>454.5</width>
+      <p>
+        <text><![CDATA[http://gobyweb.campagnelab.org]]></text>
+      </p>
+    </object>
+    <object id="164" type="text" x="126789.76300061891" y="108288.09301927564" r="-2.0288729784585795e-31" s="85.4062795019931" class="body">
+      <height>27.1875</height>
+      <width>-115.21875</width>
+      <p>
+        <text><![CDATA[@fac2003]]></text>
+      </p>
+    </object>
+    <object id="31" type="button" x="105970.8645887492" y="-8968.557833507739" r="1.1642617707745817e-31" s="7.93974344841957" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>3990.604118329256</w>
+        <h>1622.0415932227045</h>
+      </size>
+    </object>
+    <object id="131" type="shape" x="123045.38467137609" y="-6102.808127309445" r="-12.793494477382493" s="7.8622459059179555" class="line3">
+      <geom type="arrow">
+        <sp>36.443382610757816 6.229439385232346</sp>
+        <ep>-36.44338261075782 6.22943938523236</ep>
+        <b>12.458878770464706</b>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="132" type="text" x="125641.48456587084" y="-6105.036911717808" r="1.164261770774582e-31" s="6.062472297742954" class="body">
+      <height>27.1875</height>
+      <width>714.1533971266063</width>
+      <p>
+        <text color="16744448"><![CDATA[Requests installation of specific resources]]></text>
+      </p>
+    </object>
+    <object id="133" type="text" x="127235.80763673126" y="-5247.652439285674" r="1.164261770774582e-31" s="6.062472297742954" class="body">
+      <height>27.1875</height>
+      <width>552</width>
+      <p>
+        <text color="16744448"><![CDATA[Salmon index for human transcriptome ]]></text>
+      </p>
+    </object>
+    <object id="134" type="button" x="69513.84727304301" y="14151.198733356268" r="1.1642617707745817e-31" s="43.043970628632685" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="138" type="image" x="76803.81995508396" y="15492.006494536749" r="1.1642617707745817e-31" s="15.818404010542611">
+      <source w="1646" h="604">3937036718<url>3937036718.png</url></source>
+      <resource>
+        <id>3937036718</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/d/2/b2b99a3d9338e7dc1e7410ce653fedc964ce4.png</url>
+      </resource>
+      <sourceUrl>Installing_GobyWebResources_Inside_A_Docker_Image.png</sourceUrl>
+    </object>
+    <object id="137" type="text" x="80849.24030790023" y="5948.714135859708" r="1.1642617707745817e-31" s="79.17495529287665" class="head">
+      <height>27.1875</height>
+      <width>245.89488305651855</width>
+      <p>
+        <text><![CDATA[Release 1.3]]></text>
+      </p>
+    </object>
+    <object id="139" type="text" x="55607.990974846245" y="15245.702355914378" r="1.164261770774582e-31" s="49.776110018169" class="body">
+      <height>163.125</height>
+      <width>263.94079923568523</width>
+      <p>
+        <text><![CDATA[Makes it easier to create frozen docker images that include a specific set of GobyWeb resources]]></text>
+      </p>
+    </object>
+    <object id="140" type="text" x="71690.61486150474" y="23882.202213037097" r="1.1642617707745817e-31" s="49.776110018169" class="body">
+      <height>135.9375</height>
+      <width>722.4365442049047</width>
+      <p>
+        <text><![CDATA[Useful for:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Clinical applications where analysis pipelines need to be frozen]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Training to simplify installation on participants' laptops]]></text>
+      </p>
+    </object>
+    <object id="174" type="image" x="-17771.13945154116" y="107867.09073814753" r="1.1642617707745817e-31" s="11.398910573753962">
+      <source w="1306" h="178">3956743160<url>3956743160.png</url></source>
+      <resource>
+        <id>3956743160</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/0/2/7f42b63a3c75e5384c3b2381b918b73e2dddb.png</url>
+      </resource>
+      <sourceUrl>Article_details_Altimetrics-2.png</sourceUrl>
+    </object>
+    <object id="141" type="text" x="-17446.88910294585" y="91622.29059765986" r="1.1642617707745817e-31" s="80.54690329660122" class="body">
+      <height>54.375</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[To learn more about MetaR, see this preprint]]></text>
+      </p>
+    </object>
+    <object id="142" type="image" x="59161.067267355415" y="6038.6835982903085" r="-1.113986202051057e-15" s="28.01706501768223">
+      <source w="655" h="250">3937036745<url>3937036745.png</url></source>
+      <resource>
+        <id>3937036745</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/9/c/f8104ca84d46fd588a878d262bd0d26de7d35.png</url>
+      </resource>
+      <sourceUrl>NextflowWorkbenchLogo-2.png</sourceUrl>
+    </object>
+    <object id="112" type="shape" x="101036.66646269002" y="-37974.46760499426" r="147.27364067972889" s="8.541669345576844" class="line3">
+      <geom type="arrow">
+        <sp>43.322731733599646 12.90612245743842</sp>
+        <ep>-43.32273173359965 12.906122457438403</ep>
+        <b>25.812244914876825</b>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="118" type="text" x="128681.05915611528" y="-4519.708519596565" r="0" s="6.062472297742954" class="body">
+      <height>81.5625</height>
+      <width>386.35</width>
+      <p>
+        <text color="1657497"><![CDATA[Resources will be installed before the script starts]]></text>
+      </p>
+    </object>
+    <object id="135" type="button" x="116699.81137702276" y="13718.898833736075" r="1.1642617707745817e-31" s="43.043970628632685" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="149" type="text" x="128035.20441187995" y="5516.414236239517" r="1.1642617707745817e-31" s="79.17495529287665" class="head">
+      <height>27.1875</height>
+      <width>245.89488305651855</width>
+      <p>
+        <text><![CDATA[Release 1.3.1]]></text>
+      </p>
+    </object>
+    <object id="150" type="text" x="105611.28290585434" y="13461.9810693009" r="1.164261770774582e-31" s="49.776110018169" class="body">
+      <height>108.75</height>
+      <width>377.1907992356852</width>
+      <p>
+        <text><![CDATA[You have developed a BASH script or Process and specified which the resources it needs.]]></text>
+      </p>
+    </object>
+    <object id="152" type="image" x="106347.03137133516" y="5606.383698670118" r="-1.113986202051057e-15" s="28.01706501768223">
+      <source w="655" h="250">3937036775<url>3937036775.png</url></source>
+      <resource>
+        <id>3937036775</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/4/a/401e051b2d128f9a07aaef712d402d6e57083.png</url>
+      </resource>
+      <sourceUrl>NextflowWorkbenchLogo-2.png</sourceUrl>
+    </object>
+    <object id="153" type="image" x="127438.66962969051" y="13720.943494490037" r="1.1642617707745817e-31" s="14.107098091723897">
+      <source w="1338" h="634">3937036793<url>3937036793.png</url></source>
+      <resource>
+        <id>3937036793</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/9/7/cb4a12fb1e9ad121158d00ee9f9d6d6b872a3.png</url>
+      </resource>
+      <sourceUrl>CreateDockerfileIntention.png</sourceUrl>
+    </object>
+    <object id="154" type="image" x="124897.54171110548" y="22312.273463818463" r="1.1642617707745817e-31" s="16.401315437569796">
+      <source w="1632" h="436">3937036811<url>3937036811.png</url></source>
+      <resource>
+        <id>3937036811</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/b/7/51845dc9136267b4b6f22df6f7be756dcdf61.png</url>
+      </resource>
+      <sourceUrl>CreatedDockerfile-1.png</sourceUrl>
+    </object>
+    <object id="155" type="text" x="103615.33568350428" y="20995.810201781816" r="1.1642617707745817e-31" s="49.776110018169" class="body">
+      <height>190.3125</height>
+      <width>302.8327969156025</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[A simple intention produces a Dockerfile.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Use it to freeze these resources into an image.  ]]></text>
+      </p>
+    </object>
+    <object id="9" type="button" x="88205.42638261282" y="44244.80581401937" r="-5.754754543683245e-16" s="38.31572156459689" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>2487.12530566667</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="27" type="text" x="52284.18266882824" y="34276.02307147579" r="-5.754754543683245e-16" s="96.9995567638873" class="head">
+      <height>27.1875</height>
+      <width>-115.21875</width>
+      <p>
+        <text><![CDATA[To recap]]></text>
+      </p>
+    </object>
+    <object id="143" type="text" x="54166.70442840071" y="39506.54014558364" r="-5.754754543683245e-16" s="96.9995567638873" class="strong">
+      <height>27.1875</height>
+      <width>-216.03515625</width>
+      <p>
+        <text><![CDATA[draft with BASH]]></text>
+      </p>
+    </object>
+    <object id="151" type="image" x="57337.09051202211" y="46719.33464999465" r="-5.754754543683245e-16" s="16.81994256203205">
+      <source w="1818" h="690">3937488368<mask x="0" y="0" w="1817" h="690"/>
+      <url>3937488368.png</url></source>
+      <resource>
+        <id>3937488368</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/4/6/b37c5b7b728a16981183eccf05ce8228ee07d.png</url>
+      </resource>
+      <sourceUrl>YgXGKjcLUDHaFWd.png</sourceUrl>
+    </object>
+    <object id="156" type="text" x="84609.32499675777" y="38660.75993472544" r="-5.754754543683245e-16" s="66.25200243418297" class="strong">
+      <height>81.5625</height>
+      <width>-273.64453125</width>
+      <p>
+        <text><![CDATA[Easily convert to]]></text>
+      </p>
+      <p>
+        <text><![CDATA[a Nextflow Process/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Workflow]]></text>
+      </p>
+    </object>
+    <object id="166" type="image" x="84249.88492088208" y="46350.89616680479" r="-5.754754543683245e-16" s="11.250996327175171">
+      <source w="1560" h="922">3937488389<url>3937488389.png</url></source>
+      <resource>
+        <id>3937488389</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/5/4/055d25e45e2b09d42acc8b1ac7ba30f8976c4.png</url>
+      </resource>
+      <sourceUrl>EstimateCountsProcess-3.png</sourceUrl>
+    </object>
+    <object id="171" type="persistentgroup" x="84574.09092884057" y="43748.26296704449" r="-5.754754543683245e-16" s="83.56050946593248">
+      <m o="156"/>
+      <m o="166"/>
+    </object>
+    <object id="178" type="image" x="125531.60685478072" y="45839.516155441706" r="-5.754754543683245e-16" s="11.635931764284916">
+      <source w="1338" h="634">3961804100<url>3961804100.png</url></source>
+      <resource>
+        <id>3961804100</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/d/6/76b07b2478300944a7ab2a8a8693d4f4e1c05.png</url>
+      </resource>
+      <sourceUrl>CreateDockerfileIntention.png</sourceUrl>
+    </object>
+    <object id="170" type="text" x="125132.7521216101" y="40011.51216247067" r="-5.754754543683243e-16" s="47.32285888155926" class="strong">
+      <height>54.375</height>
+      <width>288.046875</width>
+      <p>
+        <text><![CDATA[Build a Frozen Docker Image]]></text>
+      </p>
+    </object>
+    <object id="179" type="persistentgroup" x="125531.60685478072" y="44126.51423067415" r="-5.754754543683244e-16" s="45.428144220001094">
+      <m o="178"/>
+      <m o="170"/>
+    </object>
+    <object id="181" type="image" x="112401.2" y="62005.7" r="-5.754754543683245e-16" s="23.827461607847557">
+      <source w="663" h="349">3970882547<url>3970882547.jpg</url></source>
+      <resource>
+        <id>3970882547</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/d/f/d68c1ebb9e71a3cc5d50de7c87b8532669375.jpg</url>
+      </resource>
+      <sourceUrl>WCMC-photo.jpg</sourceUrl>
+    </object>
+    <object id="182" type="video" x="111853.35" y="50018.5" r="-5.754754543683245e-16" s="12.55949365197197" onFocus="start" onLeave="pause">
+      <source>3970882970<url>3970882970.mp4</url></source>
+      <resource>
+        <id>3970882970</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/4/a/4833c71c0797c09a25d7bc318dd4ce094fe1f.mp4</url>
+      </resource>
+    </object>
+    <object id="172" type="text" x="105041.8705704326" y="46347.33577491624" r="-5.754754543683245e-16" s="37.39752818795568" class="strong">
+      <height>271.875</height>
+      <width>490.989860993455</width>
+      <p>
+        <text><![CDATA[Enjoy the workbench's interactive features]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Auto-completion for: ]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[syntax]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[resources]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[files/dirs inside an image ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Typesystem]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Seamless execution]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="173" type="text" x="49549.77890946863" y="73907.92830187055" r="-5.754754543683245e-16" s="207.6402980367914" class="body">
+      <height>81.5625</height>
+      <width>254.62801725815035</width>
+      <p>
+        <text><![CDATA[Reproducibility does not have to be hard]]></text>
+      </p>
+    </object>
+    <object id="175" type="text" x="49923.91007503868" y="100760.77478115432" r="-5.754754543683245e-16" s="156.0032291786562" class="body">
+      <height>108.75</height>
+      <width>343.78693789617256</width>
+      <p>
+        <text><![CDATA[LWT helps us hide most technical details from the end-user and create simple GUIs]]></text>
+      </p>
+    </object>
+    <object id="176" type="text" x="-2995.3821168955033" y="98590.8271448924" r="1.1642617707745817e-31" s="80.54690329660122" class="body">
+      <height>54.375</height>
+      <width>119.69670850606153</width>
+      <p>
+        <text><![CDATA[or zoom in here]]></text>
+      </p>
+    </object>
+    <object id="177" type="shape" x="-5785.498302907575" y="102778.48802417312" r="-65.13736961443517" s="59.90577088162764" class="line3">
+      <geom type="arrow">
+        <sp>30.000000000000004 0</sp>
+        <ep>-30 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="168" type="button" x="47429.83046845796" y="86341.95580930969" r="-2.0288729784585773e-31" s="19.11856888773126" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>3124.9299593341884</w>
+        <h>2585.3950283369613</h>
+      </size>
+    </object>
+    <object id="169" type="button" x="104013.94802176605" y="62005.00888361064" r="-5.754754543683245e-16" s="27.88832899115692" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1307.2790660874607</w>
+        <h>334.5410275361962</h>
+      </size>
+    </object>
+    <object id="180" type="text" x="94659.08567092977" y="62425.902730325775" r="-5.754754543683245e-16" s="48.209618241761504" class="body">
+      <height>135.9375</height>
+      <width>266.245665625186</width>
+      <p>
+        <text><![CDATA[Our lab is recruiting:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[post-doc  ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[research assistant level]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="22"/>
+    </s>
+    <s>
+      <eagle o="360"/>
+    </s>
+    <s>
+      <eagle o="21"/>
+    </s>
+    <s>
+      <buildin o="23"/>
+    </s>
+    <s>
+      <buildin o="20"/>
+    </s>
+    <s>
+      <eagle o="106"/>
+    </s>
+    <s>
+      <eagle o="108"/>
+    </s>
+    <s>
+      <eagle o="128"/>
+    </s>
+    <s>
+      <eagle o="265"/>
+    </s>
+    <s>
+      <eagle o="1"/>
+    </s>
+    <s>
+      <eagle o="6"/>
+    </s>
+    <s>
+      <eagle o="8"/>
+    </s>
+    <s>
+      <eagle o="14"/>
+    </s>
+    <s>
+      <eagle o="40"/>
+    </s>
+    <s>
+      <eagle o="49"/>
+    </s>
+    <s>
+      <eagle o="58"/>
+    </s>
+    <s>
+      <eagle o="52"/>
+    </s>
+    <s>
+      <eagle o="59"/>
+    </s>
+    <s>
+      <eagle o="60"/>
+    </s>
+    <s>
+      <eagle o="5"/>
+    </s>
+    <s>
+      <eagle o="12"/>
+    </s>
+    <s>
+      <eagle o="55"/>
+    </s>
+    <s>
+      <eagle o="81"/>
+    </s>
+    <s>
+      <eagle o="72"/>
+    </s>
+    <s>
+      <eagle o="84"/>
+    </s>
+    <s>
+      <eagle o="87"/>
+    </s>
+    <s>
+      <eagle o="90"/>
+    </s>
+    <s>
+      <eagle o="95"/>
+    </s>
+    <s>
+      <eagle o="98"/>
+    </s>
+    <s>
+      <eagle o="100"/>
+    </s>
+    <s>
+      <eagle o="144"/>
+    </s>
+    <s>
+      <eagle o="114"/>
+    </s>
+    <s>
+      <eagle o="115"/>
+    </s>
+    <s>
+      <eagle o="116"/>
+    </s>
+    <s>
+      <eagle o="120"/>
+    </s>
+    <s>
+      <eagle o="122"/>
+    </s>
+    <s>
+      <eagle o="24"/>
+    </s>
+    <s>
+      <eagle o="129"/>
+    </s>
+    <s>
+      <eagle o="162"/>
+    </s>
+    <s>
+      <eagle o="111"/>
+    </s>
+    <s>
+      <eagle o="134"/>
+    </s>
+    <s>
+      <eagle o="135"/>
+    </s>
+    <s>
+      <eagle o="153"/>
+    </s>
+    <s>
+      <eagle o="154"/>
+    </s>
+    <s>
+      <eagle o="9"/>
+    </s>
+    <s>
+      <eagle o="151"/>
+    </s>
+    <s>
+      <eagle o="171"/>
+    </s>
+    <s>
+      <eagle o="172"/>
+    </s>
+    <s>
+      <eagle o="182"/>
+    </s>
+    <s>
+      <eagle o="179"/>
+    </s>
+    <s>
+      <eagle o="173"/>
+    </s>
+    <s>
+      <eagle o="168"/>
+    </s>
+    <s>
+      <eagle o="169"/>
+    </s>
+    <s>
+      <eagle o="349"/>
+    </s>
+    <s>
+      <eagle o="359"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('LiberationMonoPR-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+.line1
+{
+	borderColor: #b2b2b2;
+	color: #e3f251;
+	gradEndColor: #b2b2b2;
+	gradStartColor: #b2b2b2;
+}
+
+.line2
+{
+	borderColor: #595959;
+	color: #595959;
+	gradEndColor: #595959;
+	gradStartColor: #595959;
+}
+
+.line3
+{
+	color: #fec06c;
+	gradEndColor: #fec06c;
+	gradStartColor: #fec06c;
+}
+
+.line4
+{
+	borderColor: #333;
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.line5
+{
+	color: #191919;
+	gradEndColor: #191919;
+	gradStartColor: #191919;
+}
+
+.poly1
+{
+	borderAlpha: 1;
+	borderColor: #b2b2b2;
+	borderThickness: 9;
+	color: #8c8c8c;
+	gradEndAlpha: 1;
+	gradEndColor: #b2b2b2;
+	gradStartAlpha: 1;
+	gradStartColor: #b2b2b2;
+}
+
+.poly2
+{
+	borderColor: #595959;
+	color: #8c8c8c;
+	gradEndColor: #595959;
+	gradStartColor: #595959;
+}
+
+.poly3
+{
+	borderAlpha: 1;
+	borderColor: #fec06c;
+	borderThickness: 9;
+	color: #8c8c8c;
+	gradEndColor: #fec06c;
+	gradStartColor: #fec06c;
+}
+
+.poly4
+{
+	color: #8c8c8c;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly5
+{
+	borderAlpha: 1;
+	borderColor: #191919;
+	borderThickness: 9;
+	color: #8c8c8c;
+	gradEndColor: #191919;
+	gradStartColor: #191919;
+}
+
+Background
+{
+	gradEnd: #8c8c8c;
+	gradStart: #8c8c8c;
+}
+
+ZArrow
+{
+	gradEndColor: #f000b4;
+	gradStartColor: #f000b4;
+	lockTintAlpha: 0;
+	thickness: 7;
+}
+
+ZCircle
+{
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #ff9286;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #333;
+	gradStartAlpha: 1;
+	gradStartColor: #333;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #404040;
+	gradStartAlpha: 1;
+	gradStartColor: #404040;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderColor: #fff;
+	borderThickness: 20;
+	gradEndColor: #b2b2b2;
+	gradStartColor: #b2b2b2;
+	padding: 1.03;
+	radius: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #f6f6f6;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #191919;
+	background-padding: 5;
+}
+
+ZLabel.head
+{
+	color: #f6f6f6;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #404040;
+	background-padding: 5;
+}
+
+ZLabel.strong
+{
+	color: #f6f6f6;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #191919;
+	background-padding: 5;
+}
+
+ZLine
+{
+	color: #f000b4;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	color: #318bff;
+	gradEndAlpha: 0.5;
+	gradStartAlpha: 0.5;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-6b67eae</hash>
+<sync><oid>hnfgwfhyzxgm</oid><title>metar-and-the-nextflowworkbench</title><hash>-6b67eae</hash></sync><config>SM9WuJUWcI+eIIh4ccLMnxtKkEa4YYZLIXKMt4ib9hUGEIBHU9/0Rdyo9qVB2xlhXd4biZyldRmyCvIGl9gfEQ/XyXq1qAeLfzMjc81wHQTOdMNt35lPpf0bQP0KsIyhh6AdqTFMZr7JsV3O0mQEOfCizlSTD87OgqA+bon+P2m8QATv7SVssvpmGPD2dHRNQ47NoWNZ4PXVUP8q4NpGNyBgG6nELZl9IIeqcXXk+gKo0G+jpGtFAE3haEKKXdKwVm5O72R+Ym7ayLhT1iGyxsjHMd+pSjckSDtQQCtK8dCDhDJhOZVJfBSpLQtxOds/jwXioD+nzJSN8DcvRAz7tA==</config></zuiprezi>
