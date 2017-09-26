@@ -19,13 +19,13 @@ Throughout the course of the event we would like to identify where common goals 
 
 Join us for the first exclusive event that brings together discussions on dockers within Bioinformatics!
 
-**Group Webpage:**http://goo.gl/LuNWKa
+**Group Webpage:** http://goo.gl/LuNWKa
 
-**Flyer:**https://goo.gl/ntC7aK
+**Flyer:** https://goo.gl/ntC7aK
 
-**Getting There:**http://wellcomecollection.org/visit-us/getting-here
+**Getting There:** http://wellcomecollection.org/visit-us/getting-here
 
-**Latest Conference Agenda:**https://goo.gl/LpH07s
+**Latest Conference Agenda:** https://goo.gl/LpH07s
 
 ###**[Attendee List](https://github.com/KHP-Informatics/bioindocker15/blob/master/Attendess-08.11.15.am.csv)**
 
